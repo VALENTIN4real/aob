@@ -1,0 +1,4 @@
+name = 'Firestorm'
+version = '1.0'
+author = 'Unnamed'
+description = ('Firestorm')

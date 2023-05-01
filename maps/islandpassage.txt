@@ -1,0 +1,6 @@
+extensions = { 'boundary_damage' : {'left' : 1,
+                                    'right' : 510,
+                                    'top' : 158,
+                                    'bottom' : 355,
+                                    'damage': 5 },
+               'babel' : True }

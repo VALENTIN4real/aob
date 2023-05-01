@@ -1,0 +1,4 @@
+name = 'Beaulieu Abbey Zombie'
+version = '1.0'
+author = 'Serious_Sim, ei8htx'
+description = ('Beaulieu Abbey Zombie')
