@@ -4,7 +4,8 @@ author = 'Danke'
 description = ""
 extensions = { 
    'babel' : True, 
-   'heavens_color' : (255, 255, 255, 255)
+   'heavens_color' : (255, 255, 255, 255),
+   'water_damage' : 100
 }
 
 fog = (0,0,0)

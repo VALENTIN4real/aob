@@ -1,5 +1,5 @@
 # server name - displayed on master server
-name = "[EU] Low Ping Babel by Bash"
+name = "Europe Low Ping - Bash"
 
 # messages sent when user joins server
 motd = [
@@ -69,6 +69,7 @@ network_interface = ""
 # note: scripts are loaded in order entered here. Some scripts may depend on
 # other scripts being loaded before them.
 scripts = [
+ "piqueserver.scripts.ups",
  "piqueserver.scripts.rollback",
  "piqueserver.scripts.protect",
  "piqueserver.scripts.map_extensions",
@@ -81,7 +82,8 @@ scripts = [
  "piqueserver.scripts.blockinfo",
  "piqueserver.scripts.squad",
  "piqueserver.scripts.afk",
- "piqueserver.scripts.babel_script"
+ "piqueserver.scripts.babel_script",
+ "piqueserver.scripts.infiblocks"
 ]
 
 # number of /login attempts allowed before players are auto-kicked (default: 1)
@@ -295,7 +297,7 @@ profile = false
 [status_server]
 enabled = true
 port = 32886
-logging = true
+logging = false
 
 
 # settings for the irc chatbot that can report server events and respond to commands

@@ -1,0 +1,820 @@
+2023-05-04T00:03:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:03:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:08:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:08:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:13:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:13:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:18:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:18:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:23:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:23:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:28:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:28:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:33:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:33:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:34:12+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-04T00:38:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:38:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:39:56+0200 [piqueserver.server#info] advancing to map 'islandpassage' (Time up!) in 10 seconds
+2023-05-04T00:40:06+0200 [piqueserver.map#info] Loading map 'islandpassage'...
+2023-05-04T00:40:07+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-04T00:43:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:43:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:48:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:48:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:53:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:53:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T00:58:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T00:58:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:03:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:03:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:08:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:08:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:13:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:13:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:18:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:18:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:23:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:23:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:28:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:28:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:33:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:33:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:38:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:38:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:43:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:43:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:48:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:48:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:53:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:53:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T01:58:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T01:58:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:03:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:03:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:08:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:08:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:13:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:13:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:18:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:18:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:23:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:23:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:28:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:28:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:33:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:33:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:38:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:38:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:40:07+0200 [piqueserver.server#info] advancing to map 'jungle' (Time up!) in 10 seconds
+2023-05-04T02:40:17+0200 [piqueserver.map#info] Loading map 'Jungle'...
+2023-05-04T02:40:17+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-04T02:43:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:43:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:48:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:48:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:53:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:53:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T02:58:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T02:58:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:03:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:03:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:08:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:08:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:13:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:13:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:18:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:18:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:23:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:23:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:28:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:28:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:33:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:33:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:38:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:38:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:43:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:43:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:48:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:48:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:53:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:53:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T03:58:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T03:58:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:03:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:03:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:08:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:08:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:13:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:13:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:18:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:18:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:23:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:23:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:28:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:28:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:33:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:33:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:38:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:38:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:40:17+0200 [piqueserver.server#info] advancing to map 'leaves' (Time up!) in 10 seconds
+2023-05-04T04:40:27+0200 [piqueserver.map#info] Loading map 'Leaves'...
+2023-05-04T04:40:27+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-04T04:43:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:43:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:48:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:48:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:53:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:53:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T04:58:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T04:58:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:03:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:03:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:08:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:08:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:13:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:13:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:18:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:18:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:23:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:23:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:28:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:28:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:33:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:33:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:38:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:38:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:43:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:43:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:48:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:48:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:53:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:53:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T05:58:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T05:58:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:03:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:03:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:08:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:08:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:13:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:13:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:18:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:18:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:23:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:23:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:28:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:28:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:33:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:33:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:34:12+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-04T06:38:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:38:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:40:27+0200 [piqueserver.server#info] advancing to map 'leaves2' (Time up!) in 10 seconds
+2023-05-04T06:40:37+0200 [piqueserver.map#info] Loading map 'Leaves 2'...
+2023-05-04T06:40:37+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-04T06:43:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:43:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:48:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:48:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:53:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:53:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T06:58:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T06:58:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:03:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:03:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:08:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:08:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:13:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:13:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:18:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:18:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:23:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:23:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:28:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:28:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:33:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:33:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:38:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:38:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:43:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:43:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:48:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:48:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:53:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:53:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T07:58:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T07:58:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:03:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:03:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:08:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:08:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:13:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:13:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:18:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:18:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:23:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:23:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:28:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:28:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:33:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:33:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:38:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:38:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:40:37+0200 [piqueserver.server#info] advancing to map 'lime' (Time up!) in 10 seconds
+2023-05-04T08:40:47+0200 [piqueserver.map#info] Loading map 'Lime'...
+2023-05-04T08:40:48+0200 [piqueserver.map#info] Map loaded successfully. (took 0.27s)
+2023-05-04T08:43:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:43:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:48:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:48:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:53:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:53:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T08:58:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T08:58:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:03:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:03:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:08:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:08:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:13:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:13:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:18:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:18:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:23:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:23:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:28:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:28:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:33:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:33:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:38:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:38:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:43:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:43:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:48:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:48:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:53:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:53:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T09:58:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T09:58:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:03:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:03:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:08:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:08:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:13:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:13:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:18:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:18:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:23:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:23:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:27:57+0200 [piqueserver.player#info] Lame Duck (IP 194.223.55.55, ID 0) entered the game!
+2023-05-04T10:28:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:28:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:29:41+0200 [piqueserver.commands#info] <Lame Duck> /kill 
+2023-05-04T10:29:43+0200 [piqueserver.player#info] Lame Duck disconnected!
+2023-05-04T10:33:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:33:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:38:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:38:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:40:48+0200 [piqueserver.server#info] advancing to map 'mazemountain' (Time up!) in 10 seconds
+2023-05-04T10:40:58+0200 [piqueserver.map#info] Loading map 'MazeMountain'...
+2023-05-04T10:40:58+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-04T10:43:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:43:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:48:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:48:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:53:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:53:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T10:58:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T10:58:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:03:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:03:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:08:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:08:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:13:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:14:14+0200 [piqueserver.bansubscribe#error] Failed to fetch bans from http://www.blacklist.spadille.net/subscribe.json: Cannot connect to host www.blacklist.spadille.net:80 ssl:default [Temporary failure in name resolution]
+2023-05-04T11:14:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:19:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:19:21+0200 [piqueserver.bansubscribe#error] Failed to fetch bans from http://www.blacklist.spadille.net/subscribe.json: Cannot connect to host www.blacklist.spadille.net:80 ssl:default [No address associated with hostname]
+2023-05-04T11:19:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:24:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:24:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:29:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:29:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:34:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:34:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:39:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:39:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:44:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:44:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:49:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:49:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:54:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:54:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T11:59:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T11:59:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:04:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:04:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:09:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:09:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:14:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:14:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:19:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:19:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:24:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:24:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:29:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:29:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:33:12+0200 [piqueserver.player#info] wiktor (IP 89.64.54.84, ID 0) entered the game!
+2023-05-04T12:34:05+0200 [piqueserver.player#info] wiktor disconnected!
+2023-05-04T12:34:12+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-04T12:34:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:34:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:39:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:39:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:40:58+0200 [piqueserver.server#info] advancing to map 'mirage' (Time up!) in 10 seconds
+2023-05-04T12:41:08+0200 [piqueserver.map#info] Loading map 'Mirage'...
+2023-05-04T12:41:08+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-04T12:44:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:44:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:49:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:49:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:54:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:54:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T12:59:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T12:59:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:04:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:04:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:09:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:09:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:14:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:14:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:19:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:19:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:24:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:24:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:29:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:29:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:34:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:34:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:39:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:39:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:44:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:44:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:49:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:49:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:54:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:54:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T13:59:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T13:59:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:04:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:04:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:09:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:09:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:10:09+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/: 200 0.60ms -- Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+2023-05-04T14:10:10+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/overview: 200 477.15ms -- Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+2023-05-04T14:10:15+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/json: 200 0.58ms -- Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+2023-05-04T14:10:20+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/json: 200 0.57ms -- Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+2023-05-04T14:10:20+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/overview?timestamp=1683202220525: 200 208.96ms -- Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+2023-05-04T14:10:25+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/json: 200 0.48ms -- Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+2023-05-04T14:14:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:14:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:19:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:19:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:24:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:24:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:29:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:29:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:34:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:34:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:39:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:39:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:41:09+0200 [piqueserver.server#info] advancing to map 'oldfort' (Time up!) in 10 seconds
+2023-05-04T14:41:19+0200 [piqueserver.map#info] Loading map 'Old Fort'...
+2023-05-04T14:41:19+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-04T14:44:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:44:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:49:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:49:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:54:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:54:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T14:59:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T14:59:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:04:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:04:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:09:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:09:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:14:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:14:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:19:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:19:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:24:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:24:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:29:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:29:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:34:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:34:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:39:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:39:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:44:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:44:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:49:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:49:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:54:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:54:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T15:59:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T15:59:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:04:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:04:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:09:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:09:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:14:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:14:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:19:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:19:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:24:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:24:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:29:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:29:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:34:44+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/: 200 0.48ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:34:44+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/overview: 200 240.21ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:34:46+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/: 200 0.54ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:34:46+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/overview: 200 0.59ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:34:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:34:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:34:51+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/json: 200 0.52ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:34:56+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/overview?timestamp=1683210896045: 200 0.67ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:34:56+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/json: 200 0.47ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:36:05+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/json: 200 0.52ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:36:05+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/overview?timestamp=1683210965542: 200 225.89ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:36:07+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/overview?timestamp=1683210965542: 200 36.85ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:36:10+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://mairs.fr:32886/json: 200 0.51ms -- Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+2023-05-04T16:39:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:39:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:41:19+0200 [piqueserver.server#info] advancing to map 'padesert' (Time up!) in 10 seconds
+2023-05-04T16:41:29+0200 [piqueserver.map#info] Loading map 'PAdesert'...
+2023-05-04T16:41:29+0200 [piqueserver.map#info] Map loaded successfully. (took 0.28s)
+2023-05-04T16:44:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T16:44:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T16:47:41+0200 [-] Received SIGTERM, shutting down.
+2023-05-04T17:57:02+0200 [piqueserver.server#info] piqueserver started on Thu May  4 17:57:02 2023
+2023-05-04T17:57:02+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-05-04T17:57:02+0200 [piqueserver.server#warn] The following config items are not used:
+2023-05-04T17:57:02+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-05-04T17:57:02+0200 [stdout#info]              'load_saved_map': True,
+2023-05-04T17:57:02+0200 [stdout#info]              'save_at_shutdown': False},
+2023-05-04T17:57:02+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-05-04T17:57:02+0200 [piqueserver.server#info] Started server...
+2023-05-04T17:57:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T17:57:02+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-05-04T17:57:02+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-04T17:57:02+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-05-04T17:57:02+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-04T17:57:03+0200 [piqueserver.server#info] Master connection established.
+2023-05-04T17:57:03+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-05-04T17:57:03+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-05-04T17:57:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T17:57:54+0200 [-] Received SIGTERM, shutting down.
+2023-05-04T18:00:33+0200 [piqueserver.server#info] piqueserver started on Thu May  4 18:00:33 2023
+2023-05-04T18:00:33+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-05-04T18:00:33+0200 [piqueserver.server#warn] The following config items are not used:
+2023-05-04T18:00:33+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-05-04T18:00:33+0200 [stdout#info]              'load_saved_map': True,
+2023-05-04T18:00:33+0200 [stdout#info]              'save_at_shutdown': False},
+2023-05-04T18:00:33+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-05-04T18:00:33+0200 [piqueserver.server#info] Started server...
+2023-05-04T18:00:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:00:33+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-05-04T18:00:33+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-04T18:00:33+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-05-04T18:00:34+0200 [piqueserver.map#info] Map loaded successfully. (took 0.18s)
+2023-05-04T18:00:34+0200 [piqueserver.server#info] Master connection established.
+2023-05-04T18:00:34+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-05-04T18:00:34+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-05-04T18:00:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:05:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:05:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:10:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:10:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:15:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:15:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:16:30+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 0) entered the game!
+2023-05-04T18:19:00+0200 [piqueserver.player#info] LAZY C4 CHARGE disconnected!
+2023-05-04T18:20:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:20:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:25:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:25:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:30:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:30:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:35:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:35:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:40:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:40:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:45:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:45:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:50:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:50:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T18:51:44+0200 [stderr#error] Error handling request
+2023-05-04T18:51:44+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:44+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:44+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:44+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:44+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:44+0200 [stderr#error] Error handling request
+2023-05-04T18:51:44+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:44+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:44+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:44+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:44+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:44+0200 [stderr#error] Error handling request
+2023-05-04T18:51:44+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:44+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:44+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:44+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:44+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:44+0200 [stderr#error] Error handling request
+2023-05-04T18:51:44+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:44+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:44+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:44+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:44+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:49+0200 [stderr#error] Error handling request
+2023-05-04T18:51:49+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:49+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:49+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:49+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:49+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:51:50+0200 [stderr#error] Error handling request
+2023-05-04T18:51:50+0200 [stderr#error] Traceback (most recent call last):
+2023-05-04T18:51:50+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/aiohttp-3.7.4.post0-py3.8-linux-x86_64.egg/aiohttp/web_protocol.py", line 314, in data_received
+2023-05-04T18:51:50+0200 [stderr#error]     messages, upgraded, tail = self._request_parser.feed_data(data)
+2023-05-04T18:51:50+0200 [stderr#error]   File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+2023-05-04T18:51:50+0200 [stderr#error] aiohttp.http_exceptions.BadStatusLine: 400, message="Bad status line 'invalid HTTP method'"
+2023-05-04T18:55:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T18:55:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:00:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:00:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:05:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:05:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:10:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:10:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:15:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:15:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:20:13+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-04T19:20:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:20:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:24:47+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-04T19:25:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:25:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:30:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:30:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:35:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:35:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:40:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:40:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:45:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:45:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:50:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:50:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:53:29+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-04T19:54:33+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-04T19:55:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T19:55:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T19:57:18+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-04T20:00:34+0200 [piqueserver.server#info] advancing to map 'bigasssideforts' (Time up!) in 10 seconds
+2023-05-04T20:00:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:00:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:00:44+0200 [piqueserver.map#info] Loading map 'BigAssSideForts'...
+2023-05-04T20:00:44+0200 [piqueserver.map#info] Map loaded successfully. (took 0.28s)
+2023-05-04T20:00:55+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-04T20:05:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:05:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:10:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:10:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:15:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:15:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:20:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:20:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:25:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:25:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:30:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:30:44+0200 [piqueserver.player#info] Bash was kicked: Inactive for 30 minutes
+2023-05-04T20:30:44+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-04T20:30:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:33:25+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-04T20:35:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:35:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:40:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:40:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:45:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:45:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:50:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:50:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T20:55:18+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-04T20:55:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T20:55:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:00:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:00:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:05:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:05:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:10:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:10:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:15:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:15:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:20:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:20:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:25:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:25:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:30:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:30:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:35:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:35:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:40:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:40:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:45:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:45:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:50:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:50:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T21:55:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T21:55:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:00:44+0200 [piqueserver.server#info] advancing to map 'alexandria' (Time up!) in 10 seconds
+2023-05-04T22:00:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:00:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:00:54+0200 [piqueserver.map#info] Loading map 'Alexandria'...
+2023-05-04T22:00:54+0200 [piqueserver.map#info] Map loaded successfully. (took 0.30s)
+2023-05-04T22:05:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:05:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:10:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:10:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:15:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:15:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:20:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:20:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:25:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:25:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:30:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:30:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:35:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:35:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:40:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:40:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:45:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:45:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:50:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:50:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T22:55:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T22:55:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:00:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:00:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:05:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:05:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:10:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:10:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:15:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:15:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:20:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:20:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:25:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:25:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:30:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:30:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:35:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:35:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:40:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:40:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:45:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:45:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:50:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:50:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-04T23:55:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-04T23:55:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
