@@ -1,0 +1,108 @@
+2023-09-27T21:58:35+0200 [piqueserver.server#info] piqueserver started on Wed Sep 27 21:58:35 2023
+2023-09-27T21:58:35+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-09-27T21:58:35+0200 [piqueserver.server#warn] The following config items are not used:
+2023-09-27T21:58:35+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-09-27T21:58:35+0200 [stdout#info]              'load_saved_map': True,
+2023-09-27T21:58:35+0200 [stdout#info]              'save_at_shutdown': False},
+2023-09-27T21:58:35+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-09-27T21:58:35+0200 [piqueserver.server#info] Started server...
+2023-09-27T21:58:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T21:58:35+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-09-27T21:58:35+0200 [piqueserver.server#info] starting ban vacuum with 5 bans
+2023-09-27T21:58:35+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-09-27T21:58:36+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-09-27T21:58:36+0200 [piqueserver.server#info] ############################################################
+2023-09-27T21:58:36+0200 [piqueserver.server#info] New release available: v1.1.1-post2 (Jul 03 2023): https://git.io/fjIDk
+2023-09-27T21:58:36+0200 [piqueserver.server#info] ############################################################
+2023-09-27T21:58:36+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-09-27T21:58:36+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-09-27T21:58:36+0200 [piqueserver.server#info] Master connection established.
+2023-09-27T21:58:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T21:58:41+0200 [-] Received SIGINT, shutting down.
+2023-09-27T21:58:59+0200 [piqueserver.server#info] piqueserver started on Wed Sep 27 21:58:59 2023
+2023-09-27T21:59:00+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-09-27T21:59:00+0200 [piqueserver.server#warn] The following config items are not used:
+2023-09-27T21:59:00+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-09-27T21:59:00+0200 [stdout#info]              'load_saved_map': True,
+2023-09-27T21:59:00+0200 [stdout#info]              'save_at_shutdown': False},
+2023-09-27T21:59:00+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-09-27T21:59:00+0200 [piqueserver.server#info] Started server...
+2023-09-27T21:59:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T21:59:00+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-09-27T21:59:00+0200 [piqueserver.server#info] starting ban vacuum with 5 bans
+2023-09-27T21:59:00+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-09-27T21:59:00+0200 [piqueserver.map#info] Map loaded successfully. (took 0.18s)
+2023-09-27T21:59:00+0200 [piqueserver.server#info] Master connection established.
+2023-09-27T21:59:00+0200 [piqueserver.server#info] ############################################################
+2023-09-27T21:59:00+0200 [piqueserver.server#info] New release available: v1.1.1-post2 (Jul 03 2023): https://git.io/fjIDk
+2023-09-27T21:59:00+0200 [piqueserver.server#info] ############################################################
+2023-09-27T21:59:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T21:59:00+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-09-27T21:59:00+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-09-27T22:04:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:04:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:05:23+0200 [-] Received SIGTERM, shutting down.
+2023-09-27T22:05:28+0200 [piqueserver.server#info] piqueserver started on Wed Sep 27 22:05:28 2023
+2023-09-27T22:05:28+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-09-27T22:05:28+0200 [piqueserver.server#warn] The following config items are not used:
+2023-09-27T22:05:28+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-09-27T22:05:28+0200 [stdout#info]              'load_saved_map': True,
+2023-09-27T22:05:28+0200 [stdout#info]              'save_at_shutdown': False},
+2023-09-27T22:05:28+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-09-27T22:05:28+0200 [piqueserver.server#info] Started server...
+2023-09-27T22:05:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:05:28+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-09-27T22:05:28+0200 [piqueserver.server#info] starting ban vacuum with 5 bans
+2023-09-27T22:05:28+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-09-27T22:05:28+0200 [piqueserver.map#info] Map loaded successfully. (took 0.19s)
+2023-09-27T22:05:29+0200 [piqueserver.server#info] Master connection established.
+2023-09-27T22:05:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:05:29+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-09-27T22:05:29+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-09-27T22:05:29+0200 [piqueserver.server#info] ############################################################
+2023-09-27T22:05:29+0200 [piqueserver.server#info] New release available: v1.1.1-post2 (Jul 03 2023): https://git.io/fjIDk
+2023-09-27T22:05:29+0200 [piqueserver.server#info] ############################################################
+2023-09-27T22:10:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:10:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:15:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:15:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:20:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:20:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:25:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:25:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:30:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:30:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:35:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:35:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:40:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:40:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:45:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:45:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:50:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:50:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T22:55:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T22:55:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:00:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:00:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:05:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:05:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:10:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:10:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:15:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:15:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:20:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:20:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:25:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:25:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:30:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:30:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:35:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:35:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:40:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:40:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:45:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:45:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:50:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:50:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-09-27T23:55:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-09-27T23:55:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls

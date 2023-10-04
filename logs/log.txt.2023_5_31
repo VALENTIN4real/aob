@@ -1,0 +1,892 @@
+2023-05-31T00:04:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:04:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:09:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:09:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:14:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:14:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:19:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:19:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:24:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:24:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:29:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:29:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:34:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:34:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:39:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:39:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:44:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:44:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:49:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:49:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:54:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:54:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T00:59:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T00:59:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:02:18+0200 [piqueserver.server#info] advancing to map 'icecraft' (Time up!) in 10 seconds
+2023-05-31T01:02:28+0200 [piqueserver.map#info] Loading map 'Icecraft'...
+2023-05-31T01:02:28+0200 [piqueserver.map#info] Map loaded successfully. (took 0.25s)
+2023-05-31T01:04:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:04:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:09:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:09:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:14:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:14:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:19:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:19:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:23:59+0200 [piqueserver.server#info] starting ban vacuum with 5 bans
+2023-05-31T01:24:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:24:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:29:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:29:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:34:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:34:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:39:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:39:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:44:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:44:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:49:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:49:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:54:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:54:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T01:59:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T01:59:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:04:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:04:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:09:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:09:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:14:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:14:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:19:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:19:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:24:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:24:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:29:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:29:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:34:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:34:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:39:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:39:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:44:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:44:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:49:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:49:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:54:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:54:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T02:59:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T02:59:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:02:28+0200 [piqueserver.server#info] advancing to map 'islandpassage' (Time up!) in 10 seconds
+2023-05-31T03:02:38+0200 [piqueserver.map#info] Loading map 'islandpassage'...
+2023-05-31T03:02:38+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-31T03:04:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:04:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:09:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:09:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:14:14+0200 [piqueserver.player#info] TheyThem (IP 71.87.186.196, ID 30) entered the game!
+2023-05-31T03:14:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:14:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:19:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:19:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:24:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:24:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:29:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:29:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:34:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:34:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:39:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:39:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:44:16+0200 [piqueserver.player#info] TheyThem was kicked: Inactive for 30 minutes
+2023-05-31T03:44:16+0200 [piqueserver.player#info] TheyThem disconnected!
+2023-05-31T03:44:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:44:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:49:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:49:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:54:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:54:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T03:59:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T03:59:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:04:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:04:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:09:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:09:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:14:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:14:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:19:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:19:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:24:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:24:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:29:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:29:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:34:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:34:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:39:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:39:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:44:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:44:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:49:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:49:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:54:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:54:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T04:59:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T04:59:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:02:38+0200 [piqueserver.server#info] advancing to map 'jungle' (Time up!) in 10 seconds
+2023-05-31T05:02:48+0200 [piqueserver.map#info] Loading map 'Jungle'...
+2023-05-31T05:02:49+0200 [piqueserver.map#info] Map loaded successfully. (took 0.28s)
+2023-05-31T05:04:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:04:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:09:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:09:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:14:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:14:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:19:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:19:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:24:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:24:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:29:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:29:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:34:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:34:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:39:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:39:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:44:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:44:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:49:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:49:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:54:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:54:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T05:59:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T05:59:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:04:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:04:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:09:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:09:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:14:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:14:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:19:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:19:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:24:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:24:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:29:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:29:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:34:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:34:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:39:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:39:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:44:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:44:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:49:42+0200 [piqueserver.player#info] Enferjean (IP 186.158.200.129, ID 30) entered the game!
+2023-05-31T06:49:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:49:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:49:56+0200 [piqueserver.commands#info] <Enferjean> /ping  -> Your ping is 272 ms. Lower ping is better!
+2023-05-31T06:50:05+0200 [piqueserver.player#info] Enferjean disconnected!
+2023-05-31T06:54:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:54:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T06:59:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T06:59:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:02:13+0200 [piqueserver.player#info] Tuk (IP 46.211.108.171, ID 30) entered the game!
+2023-05-31T07:02:49+0200 [piqueserver.server#info] advancing to map 'leaves' (Time up!) in 10 seconds
+2023-05-31T07:02:59+0200 [piqueserver.map#info] Loading map 'Leaves'...
+2023-05-31T07:02:59+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-31T07:03:08+0200 [piqueserver.player#info] Tuk (IP 46.211.108.171, ID 30) entered the game!
+2023-05-31T07:04:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:04:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:09:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:09:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:14:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:14:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:19:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:19:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:23:59+0200 [piqueserver.server#info] starting ban vacuum with 5 bans
+2023-05-31T07:24:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:24:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:29:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:29:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:31:45+0200 [piqueserver.player#info] Tuk disconnected!
+2023-05-31T07:32:49+0200 [piqueserver.player#info] Tuk (IP 46.211.108.171, ID 30) entered the game!
+2023-05-31T07:34:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:34:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:36:22+0200 [piqueserver.player#info] George Soros (IP 190.111.243.148, ID 11) entered the game!
+2023-05-31T07:36:26+0200 [piqueserver.player#info] <George Soros> sup tuk
+2023-05-31T07:36:36+0200 [piqueserver.player#info] <Tuk> sup
+2023-05-31T07:36:56+0200 [piqueserver.player#info] <George Soros> where you from
+2023-05-31T07:37:07+0200 [piqueserver.player#info] <Tuk> Ukraine
+2023-05-31T07:37:44+0200 [piqueserver.player#info] <George Soros> i love ukraine
+2023-05-31T07:38:15+0200 [piqueserver.player#info] <George Soros> will you fight for your country?
+2023-05-31T07:38:27+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T07:38:48+0200 [piqueserver.player#info] <George Soros> bro
+2023-05-31T07:38:50+0200 [piqueserver.player#info] <George Soros> why not
+2023-05-31T07:38:57+0200 [piqueserver.player#info] <Tuk> i can't
+2023-05-31T07:39:30+0200 [piqueserver.player#info] <Tuk> I can't
+2023-05-31T07:39:36+0200 [piqueserver.player#info] <George Soros> choose a team bro, play with me
+2023-05-31T07:39:38+0200 [piqueserver.player#info] <Tuk> I can't
+2023-05-31T07:39:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:39:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:40:06+0200 [piqueserver.player#info] <George Soros> how old are you
+2023-05-31T07:40:12+0200 [piqueserver.player#info] <Tuk> 22
+2023-05-31T07:40:40+0200 [piqueserver.player#info] <George Soros> is this your server?
+2023-05-31T07:40:46+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T07:41:12+0200 [piqueserver.player#info] Deuce (IP 210.1.96.31, ID 6) entered the game!
+2023-05-31T07:41:16+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-31T07:41:23+0200 [piqueserver.player#info] <George Soros> how do you feel? i mean, its not an easy situation
+2023-05-31T07:41:54+0200 [piqueserver.player#info] <Tuk> I feel like i'm not controling my body
+2023-05-31T07:42:20+0200 [piqueserver.player#info] <George Soros> why?
+2023-05-31T07:43:01+0200 [piqueserver.player#info] <Tuk> couse I do tink that I can not do choices
+2023-05-31T07:44:03+0200 [piqueserver.player#info] <Tuk> sea color is better, don't you think?
+2023-05-31T07:44:21+0200 [piqueserver.player#info] <George Soros> yes
+2023-05-31T07:44:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:44:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:45:07+0200 [piqueserver.player#info] <George Soros> bro
+2023-05-31T07:45:39+0200 [piqueserver.player#info] <George Soros> where you live is under russian or ukrainian administration?
+2023-05-31T07:46:16+0200 [piqueserver.player#info] <Tuk> ukrainian, but I feel like I live under nothing, or a couple persons
+2023-05-31T07:46:52+0200 [piqueserver.player#info] <George Soros> do you live in a town or a city?
+2023-05-31T07:47:01+0200 [piqueserver.player#info] <Tuk> town
+2023-05-31T07:47:36+0200 [piqueserver.player#info] <George Soros> you know
+2023-05-31T07:47:46+0200 [piqueserver.player#info] <George Soros> we are near of the third world war
+2023-05-31T07:47:59+0200 [piqueserver.player#info] <George Soros> china will invade taiwan in 2027
+2023-05-31T07:48:11+0200 [piqueserver.player#info] <George Soros> and the thing will no be the same again
+2023-05-31T07:48:37+0200 [piqueserver.player#info] <George Soros> the world will change forever
+2023-05-31T07:49:23+0200 [piqueserver.player#info] <George Soros> do you know the island of Taiwan?
+2023-05-31T07:49:31+0200 [piqueserver.player#info] <Tuk> Yes
+2023-05-31T07:49:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:49:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:50:01+0200 [piqueserver.player#info] <George Soros> do you have dreams? tuk
+2023-05-31T07:50:10+0200 [piqueserver.player#info] <Tuk> Yes
+2023-05-31T07:50:21+0200 [piqueserver.player#info] <George Soros> can i know 
+2023-05-31T07:50:42+0200 [piqueserver.player#info] <Tuk> eternity calmnes
+2023-05-31T07:52:08+0200 [piqueserver.player#info] <George Soros> Do you know how to get eternal calm?
+2023-05-31T07:52:22+0200 [piqueserver.player#info] <Tuk> Yes
+2023-05-31T07:52:34+0200 [piqueserver.player#info] <George Soros> how
+2023-05-31T07:52:52+0200 [piqueserver.player#info] <Tuk> Let body do
+2023-05-31T07:53:35+0200 [piqueserver.player#info] <George Soros> I don't understand what do you mean by "let the body do it"?
+2023-05-31T07:53:58+0200 [piqueserver.player#info] <Tuk> do not making choices
+2023-05-31T07:54:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:54:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T07:54:49+0200 [piqueserver.player#info] <George Soros> You can't go your whole life without making decisions, at some point you have to make important decisions
+2023-05-31T07:54:57+0200 [piqueserver.player#info] <George Soros> important choices
+2023-05-31T07:56:08+0200 [piqueserver.player#info] <George Soros> If you don't make choices sooner or later someone will kill you
+2023-05-31T07:56:22+0200 [piqueserver.player#info] <Tuk> I dreamed 'not to making disi ons' and here I am
+2023-05-31T07:57:01+0200 [piqueserver.player#info] <George Soros> bro
+2023-05-31T07:57:25+0200 [piqueserver.player#info] <George Soros> do you work? do you study?
+2023-05-31T07:57:38+0200 [piqueserver.player#info] <Tuk> work and study
+2023-05-31T07:57:55+0200 [piqueserver.player#info] <George Soros> that is good
+2023-05-31T07:58:07+0200 [piqueserver.player#info] <George Soros> do you have a girlfriend?
+2023-05-31T07:58:12+0200 [piqueserver.player#info] <Tuk> yes
+2023-05-31T07:58:22+0200 [piqueserver.player#info] <George Soros> that is good too
+2023-05-31T07:59:19+0200 [piqueserver.player#info] <George Soros> to protect your girlfriend you must make important choices or else someone could hurt her
+2023-05-31T07:59:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T07:59:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:00:13+0200 [piqueserver.player#info] <Tuk> I don't think that someone can hurt her already, after I dreamed so
+2023-05-31T08:00:36+0200 [piqueserver.player#info] <George Soros> the world is full of evil people
+2023-05-31T08:00:54+0200 [piqueserver.player#info] <George Soros> russian soldiers
+2023-05-31T08:01:47+0200 [piqueserver.player#info] <George Soros> Russian soldiers raped many women during the invasion of Germany in the World War 2
+2023-05-31T08:02:30+0200 [piqueserver.player#info] <George Soros> are you virgin?
+2023-05-31T08:02:37+0200 [piqueserver.player#info] <Tuk> yes
+2023-05-31T08:03:18+0200 [piqueserver.player#info] banned user (unknown) (218.54.251.9) attempted to join
+2023-05-31T08:03:18+0200 [piqueserver.player#info] 218.54.251.9 disconnected
+2023-05-31T08:03:18+0200 [piqueserver.player#info] <George Soros> Does your girlfriend live near your house?
+2023-05-31T08:03:24+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:03:58+0200 [piqueserver.player#info] <George Soros> you should invite your girlfriend to your house and sleep with her
+2023-05-31T08:04:13+0200 [piqueserver.player#info] <George Soros> if i had a girlfriend i would do that
+2023-05-31T08:04:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:04:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:05:10+0200 [piqueserver.player#info] <George Soros> what time is it where you live
+2023-05-31T08:05:27+0200 [piqueserver.player#info] <Tuk> 9:05
+2023-05-31T08:05:52+0200 [piqueserver.player#info] <George Soros> is your girlfriend with you right now?
+2023-05-31T08:05:56+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:06:24+0200 [piqueserver.player#info] <George Soros> Does she go to the same school as you?
+2023-05-31T08:06:40+0200 [piqueserver.player#info] <Tuk> Yes, she was do
+2023-05-31T08:07:30+0200 [piqueserver.player#info] <George Soros> How long has she been your girlfriend?
+2023-05-31T08:08:14+0200 [piqueserver.player#info] <Tuk> Almost 4 year
+2023-05-31T08:08:26+0200 [piqueserver.player#info] <George Soros> that is a lot of time
+2023-05-31T08:09:07+0200 [piqueserver.player#info] <George Soros> what she thinks about this war?
+2023-05-31T08:09:46+0200 [piqueserver.player#info] <Tuk> She is lathing every time is wuuuuuing
+2023-05-31T08:09:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:09:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:10:17+0200 [piqueserver.player#info] <George Soros> what
+2023-05-31T08:10:50+0200 [piqueserver.player#info] <George Soros> Does she support Ukraine or Russia?
+2023-05-31T08:11:13+0200 [piqueserver.player#info] <Tuk> Ukraine I guess
+2023-05-31T08:12:03+0200 [piqueserver.player#info] <George Soros> Aren't you scared of what might happen?
+2023-05-31T08:12:33+0200 [piqueserver.player#info] <Tuk> Sometimes, but I don't think that will
+2023-05-31T08:12:51+0200 [piqueserver.player#info] <George Soros> do you live with your parents?
+2023-05-31T08:12:58+0200 [piqueserver.player#info] <Tuk> yes
+2023-05-31T08:13:24+0200 [piqueserver.player#info] <George Soros> you are single child?
+2023-05-31T08:13:29+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:13:52+0200 [piqueserver.player#info] <George Soros> do you have brother or sister?
+2023-05-31T08:13:57+0200 [piqueserver.player#info] <Tuk> brother
+2023-05-31T08:14:37+0200 [piqueserver.player#info] <George Soros> what music do you like?
+2023-05-31T08:14:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:14:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:15:36+0200 [piqueserver.player#info] <Tuk> #nasvayandbass #drumsnus
+2023-05-31T08:17:01+0200 [piqueserver.player#info] <George Soros> im listening that music right now
+2023-05-31T08:17:29+0200 [piqueserver.player#info] <George Soros> is it rap?
+2023-05-31T08:17:45+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:18:10+0200 [piqueserver.player#info] <George Soros> interesting music
+2023-05-31T08:18:33+0200 [piqueserver.player#info] <George Soros> I had never heard this music, Ukrainian music is something strange
+2023-05-31T08:19:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:19:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:20:27+0200 [piqueserver.player#info] <George Soros> you study at a university, right? what assignature do you study?
+2023-05-31T08:20:54+0200 [piqueserver.player#info] <Tuk> ingenering
+2023-05-31T08:21:45+0200 [piqueserver.player#info] <George Soros> What job do you hope to get as an engineer?
+2023-05-31T08:23:25+0200 [piqueserver.player#info] <George Soros> bro
+2023-05-31T08:23:41+0200 [piqueserver.player#info] <Tuk> manufacture
+2023-05-31T08:23:45+0200 [piqueserver.player#info] 180.252.171.42 disconnected
+2023-05-31T08:24:28+0200 [piqueserver.player#info] <George Soros> do you like your country?
+2023-05-31T08:24:39+0200 [piqueserver.player#info] <Tuk> Yes
+2023-05-31T08:24:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:24:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:25:00+0200 [piqueserver.player#info] BrainFrizz (IP 97.99.232.125, ID 6) entered the game!
+2023-05-31T08:25:04+0200 [piqueserver.player#info] <George Soros> Wouldn't you like to live in another country?
+2023-05-31T08:25:09+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:25:16+0200 [piqueserver.player#info] <George Soros> hey BrainFrizz
+2023-05-31T08:25:39+0200 [piqueserver.player#info] <BrainFrizz> hey I can't stay long
+2023-05-31T08:26:15+0200 [piqueserver.player#info] <George Soros> do you have friends? TUK
+2023-05-31T08:26:24+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:26:29+0200 [piqueserver.player#info] <George Soros> why not
+2023-05-31T08:26:50+0200 [piqueserver.player#info] <Tuk> couse that's how it so
+2023-05-31T08:27:19+0200 [piqueserver.player#info] <George Soros> have you never had friends?
+2023-05-31T08:27:34+0200 [piqueserver.player#info] <BrainFrizz> I used to
+2023-05-31T08:27:40+0200 [piqueserver.player#info] <BrainFrizz> do you know how to show fps?
+2023-05-31T08:27:49+0200 [piqueserver.player#info] <Tuk> yes
+2023-05-31T08:27:52+0200 [piqueserver.player#info] <BrainFrizz> how?
+2023-05-31T08:28:01+0200 [piqueserver.player#info] <George Soros> in the settings pannel, BrainFrizz
+2023-05-31T08:28:21+0200 [piqueserver.player#info] <BrainFrizz> oh its show statistics
+2023-05-31T08:28:31+0200 [piqueserver.player#info] RED (IP 80.235.90.26, ID 0) entered the game!
+2023-05-31T08:28:41+0200 [piqueserver.player#info] <George Soros> well i dont know
+2023-05-31T08:29:12+0200 [piqueserver.player#info] RED disconnected!
+2023-05-31T08:29:41+0200 [piqueserver.player#info] BrainFrizz disconnected!
+2023-05-31T08:29:46+0200 [piqueserver.player#info] <George Soros> bro
+2023-05-31T08:29:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:29:50+0200 [piqueserver.player#info] <George Soros> we are alone again
+2023-05-31T08:29:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:30:14+0200 [piqueserver.player#info] <George Soros> tell me about your girlfriend Tuk
+2023-05-31T08:30:22+0200 [piqueserver.player#info] BrainFrizz (IP 97.99.232.125, ID 6) entered the game!
+2023-05-31T08:30:23+0200 [piqueserver.player#info] <George Soros> is she cute?
+2023-05-31T08:30:28+0200 [piqueserver.player#info] <Tuk> yes
+2023-05-31T08:30:45+0200 [piqueserver.player#info] <George Soros> does she have big boobs?
+2023-05-31T08:30:51+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:32:04+0200 [piqueserver.player#info] <BrainFrizz> i need a version of open spades that uses fewer resources
+2023-05-31T08:32:19+0200 [piqueserver.player#info] <George Soros> does she has a big butt? tuk
+2023-05-31T08:32:26+0200 [piqueserver.player#info] <Tuk> yes
+2023-05-31T08:32:36+0200 [piqueserver.player#info] <George Soros> BrainFrizz, the name of the client is "Betterspades"
+2023-05-31T08:33:19+0200 [piqueserver.player#info] <George Soros> have you ever touch his ass? tuk
+2023-05-31T08:33:25+0200 [piqueserver.player#info] <George Soros> her ass*
+2023-05-31T08:33:36+0200 [piqueserver.player#info] BrainFrizz disconnected!
+2023-05-31T08:33:38+0200 [piqueserver.player#info] <Tuk> I don't know
+2023-05-31T08:34:03+0200 [piqueserver.player#info] <George Soros> you should try
+2023-05-31T08:34:26+0200 [piqueserver.player#info] KIrilo Iblano (IP 89.105.248.117, ID 6) entered the game!
+2023-05-31T08:34:49+0200 [piqueserver.player#info] <George Soros> have you ever kissed her lips?
+2023-05-31T08:34:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:34:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:34:58+0200 [piqueserver.player#info] <Tuk> no
+2023-05-31T08:35:06+0200 [piqueserver.player#info] <George Soros> BRO WHAT
+2023-05-31T08:35:22+0200 [piqueserver.player#info] <George Soros> SHE IS YOUR GIRLFRIEND, WHAT THE FUCK IS WRONG WITH YOU
+2023-05-31T08:35:53+0200 [piqueserver.player#info] <George Soros> are you sure she is your girlfriend?
+2023-05-31T08:36:00+0200 [piqueserver.player#info] <Tuk> yes
+2023-05-31T08:36:46+0200 [piqueserver.player#info] <George Soros> why haven't you kissed her yet? she's your girlfriend but you act like you're a stranger
+2023-05-31T08:37:09+0200 [piqueserver.player#info] <Tuk> couse tha't how it so
+2023-05-31T08:37:14+0200 [piqueserver.player#info] <George Soros> bro
+2023-05-31T08:37:32+0200 [piqueserver.player#info] <George Soros> at this rate you will die a virgin
+2023-05-31T08:38:59+0200 [piqueserver.player#info] <George Soros> lmao
+2023-05-31T08:39:13+0200 [piqueserver.player#info] <George Soros> KIrilo Iblano where you from
+2023-05-31T08:39:16+0200 [piqueserver.player#info] <KIrilo Iblano> hhhphphphphphphphph
+2023-05-31T08:39:26+0200 [piqueserver.player#info] <KIrilo Iblano> Ukrine
+2023-05-31T08:39:31+0200 [piqueserver.player#info] <George Soros> kirilo
+2023-05-31T08:39:35+0200 [piqueserver.player#info] <George Soros> do you speak english?
+2023-05-31T08:39:42+0200 [piqueserver.player#info] <KIrilo Iblano> yea
+2023-05-31T08:39:49+0200 [piqueserver.player#info] <George Soros> where you from
+2023-05-31T08:39:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:39:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:40:06+0200 [piqueserver.player#info] <KIrilo Iblano> Ukraine
+2023-05-31T08:40:10+0200 [piqueserver.player#info] <George Soros> nah
+2023-05-31T08:40:23+0200 [piqueserver.player#info] <George Soros> you are not from ukraine
+2023-05-31T08:40:33+0200 [piqueserver.player#info] <KIrilo Iblano> fpppfppfpfpfppdppdpdppddpd
+2023-05-31T08:40:45+0200 [piqueserver.player#info] <KIrilo Iblano> Слава Україні Чоловче
+2023-05-31T08:41:06+0200 [piqueserver.player#info] <George Soros> what music do you like KIrilo Iblano
+2023-05-31T08:41:53+0200 [piqueserver.player#info] <KIrilo Iblano> i am a music lover
+2023-05-31T08:42:12+0200 [piqueserver.player#info] <George Soros> yeah but what music do you like? recommend me some song
+2023-05-31T08:42:45+0200 [piqueserver.player#info] <KIrilo Iblano> i like all the songs except the russian ones
+2023-05-31T08:42:53+0200 [piqueserver.player#info] <George Soros> well, ok
+2023-05-31T08:43:00+0200 [piqueserver.player#info] <George Soros> is tuk your friend?
+2023-05-31T08:43:19+0200 [piqueserver.player#info] <KIrilo Iblano> tuk?
+2023-05-31T08:43:31+0200 [piqueserver.player#info] <George Soros> yes, tuk is ukrainian too
+2023-05-31T08:43:54+0200 [piqueserver.player#info] <KIrilo Iblano> Тук ти тут?
+2023-05-31T08:44:02+0200 [piqueserver.player#info] <Tuk> тут
+2023-05-31T08:44:05+0200 [piqueserver.player#info] <KIrilo Iblano> Як справи? Ти звідки?
+2023-05-31T08:44:17+0200 [piqueserver.player#info] <Tuk> Черкаська область
+2023-05-31T08:44:25+0200 [piqueserver.player#info] <George Soros> how old are you KIrilo Iblano
+2023-05-31T08:44:31+0200 [piqueserver.player#info] <KIrilo Iblano> 17
+2023-05-31T08:44:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:44:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:44:55+0200 [piqueserver.player#info] <George Soros> do you have a girlfriend? KIrilo Iblano
+2023-05-31T08:45:23+0200 [piqueserver.player#info] <KIrilo Iblano> no i dt have
+2023-05-31T08:45:48+0200 [piqueserver.player#info] <KIrilo Iblano> i had a girlfriend
+2023-05-31T08:46:11+0200 [piqueserver.player#info] <KIrilo Iblano> how about u?
+2023-05-31T08:46:28+0200 [piqueserver.player#info] <George Soros> i have not girlfriend
+2023-05-31T08:46:35+0200 [piqueserver.player#info] <George Soros> im a ugly guy
+2023-05-31T08:46:44+0200 [piqueserver.player#info] <George Soros> girls hates me
+2023-05-31T08:47:03+0200 [piqueserver.player#info] <George Soros> KIrilo Iblano Do you have goals in your life?
+2023-05-31T08:47:10+0200 [piqueserver.player#info] <KIrilo Iblano> so shoot them
+2023-05-31T08:47:42+0200 [piqueserver.player#info] <George Soros> I can't, I don't want to spend my whole life in jail
+2023-05-31T08:47:59+0200 [piqueserver.player#info] <KIrilo Iblano> my goal is to destroy russia
+2023-05-31T08:48:26+0200 [piqueserver.player#info] <George Soros> what movies do you like KIrilo Iblano?
+2023-05-31T08:48:36+0200 [piqueserver.player#info] <KIrilo Iblano> where r u from?
+2023-05-31T08:48:44+0200 [piqueserver.player#info] <George Soros> im from America
+2023-05-31T08:48:47+0200 [piqueserver.player#info] <George Soros> texas
+2023-05-31T08:49:21+0200 [piqueserver.player#info] <KIrilo Iblano> spider man across the universe
+2023-05-31T08:49:36+0200 [piqueserver.player#info] <George Soros> that's a good movie
+2023-05-31T08:49:49+0200 [piqueserver.player#info] <George Soros> what movies do you like Tuk
+2023-05-31T08:49:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:49:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:50:43+0200 [piqueserver.player#info] <George Soros> tuk?
+2023-05-31T08:51:29+0200 [piqueserver.player#info] aTem (IP 83.24.107.106, ID 0) entered the game!
+2023-05-31T08:51:36+0200 [piqueserver.player#info] <George Soros> do you like some girl in the school? KIrilo Iblano
+2023-05-31T08:53:19+0200 [piqueserver.player#info] <KIrilo Iblano> i dont go to college our college doesent have a bomb shelter and thets why im online
+2023-05-31T08:53:42+0200 [piqueserver.player#info] <George Soros> ohhhh
+2023-05-31T08:54:06+0200 [piqueserver.player#info] <George Soros> Is there a girl you like? KIrilo Iblano
+2023-05-31T08:54:31+0200 [piqueserver.player#info] <KIrilo Iblano> i dont know
+2023-05-31T08:54:42+0200 [piqueserver.player#info] nelsonk2 (IP 94.172.46.6, ID 13) entered the game!
+2023-05-31T08:54:51+0200 [piqueserver.player#info] <George Soros> PEACE
+2023-05-31T08:54:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:54:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T08:54:53+0200 [piqueserver.player#info] <nelsonk2> uh
+2023-05-31T08:54:56+0200 [piqueserver.player#info] <nelsonk2> what?#
+2023-05-31T08:55:08+0200 [piqueserver.player#info] <nelsonk2> alright then
+2023-05-31T08:55:23+0200 [piqueserver.player#info] <KIrilo Iblano> in two years of college i was only in college for a week
+2023-05-31T08:55:40+0200 [piqueserver.player#info] <nelsonk2> ermm. so... huh
+2023-05-31T08:55:44+0200 [piqueserver.player#info] <nelsonk2> ????????????????????????????
+2023-05-31T08:56:03+0200 [piqueserver.player#info] <George Soros> I hope your country wins the war things go back to normal
+2023-05-31T08:56:12+0200 [piqueserver.player#info] <nelsonk2> oh, right
+2023-05-31T08:56:25+0200 [piqueserver.player#info] <KIrilo Iblano> i hope so too
+2023-05-31T08:56:58+0200 [piqueserver.player#info] <George Soros> do you like cartoons? KIrilo Iblano
+2023-05-31T08:57:15+0200 [piqueserver.player#info] <KIrilo Iblano> yes i liked
+2023-05-31T08:57:30+0200 [piqueserver.player#info] <George Soros> what cartoons do you like?
+2023-05-31T08:58:42+0200 [piqueserver.player#info] <George Soros> guys
+2023-05-31T08:58:47+0200 [piqueserver.player#info] <George Soros> i have to go
+2023-05-31T08:58:51+0200 [piqueserver.player#info] <nelsonk2> goodbye
+2023-05-31T08:58:59+0200 [piqueserver.player#info] <KIrilo Iblano> goodbye
+2023-05-31T08:59:01+0200 [piqueserver.player#info] <George Soros> it was a pleasure meeting you all
+2023-05-31T08:59:05+0200 [piqueserver.player#info] <George Soros> slava ukraine
+2023-05-31T08:59:12+0200 [piqueserver.player#info] George Soros disconnected!
+2023-05-31T08:59:33+0200 [piqueserver.player#info] aTem disconnected!
+2023-05-31T08:59:42+0200 [piqueserver.player#info] Deuce (IP 97.99.232.125, ID 11) entered the game!
+2023-05-31T08:59:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T08:59:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:00:24+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-31T09:01:04+0200 [piqueserver.player#info] Deuce (IP 97.99.232.125, ID 11) entered the game!
+2023-05-31T09:01:59+0200 [piqueserver.player#info] Tuk disconnected!
+2023-05-31T09:02:59+0200 [piqueserver.server#info] advancing to map 'leaves2' (Time up!) in 10 seconds
+2023-05-31T09:03:02+0200 [piqueserver.player#info] nelsonk2 disconnected!
+2023-05-31T09:03:09+0200 [piqueserver.map#info] Loading map 'Leaves 2'...
+2023-05-31T09:03:10+0200 [piqueserver.map#info] Map loaded successfully. (took 0.29s)
+2023-05-31T09:03:19+0200 [piqueserver.player#info] 89.105.248.117 disconnected
+2023-05-31T09:03:23+0200 [piqueserver.player#info] Deuce (IP 97.99.232.125, ID 11) entered the game!
+2023-05-31T09:04:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:04:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:05:09+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-31T09:07:40+0200 [piqueserver.player#info] nelsonk2 (IP 94.172.46.6, ID 11) entered the game!
+2023-05-31T09:09:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:09:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:10:08+0200 [piqueserver.player#info] nelsonk2 disconnected!
+2023-05-31T09:14:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:14:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:19:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:19:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:24:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:24:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:29:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:29:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:34:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:34:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:39:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:39:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:44:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:44:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:49:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:49:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:54:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:54:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T09:59:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T09:59:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:04:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:04:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:09:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:09:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:14:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:14:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:19:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:19:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:24:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:24:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:29:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:29:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:34:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:34:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:39:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:40:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:45:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:45:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:50:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:50:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:55:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T10:55:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T10:58:04+0200 [piqueserver.player#info] Tuk (IP 46.211.108.171, ID 11) entered the game!
+2023-05-31T11:00:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:00:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:03:10+0200 [piqueserver.server#info] advancing to map 'lime' (Time up!) in 10 seconds
+2023-05-31T11:03:20+0200 [piqueserver.map#info] Loading map 'Lime'...
+2023-05-31T11:03:20+0200 [piqueserver.map#info] Map loaded successfully. (took 0.32s)
+2023-05-31T11:03:30+0200 [piqueserver.player#info] Tuk (IP 46.211.108.171, ID 11) entered the game!
+2023-05-31T11:05:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:05:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:10:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:10:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:15:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:15:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:19:35+0200 [piqueserver.player#info] OswaldtheLuckyR (IP 1.160.23.132, ID 6) entered the game!
+2023-05-31T11:19:39+0200 [piqueserver.player#info] OswaldtheLuckyR disconnected!
+2023-05-31T11:20:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:20:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:25:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:25:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:30:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:30:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:35:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:35:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:40:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:40:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:40:26+0200 [piqueserver.commands#info] <Tuk> /help 
+2023-05-31T11:40:53+0200 [piqueserver.commands#info] <Tuk> /commands 
+2023-05-31T11:41:59+0200 [piqueserver.commands#info] <Tuk> /help ups -> Description: \n Usage: 
+2023-05-31T11:42:09+0200 [piqueserver.commands#info] <Tuk> /help ratio -> Description: \n Usage: 
+2023-05-31T11:45:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:45:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:49:16+0200 [piqueserver.player#info] Aztec311 (IP 77.10.213.253, ID 6) entered the game!
+2023-05-31T11:49:38+0200 [piqueserver.commands#info] <Aztec311> /  -> Unknown command
+2023-05-31T11:50:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:50:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T11:50:13+0200 [piqueserver.player#info] Aztec311 disconnected!
+2023-05-31T11:55:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T11:55:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:00:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:00:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:05:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:05:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:10:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:10:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:15:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:15:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:20:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:20:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:25:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:25:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:30:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:30:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:35:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:35:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:40:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:40:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:45:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:45:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:45:47+0200 [piqueserver.player#info] 180.252.171.42 disconnected
+2023-05-31T12:50:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:50:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T12:55:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T12:55:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:00:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:00:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:03:20+0200 [piqueserver.server#info] advancing to map 'mazemountain' (Time up!) in 10 seconds
+2023-05-31T13:03:30+0200 [piqueserver.map#info] Loading map 'MazeMountain'...
+2023-05-31T13:03:31+0200 [piqueserver.map#info] Map loaded successfully. (took 0.31s)
+2023-05-31T13:05:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:05:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:10:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:10:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:15:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:15:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:20:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:20:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:23:59+0200 [piqueserver.server#info] starting ban vacuum with 5 bans
+2023-05-31T13:25:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:25:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:30:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:30:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:33:31+0200 [piqueserver.player#info] 46.211.108.171 disconnected
+2023-05-31T13:35:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:35:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:40:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:40:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:45:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:45:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:50:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:50:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T13:55:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T13:55:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:00:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:00:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:05:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:05:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:05:17+0200 [piqueserver.player#info] 46.211.94.32 disconnected
+2023-05-31T14:10:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:10:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:15:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:15:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:20:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:20:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:25:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:25:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:30:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:30:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:35:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:35:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:40:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:40:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:45:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:45:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:50:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:50:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T14:55:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T14:55:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:00:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:00:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:03:31+0200 [piqueserver.server#info] advancing to map 'mirage' (Time up!) in 10 seconds
+2023-05-31T15:03:41+0200 [piqueserver.map#info] Loading map 'Mirage'...
+2023-05-31T15:03:41+0200 [piqueserver.map#info] Map loaded successfully. (took 0.25s)
+2023-05-31T15:05:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:05:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:10:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:10:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:15:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:15:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:20:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:20:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:22:22+0200 [piqueserver.player#info] zezo3 (IP 156.212.108.45, ID 11) entered the game!
+2023-05-31T15:25:17+0200 [piqueserver.player#info] zezo3 disconnected!
+2023-05-31T15:25:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:25:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:30:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:30:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:35:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:35:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:40:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:40:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:45:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:45:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:50:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:50:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T15:55:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T15:55:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:00:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:00:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:05:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:05:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:10:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:10:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:15:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:15:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:20:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:20:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:25:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:25:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:30:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:30:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:35:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:35:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:40:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:40:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:45:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:45:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:49:38+0200 [piqueserver.player#info] 94.19.143.121 disconnected
+2023-05-31T16:50:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:50:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T16:52:46+0200 [piqueserver.player#info] nuts :) (IP 103.208.206.33, ID 11) entered the game!
+2023-05-31T16:54:13+0200 [piqueserver.player#info] nuts :) disconnected!
+2023-05-31T16:55:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T16:55:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:00:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:00:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:03:41+0200 [piqueserver.server#info] advancing to map 'oldfort' (Time up!) in 10 seconds
+2023-05-31T17:03:51+0200 [piqueserver.map#info] Loading map 'Old Fort'...
+2023-05-31T17:03:52+0200 [piqueserver.map#info] Map loaded successfully. (took 0.25s)
+2023-05-31T17:05:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:05:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:10:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:10:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:14:57+0200 [piqueserver.player#info] Tuk (IP 46.211.71.70, ID 11) entered the game!
+2023-05-31T17:15:02+0200 [piqueserver.commands#info] <Tuk> /time  -> There are 109 minutes left
+2023-05-31T17:15:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:15:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:19:31+0200 [piqueserver.player#info] Tuk disconnected!
+2023-05-31T17:20:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:20:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:25:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:25:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:30:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:30:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:35:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:35:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:40:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:40:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:45:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:45:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:50:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:50:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T17:55:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T17:55:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:00:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:00:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:05:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:05:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:10:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:10:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:15:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:15:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:20:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:20:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:25:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:25:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:29:27+0200 [piqueserver.player#info] Tuk (IP 46.211.71.70, ID 11) entered the game!
+2023-05-31T18:30:16+0200 [piqueserver.player#info] Tuk disconnected!
+2023-05-31T18:30:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:30:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:35:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:35:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:40:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:40:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:45:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:45:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:50:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:50:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T18:55:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T18:55:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:00:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:00:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:02:44+0200 [piqueserver.player#info] Aelrinn (IP 46.201.174.190, ID 11) entered the game!
+2023-05-31T19:02:49+0200 [piqueserver.player#info] Aelrinn disconnected!
+2023-05-31T19:03:52+0200 [piqueserver.server#info] advancing to map 'padesert' (Time up!) in 10 seconds
+2023-05-31T19:04:02+0200 [piqueserver.map#info] Loading map 'PAdesert'...
+2023-05-31T19:04:02+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-31T19:05:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:05:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:10:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:10:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:11:40+0200 [piqueserver.player#info] 95.250.37.182 disconnected
+2023-05-31T19:15:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:15:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:20:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:20:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:23:59+0200 [piqueserver.server#info] starting ban vacuum with 5 bans
+2023-05-31T19:25:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:25:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:30:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:30:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:35:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:35:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:40:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:40:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:45:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:45:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:50:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:50:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T19:55:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T19:55:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:00:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:00:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:05:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:05:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:10:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:10:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:15:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:15:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:20:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:20:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:25:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:25:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:30:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:30:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:35:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:35:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:40:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:40:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:45:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:45:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:50:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:50:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T20:55:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T20:55:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:00:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:00:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:04:02+0200 [piqueserver.server#info] advancing to map 'random4' (Time up!) in 10 seconds
+2023-05-31T21:04:12+0200 [piqueserver.map#info] Loading map 'Random 4'...
+2023-05-31T21:04:12+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-31T21:05:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:05:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:10:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:10:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:15:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:15:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:20:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:20:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:25:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:25:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:30:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:30:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:35:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:35:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:40:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:40:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:45:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:45:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:50:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:50:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T21:55:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T21:55:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:00:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:00:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:05:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:05:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:10:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:10:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:15:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:15:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:20:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:20:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:25:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:25:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:30:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:30:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:35:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:35:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:40:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:40:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:45:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:45:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:50:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:50:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T22:55:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T22:55:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:00:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:00:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:04:12+0200 [piqueserver.server#info] advancing to map 'roadisland' (Time up!) in 10 seconds
+2023-05-31T23:04:22+0200 [piqueserver.map#info] Loading map 'Road Island'...
+2023-05-31T23:04:22+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-31T23:05:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:05:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:10:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:10:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:15:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:15:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:20:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:20:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:25:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:25:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:30:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:30:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:35:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:35:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:40:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:40:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:45:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:45:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:50:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:50:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-31T23:55:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-31T23:55:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls

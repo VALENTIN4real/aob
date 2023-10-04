@@ -1,0 +1,978 @@
+2023-05-08T00:00:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683496802972: 200 186.03ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:00:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 186.66ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:00:33+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-08T00:00:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:00:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:01:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683496862964: 200 1.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:01:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.69ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:02:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683496922965: 200 187.17ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:02:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 187.62ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:03:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683496982973: 200 1.21ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:03:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.59ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:04:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497042966: 200 189.50ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:04:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.27ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:05:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.12ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:05:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497102964: 200 2.57ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:05:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:05:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:06:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497162962: 200 188.31ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:06:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:07:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497222968: 200 1.25ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:07:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.51ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:08:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497282967: 200 187.95ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:08:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.37ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:09:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.09ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:09:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497342974: 200 0.88ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:10:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.07ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:10:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497402968: 200 187.69ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:10:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:10:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:11:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497462973: 200 1.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:11:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.51ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:12:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497522961: 200 189.74ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:12:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.27ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:13:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497582967: 200 1.40ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:13:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.85ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:14:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.00ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:14:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497642960: 200 188.13ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:15:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497702973: 200 1.27ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:15:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.69ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:15:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:15:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:16:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.25ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:16:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497762964: 200 186.66ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:17:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497822966: 200 1.36ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:17:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.59ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:18:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497882967: 200 189.66ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:18:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:19:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683497942969: 200 1.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:19:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.71ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:20:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498002966: 200 185.61ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:20:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 186.08ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:20:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:20:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:21:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498062965: 200 1.36ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:21:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.80ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:22:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498122958: 200 186.81ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:22:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 187.26ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:23:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.97ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:23:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498182960: 200 2.42ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:24:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498242959: 200 187.65ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:24:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 188.09ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:25:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498302972: 200 1.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:25:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.67ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:25:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:25:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:26:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498362971: 200 188.75ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:26:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:27:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498422966: 200 1.32ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:27:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.66ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:28:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498482961: 200 187.63ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:28:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:29:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498542970: 200 1.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:29:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.71ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:30:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.01ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:30:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498602958: 200 190.19ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:30:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:30:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:31:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498662970: 200 1.46ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:31:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.61ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:32:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498722961: 200 189.14ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:32:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 189.63ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:33:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498782972: 200 1.15ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:33:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.43ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:34:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498842964: 200 187.24ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:34:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 187.71ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:35:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498902970: 200 1.33ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:35:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.73ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:35:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:35:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:36:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683498962961: 200 187.93ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:36:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.23ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:37:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.12ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:37:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499022961: 200 0.78ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:38:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499082975: 200 186.89ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:38:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.32ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:39:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499142964: 200 1.33ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:39:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.69ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:40:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499202972: 200 187.13ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:40:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 187.67ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:40:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:40:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:41:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499262970: 200 1.23ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:41:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.59ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:42:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499322968: 200 188.19ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:42:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 188.67ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:43:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.04ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:43:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499382969: 200 2.51ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:44:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499442966: 200 185.70ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:44:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 186.16ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:45:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499502970: 200 1.20ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:45:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.59ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:45:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:45:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:46:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499562964: 200 188.17ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.27ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:10+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499570856: 200 1.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:10+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.64ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:12+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/: 200 1.13ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:12+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview: 200 1.14ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:17+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.99ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:22+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499583034: 200 1.27ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:22+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.96ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:27+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.92ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:32+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499593037: 200 1.23ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:32+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.51ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:37+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.92ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:42+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499603028: 200 1.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:42+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.65ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:47+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.92ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:52+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499613028: 200 1.35ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:52+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.88ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:46:57+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.92ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499623031: 200 1.31ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.67ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:07+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.98ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:13+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499633039: 200 185.04ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:13+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 186.02ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:17+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.00ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:22+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499643029: 200 1.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:22+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.65ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:27+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.93ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:28+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/: 200 1.21ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:28+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview: 200 1.26ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:33+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.91ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499658391: 200 1.26ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.62ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:43+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.95ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499668389: 200 1.33ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.62ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:53+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.80ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.01ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:47:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499678388: 200 2.56ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.94ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499688397: 200 1.26ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.89ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:13+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.13ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:18+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499698389: 200 190.04ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:18+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.26ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:23+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.95ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:28+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499708397: 200 1.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:28+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.59ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:33+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.11ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499718393: 200 1.43ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.69ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:43+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.95ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499728398: 200 1.23ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.52ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:53+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.90ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499738385: 200 1.34ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:48:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.87ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.94ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499748962: 200 1.33ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.70ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:13+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.05ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:19+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499758963: 200 185.47ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:19+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 185.96ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:23+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.04ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:28+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499768968: 200 1.38ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:28+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.75ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:33+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.98ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499778965: 200 1.34ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.66ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:43+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.91ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499788967: 200 1.27ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 3.15ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:53+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.91ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499798392: 200 1.36ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:49:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.67ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.00ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499808386: 200 1.34ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 3.19ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:13+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.92ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:18+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499818394: 200 1.28ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:18+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.59ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:23+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.94ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:29+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499828962: 200 187.44ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:29+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.26ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:33+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.95ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499838966: 200 1.49ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:38+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.76ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:43+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.92ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:50:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T00:50:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499848966: 200 1.06ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:48+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:53+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.08ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499858972: 200 1.37ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:50:58+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 3.04ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:51:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.90ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:51:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499868967: 200 1.51ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:51:08+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 3.12ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:51:13+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.90ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:51:18+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499878963: 200 1.29ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:51:18+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.96ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:51:23+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 0.97ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:52:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.03ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:52:03+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499922973: 200 189.57ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:53:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499982970: 200 1.31ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:53:02+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 2.57ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:53:09+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/json: 200 1.17ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:53:09+0200 [piqueserver.statusserver#info] 86.223.249.64 GET http://www.mairs.fr:32886/overview?timestamp=1683499989856: 200 186.99ms -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+2023-05-08T00:55:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T00:55:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:00:33+0200 [-] Received SIGTERM, shutting down.
+2023-05-08T01:00:44+0200 [piqueserver.server#info] piqueserver started on Mon May  8 01:00:44 2023
+2023-05-08T01:00:44+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-05-08T01:00:44+0200 [piqueserver.server#warn] The following config items are not used:
+2023-05-08T01:00:44+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-05-08T01:00:44+0200 [stdout#info]              'load_saved_map': True,
+2023-05-08T01:00:44+0200 [stdout#info]              'save_at_shutdown': False},
+2023-05-08T01:00:44+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-05-08T01:00:44+0200 [piqueserver.server#info] Started server...
+2023-05-08T01:00:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:00:44+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-05-08T01:00:44+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-05-08T01:00:44+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-08T01:00:44+0200 [piqueserver.map#info] Map loaded successfully. (took 0.18s)
+2023-05-08T01:00:45+0200 [piqueserver.server#info] Master connection established.
+2023-05-08T01:00:45+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-05-08T01:00:45+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-05-08T01:00:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:01:08+0200 [-] Received SIGTERM, shutting down.
+2023-05-08T01:01:11+0200 [piqueserver.server#info] piqueserver started on Mon May  8 01:01:11 2023
+2023-05-08T01:01:11+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-05-08T01:01:11+0200 [piqueserver.server#warn] The following config items are not used:
+2023-05-08T01:01:11+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-05-08T01:01:11+0200 [stdout#info]              'load_saved_map': True,
+2023-05-08T01:01:11+0200 [stdout#info]              'save_at_shutdown': False},
+2023-05-08T01:01:11+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-05-08T01:01:11+0200 [piqueserver.server#info] Started server...
+2023-05-08T01:01:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:01:11+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-05-08T01:01:11+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-08T01:01:11+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-05-08T01:01:11+0200 [piqueserver.map#info] Map loaded successfully. (took 0.18s)
+2023-05-08T01:01:12+0200 [piqueserver.server#info] Master connection established.
+2023-05-08T01:01:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:01:12+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-05-08T01:01:12+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-05-08T01:01:36+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T01:03:04+0200 [piqueserver.commands#info] <Bash> /map satellite -> You can't use this command
+2023-05-08T01:03:09+0200 [piqueserver.player#info] 'Bash' logged in as admin
+2023-05-08T01:03:09+0200 [piqueserver.commands#info] <Bash> /login siropsedal
+2023-05-08T01:03:12+0200 [piqueserver.commands#info] <Bash> /map satellite
+2023-05-08T01:03:15+0200 [piqueserver.server#info] advancing to map 'satellite' (Map advance forced.) in 10 seconds
+2023-05-08T01:03:15+0200 [piqueserver.commands#info] <Bash> /advancemap 
+2023-05-08T01:03:25+0200 [piqueserver.map#info] Loading map 'satellite'...
+2023-05-08T01:03:25+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-08T01:03:45+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T01:06:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:06:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:08:03+0200 [piqueserver.commands#info] <Bash> /map firestorm
+2023-05-08T01:08:06+0200 [piqueserver.server#info] advancing to map 'firestorm' (Map advance forced.) in 10 seconds
+2023-05-08T01:08:06+0200 [piqueserver.commands#info] <Bash> /advancemap 
+2023-05-08T01:08:16+0200 [piqueserver.map#info] Loading map 'Firestorm'...
+2023-05-08T01:08:16+0200 [piqueserver.map#info] Map loaded successfully. (took 0.20s)
+2023-05-08T01:08:43+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T01:09:42+0200 [piqueserver.commands#info] <Bash> /map firestorm
+2023-05-08T01:09:45+0200 [piqueserver.server#info] advancing to map 'firestorm' (Map advance forced.) in 10 seconds
+2023-05-08T01:09:45+0200 [piqueserver.commands#info] <Bash> /advancemap 
+2023-05-08T01:09:55+0200 [piqueserver.map#info] Loading map 'Firestorm'...
+2023-05-08T01:09:55+0200 [piqueserver.map#info] Map loaded successfully. (took 0.21s)
+2023-05-08T01:10:00+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T01:10:27+0200 [piqueserver.commands#info] <Bash> /map firestorm
+2023-05-08T01:10:32+0200 [piqueserver.server#info] advancing to map 'firestorm' (Map advance forced.) in 10 seconds
+2023-05-08T01:10:32+0200 [piqueserver.commands#info] <Bash> /advancemap 
+2023-05-08T01:10:42+0200 [piqueserver.map#info] Loading map 'Firestorm'...
+2023-05-08T01:10:42+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-05-08T01:10:47+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T01:11:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:11:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:11:15+0200 [piqueserver.commands#info] <Bash> /map satellite
+2023-05-08T01:11:17+0200 [piqueserver.server#info] advancing to map 'satellite' (Map advance forced.) in 10 seconds
+2023-05-08T01:11:17+0200 [piqueserver.commands#info] <Bash> /advancemap 
+2023-05-08T01:11:27+0200 [piqueserver.map#info] Loading map 'satellite'...
+2023-05-08T01:11:28+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-08T01:11:32+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T01:16:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:16:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:20:15+0200 [piqueserver.commands#info] <Bash> /where  -> Bash is in B4 (122, 237, 4)
+2023-05-08T01:20:21+0200 [piqueserver.commands#info] <Bash> /whowa  -> Unknown command
+2023-05-08T01:20:23+0200 [piqueserver.commands#info] <Bash> /whowas  -> Invalid number of arguments\nUsage: /whowas <player>
+2023-05-08T01:20:27+0200 [piqueserver.commands#info] <Bash> /whowas Bash -> Invalid Player\nUsage: /whowas <player>
+2023-05-08T01:20:36+0200 [piqueserver.commands#info] <Bash> /whowas Jack -> Invalid Player\nUsage: /whowas <player>
+2023-05-08T01:21:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:21:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:23:46+0200 [-] Received SIGTERM, shutting down.
+2023-05-08T01:23:46+0200 [piqueserver.server#info] disconnecting players
+2023-05-08T01:23:49+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-08T01:23:58+0200 [piqueserver.server#info] piqueserver started on Mon May  8 01:23:58 2023
+2023-05-08T01:23:59+0200 [piqueserver.server#info] advancing to map 'hallway'
+2023-05-08T01:23:59+0200 [piqueserver.server#warn] The following config items are not used:
+2023-05-08T01:23:59+0200 [stdout#info] {'savemap': {'always_save_map': False,
+2023-05-08T01:23:59+0200 [stdout#info]              'load_saved_map': True,
+2023-05-08T01:23:59+0200 [stdout#info]              'save_at_shutdown': False},
+2023-05-08T01:23:59+0200 [stdout#info]  'ssh': {'users': {}}}
+2023-05-08T01:23:59+0200 [piqueserver.server#info] Started server...
+2023-05-08T01:23:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:23:59+0200 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2023-05-08T01:23:59+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-08T01:23:59+0200 [piqueserver.map#info] Loading map 'Hallway'...
+2023-05-08T01:23:59+0200 [piqueserver.map#info] Map loaded successfully. (took 0.19s)
+2023-05-08T01:23:59+0200 [piqueserver.server#info] Master connection established.
+2023-05-08T01:23:59+0200 [piqueserver.server#info] Server public ip address: 86.223.249.64:32887
+2023-05-08T01:23:59+0200 [piqueserver.server#info] Public aos identifier: aos://1090117462:32887
+2023-05-08T01:23:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:25:40+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T01:25:50+0200 [piqueserver.commands#info] <Bash> /map firestorm -> You can't use this command
+2023-05-08T01:25:57+0200 [piqueserver.player#info] 'Bash' logged in as admin
+2023-05-08T01:25:57+0200 [piqueserver.commands#info] <Bash> /login siropsedal
+2023-05-08T01:26:00+0200 [piqueserver.commands#info] <Bash> /map firestorm
+2023-05-08T01:26:04+0200 [piqueserver.server#info] advancing to map 'firestorm' (Map advance forced.) in 10 seconds
+2023-05-08T01:26:04+0200 [piqueserver.commands#info] <Bash> /advancemap 
+2023-05-08T01:26:14+0200 [piqueserver.map#info] Loading map 'Firestorm'...
+2023-05-08T01:26:14+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-05-08T01:28:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:29:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:34:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:34:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:35:31+0200 [piqueserver.player#info] FROST (IP 84.22.220.52, ID 1) entered the game!
+2023-05-08T01:36:08+0200 [piqueserver.player#info] FROST disconnected!
+2023-05-08T01:39:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:39:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:44:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:44:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:49:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:49:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:54:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:54:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:59:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T01:59:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T01:59:03+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T02:03:16+0200 [piqueserver.player#info] Al (IP 88.126.103.195, ID 1) entered the game!
+2023-05-08T02:04:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:04:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:04:33+0200 [piqueserver.player#info] <Bash> hi
+2023-05-08T02:07:29+0200 [piqueserver.commands#info] <Bash> /where  -> Bash is in C4 (130, 244, 38)
+2023-05-08T02:07:31+0200 [piqueserver.commands#info] <Bash> /where Al -> Al is in F5 (373, 257, 46)
+2023-05-08T02:07:34+0200 [piqueserver.commands#info] <Bash> /where Al -> Al is in F5 (373, 257, 46)
+2023-05-08T02:07:37+0200 [piqueserver.commands#info] <Bash> /where  -> Bash is in C5 (134, 262, 38)
+2023-05-08T02:07:58+0200 [piqueserver.commands#info] <Bash> /where  -> Bash is in E6 (270, 367, 38)
+2023-05-08T02:09:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:09:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:10:07+0200 [piqueserver.commands#info] <Bash> /disco 
+2023-05-08T02:10:38+0200 [piqueserver.commands#info] <Bash> /disco 
+2023-05-08T02:12:36+0200 [piqueserver.player#info] Al disconnected!
+2023-05-08T02:14:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:14:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:19:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:19:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:24:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:24:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:27:43+0200 [piqueserver.commands#info] <Bash> /time  -> There are 59 minutes left
+2023-05-08T02:29:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:29:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:34:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:34:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:39:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:39:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:44:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:44:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:47:50+0200 [piqueserver.player#info] 201.108.199.113 disconnected
+2023-05-08T02:49:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:49:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:49:37+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-08T02:54:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:54:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T02:59:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T02:59:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:04:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:04:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:09:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:09:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:14:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:14:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:19:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:19:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:24:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:24:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:26:14+0200 [piqueserver.server#info] advancing to map 'bigasssideforts' (Time up!) in 10 seconds
+2023-05-08T03:26:24+0200 [piqueserver.map#info] Loading map 'BigAssSideForts'...
+2023-05-08T03:26:24+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-08T03:29:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:29:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:34:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:34:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:39:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:39:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:44:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:44:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:49:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:49:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:54:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:54:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T03:59:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T03:59:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:04:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:04:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:09:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:09:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:14:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:14:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:19:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:19:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:24:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:24:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:29:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:29:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:34:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:34:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:39:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:39:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:44:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:44:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:49:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:49:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:54:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:54:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T04:59:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T04:59:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:04:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:04:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:09:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:09:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:12:50+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T05:13:03+0200 [piqueserver.commands#info] <Bash> /advancemap  -> You can't use this command
+2023-05-08T05:13:09+0200 [piqueserver.player#info] 'Bash' logged in as admin
+2023-05-08T05:13:09+0200 [piqueserver.commands#info] <Bash> /login siropsedal
+2023-05-08T05:13:12+0200 [piqueserver.server#info] advancing to map 'alexandria' (Map advance forced.) in 10 seconds
+2023-05-08T05:13:12+0200 [piqueserver.commands#info] <Bash> /advancemap 
+2023-05-08T05:13:22+0200 [piqueserver.map#info] Loading map 'Alexandria'...
+2023-05-08T05:13:22+0200 [piqueserver.map#info] Map loaded successfully. (took 0.25s)
+2023-05-08T05:13:28+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 0) entered the game!
+2023-05-08T05:14:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:14:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:19:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:19:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:24:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:24:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:29:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:29:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:34:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:34:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:37:02+0200 [piqueserver.player#info] Gubhjaa (IP 210.1.98.210, ID 1) entered the game!
+2023-05-08T05:37:13+0200 [piqueserver.player#info] Gubhjaa disconnected!
+2023-05-08T05:39:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:39:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:44:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:44:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:45:25+0200 [piqueserver.player#info] Eldanteg2940 (IP 200.123.44.29, ID 1) entered the game!
+2023-05-08T05:45:44+0200 [piqueserver.player#info] <Eldanteg2940> HOLA?
+2023-05-08T05:45:48+0200 [piqueserver.player#info] <Eldanteg2940> hello
+2023-05-08T05:46:00+0200 [piqueserver.player#info] Eldanteg2940 disconnected!
+2023-05-08T05:46:18+0200 [piqueserver.player#info] Eldanteg2940 (IP 200.123.44.29, ID 1) entered the game!
+2023-05-08T05:46:26+0200 [piqueserver.player#info] Eldanteg2940 disconnected!
+2023-05-08T05:49:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:49:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:54:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:54:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T05:59:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T05:59:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:04:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:04:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:07:35+0200 [piqueserver.player#info] Duvancg-papu (IP 191.95.130.187, ID 1) entered the game!
+2023-05-08T06:07:45+0200 [piqueserver.commands#info] <Duvancg-papu> /png_2  -> Unknown command
+2023-05-08T06:08:09+0200 [piqueserver.player#info] Duvancg-papu disconnected!
+2023-05-08T06:09:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:09:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:09:41+0200 [piqueserver.player#info] Duvancg-papu (IP 191.95.130.187, ID 1) entered the game!
+2023-05-08T06:10:39+0200 [piqueserver.player#info] Duvancg-papu disconnected!
+2023-05-08T06:13:07+0200 [piqueserver.player#info] Duvancg-papu (IP 191.95.130.187, ID 1) entered the game!
+2023-05-08T06:14:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:14:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:15:44+0200 [piqueserver.player#info] Gubhjaa (IP 210.1.98.210, ID 2) entered the game!
+2023-05-08T06:15:58+0200 [piqueserver.player#info] Duvancg-papu disconnected!
+2023-05-08T06:19:12+0200 [piqueserver.player#info] Gubhjaa1 (IP 210.1.98.210, ID 1) entered the game!
+2023-05-08T06:19:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:19:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:19:19+0200 [piqueserver.player#info] Gubhjaa2 (IP 210.1.98.210, ID 3) entered the game!
+2023-05-08T06:19:29+0200 [piqueserver.commands#info] <Gubhjaa2> /votekick bash no -> You can't votekick this player
+2023-05-08T06:20:16+0200 [piqueserver.commands#info] <Gubhjaa> /votekick gubhjaa1 -> You must provide a reason for the votekick
+2023-05-08T06:20:21+0200 [piqueserver.commands#info] <Gubhjaa> /votekick gubhjaa1 no
+2023-05-08T06:20:23+0200 [stdout#info] Gubhjaa1 votekicked
+2023-05-08T06:20:23+0200 [piqueserver.player#info] Gubhjaa disconnected!
+2023-05-08T06:20:23+0200 [piqueserver.player#info] Gubhjaa1 disconnected!
+2023-05-08T06:20:23+0200 [piqueserver.player#info] Gubhjaa2 disconnected!
+2023-05-08T06:20:23+0200 [piqueserver.commands#info] <None> /y 
+2023-05-08T06:23:03+0200 [piqueserver.player#info] Duvancg-papu (IP 191.95.130.187, ID 3) entered the game!
+2023-05-08T06:23:10+0200 [piqueserver.player#info] Duvancg-papu disconnected!
+2023-05-08T06:24:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:24:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:25:55+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-08T06:27:04+0200 [piqueserver.player#info] Duvancg-papu (IP 191.95.130.187, ID 0) entered the game!
+2023-05-08T06:29:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:29:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:30:33+0200 [piqueserver.player#info] Duvancg-papu disconnected!
+2023-05-08T06:34:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:34:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:39:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:39:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:41:35+0200 [piqueserver.player#info] Duvancg-papu (IP 191.95.130.187, ID 0) entered the game!
+2023-05-08T06:44:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:44:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:49:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:49:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:54:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:54:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T06:59:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T06:59:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:04:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:04:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:05:34+0200 [piqueserver.player#info] Bash (IP 86.223.249.64, ID 3) entered the game!
+2023-05-08T07:08:03+0200 [piqueserver.player#info] Bash disconnected!
+2023-05-08T07:09:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:09:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:13:22+0200 [piqueserver.server#info] advancing to map '1river2night' (Time up!) in 10 seconds
+2023-05-08T07:13:32+0200 [piqueserver.map#info] Loading map '1river2night'...
+2023-05-08T07:13:33+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-05-08T07:14:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:14:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:19:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:19:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:20:13+0200 [piqueserver.player#info] Seb (IP 86.121.177.158, ID 3) entered the game!
+2023-05-08T07:20:37+0200 [piqueserver.player#info] Seb disconnected!
+2023-05-08T07:23:59+0200 [piqueserver.server#info] starting ban vacuum with 1 bans
+2023-05-08T07:24:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:24:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:29:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:29:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:33:11+0200 [piqueserver.player#info] 191.95.130.187 disconnected
+2023-05-08T07:34:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:34:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:36:52+0200 [piqueserver.player#info] Duvancg-papu (IP 191.95.130.187, ID 0) entered the game!
+2023-05-08T07:37:56+0200 [piqueserver.player#info] Duvancg-papu disconnected!
+2023-05-08T07:39:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:39:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:44:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:44:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:49:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:49:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:54:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:54:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T07:59:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T07:59:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:04:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:04:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:09:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:09:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:14:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:14:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:19:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:19:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:24:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:24:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:29:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:29:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:34:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:34:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:39:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:39:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:44:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:44:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:49:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:49:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:54:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:54:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T08:59:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T08:59:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:04:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:04:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:09:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:09:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:13:33+0200 [piqueserver.server#info] advancing to map 'beaulieu-abbey-zombie' (Time up!) in 10 seconds
+2023-05-08T09:13:43+0200 [piqueserver.map#info] Loading map 'Beaulieu Abbey Zombie'...
+2023-05-08T09:13:43+0200 [piqueserver.map#info] Map loaded successfully. (took 0.42s)
+2023-05-08T09:14:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:14:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:19:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:19:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:24:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:24:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:29:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:29:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:34:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:34:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:39:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:39:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:39:33+0200 [piqueserver.player#info] position 4 (IP 91.171.134.39, ID 0) entered the game!
+2023-05-08T09:39:33+0200 [piqueserver.commands#info] <position 4> /scripts  -> Scripts enabled: piqueserver.scripts.ups, piqueserver.scripts.rollback, piqueserver.scripts.protect, piqueserver.scripts.map_extensions, piqueserver.scripts.disco, piqueserver.scripts.votekick, piqueserver.scripts.votemap, piqueserver.scripts.trusted, piqueserver.scripts.ratio, piqueserver.scripts.passreload, piqueserver.scripts.blockinfo, piqueserver.scripts.squad, piqueserver.scripts.afk, piqueserver.scripts.babel_script, piqueserver.scripts.infiblocks
+2023-05-08T09:40:10+0200 [piqueserver.player#info] position 4 disconnected!
+2023-05-08T09:44:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:44:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:49:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:49:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:54:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:54:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T09:59:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T09:59:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:04:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:04:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:09:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:09:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:14:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:14:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:19:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:19:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:24:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:24:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:29:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:29:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:34:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:34:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:39:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:39:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:44:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:44:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:49:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:49:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:54:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:54:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T10:59:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T10:59:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:04:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:04:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:09:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:09:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:13:43+0200 [piqueserver.server#info] advancing to map 'firestorm' (Time up!) in 10 seconds
+2023-05-08T11:13:53+0200 [piqueserver.map#info] Loading map 'Firestorm'...
+2023-05-08T11:13:53+0200 [piqueserver.map#info] Map loaded successfully. (took 0.20s)
+2023-05-08T11:14:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:14:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:19:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:19:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:24:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:24:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:29:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:29:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:34:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:34:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:39:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:39:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:44:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:44:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:49:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:49:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:54:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:54:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T11:59:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T11:59:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:04:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:04:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:08:05+0200 [piqueserver.player#info] Deuce (IP 185.154.10.180, ID 0) entered the game!
+2023-05-08T12:08:44+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-08T12:09:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:09:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:14:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:14:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:19:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:19:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:24:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:24:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:29:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:29:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:34:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:34:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:39:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:39:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:44:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:44:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:49:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:49:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:54:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:54:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T12:59:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T12:59:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:04:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:04:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:09:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:09:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:13:54+0200 [piqueserver.server#info] advancing to map 'blam' (Time up!) in 10 seconds
+2023-05-08T13:14:04+0200 [piqueserver.map#info] Loading map 'blam'...
+2023-05-08T13:14:04+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-08T13:14:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:14:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:19:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:19:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:23:59+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-08T13:24:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:24:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:29:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:29:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:34:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:34:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:39:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:39:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:44:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:44:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:49:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:49:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:54:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:54:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T13:59:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T13:59:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:04:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:04:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:09:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:09:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:14:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:14:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:19:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:19:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:24:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:24:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:29:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:29:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:34:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:34:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:39:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:39:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:44:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:44:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:49:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:49:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:54:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:54:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T14:59:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T14:59:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:04:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:04:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:09:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:09:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:14:04+0200 [piqueserver.server#info] advancing to map 'crossfire2' (Time up!) in 10 seconds
+2023-05-08T15:14:14+0200 [piqueserver.map#info] Loading map 'crossfire2'...
+2023-05-08T15:14:14+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-05-08T15:14:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:14:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:19:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:19:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:24:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:24:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:29:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:29:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:34:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:34:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:39:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:39:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:44:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:44:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:49:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:49:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:54:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:54:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T15:59:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T15:59:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:04:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:04:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:09:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:09:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:14:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:14:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:19:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:19:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:24:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:24:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:29:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:29:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:34:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:34:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:39:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:40:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:45:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:45:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:50:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:50:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T16:55:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T16:55:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:00:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:00:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:05:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:05:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:10:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:10:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:14:14+0200 [piqueserver.server#info] advancing to map 'crossfire3' (Time up!) in 10 seconds
+2023-05-08T17:14:24+0200 [piqueserver.map#info] Loading map 'Crossfire 3'...
+2023-05-08T17:14:24+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-08T17:15:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:15:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:20:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:20:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:25:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:25:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:30:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:30:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:35:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:35:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:40:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:40:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:45:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:45:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:50:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:50:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T17:55:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T17:55:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:00:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:00:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:05:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:05:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:10:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:10:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:15:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:15:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:20:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:20:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:25:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:25:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:30:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:30:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:35:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:35:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:40:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:40:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:45:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:45:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:50:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:50:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T18:55:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T18:55:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:00:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:00:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:05:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:05:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:10:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:10:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:14:25+0200 [piqueserver.server#info] advancing to map 'ellipsis' (Time up!) in 10 seconds
+2023-05-08T19:14:35+0200 [piqueserver.map#info] Loading map 'Ellipsis'...
+2023-05-08T19:14:35+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-08T19:15:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:15:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:20:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:20:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:23:59+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-08T19:25:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:25:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:30:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:30:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:32:24+0200 [piqueserver.player#info] 89.64.54.84 disconnected
+2023-05-08T19:35:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:35:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:40:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:40:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:45:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:45:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:50:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:50:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T19:55:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T19:55:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:00:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:00:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:05:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:05:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:10:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:10:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:15:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:15:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:20:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:20:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:25:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:25:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:30:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:30:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:35:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:35:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:40:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:40:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:45:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:45:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:50:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:50:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T20:55:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T20:55:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:00:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:00:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:05:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:05:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:10:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:10:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:14:35+0200 [piqueserver.server#info] advancing to map 'puzzleisland' (Time up!) in 10 seconds
+2023-05-08T21:14:45+0200 [piqueserver.map#info] Loading map 'Puzzle Island'...
+2023-05-08T21:14:45+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-05-08T21:15:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:15:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:20:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:20:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:25:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:25:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:30:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:30:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:35:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:35:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:40:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:40:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:45:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:45:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:50:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:50:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T21:55:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T21:55:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:00:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:00:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:05:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:05:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:10:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:10:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:15:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:15:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:20:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:20:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:25:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:25:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:30:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:30:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:35:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:35:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:40:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:40:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:45:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:45:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:50:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:50:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T22:55:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T22:55:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:00:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:00:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:05:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:05:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:10:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:10:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:14:45+0200 [piqueserver.server#info] advancing to map 'forks' (Time up!) in 10 seconds
+2023-05-08T23:14:55+0200 [piqueserver.map#info] Loading map 'forks'...
+2023-05-08T23:14:55+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-05-08T23:15:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:15:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:20:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:20:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:25:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:25:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:30:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:30:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:35:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:35:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:40:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:40:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:45:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:45:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:50:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:50:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-08T23:55:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-08T23:55:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls

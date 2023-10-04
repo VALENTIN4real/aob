@@ -1,0 +1,1898 @@
+2023-05-26T00:04:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:04:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:09:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:09:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:14:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:14:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:19:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:19:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:24:40+0200 [piqueserver.server#info] advancing to map '1river2night' (Time up!) in 10 seconds
+2023-05-26T00:24:50+0200 [piqueserver.map#info] Loading map '1river2night'...
+2023-05-26T00:24:50+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-26T00:24:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:24:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:29:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:29:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:34:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:34:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:39:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:39:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:44:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:44:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:49:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:49:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:54:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:54:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T00:59:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T00:59:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:04:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:04:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:09:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:09:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:14:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:14:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:19:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:19:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:23:59+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-26T01:24:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:24:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:29:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:29:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:34:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:34:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:39:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:39:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:44:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:45:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:50:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:50:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T01:55:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T01:55:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:00:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:00:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:05:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:05:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:10:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:10:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:15:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:15:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:20:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:20:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:24:50+0200 [piqueserver.server#info] advancing to map 'beaulieu-abbey-zombie' (Time up!) in 10 seconds
+2023-05-26T02:25:00+0200 [piqueserver.map#info] Loading map 'Beaulieu Abbey Zombie'...
+2023-05-26T02:25:00+0200 [piqueserver.map#info] Map loaded successfully. (took 0.42s)
+2023-05-26T02:25:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:25:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:30:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:30:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:35:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:35:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:40:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:40:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:45:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:45:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:50:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:50:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T02:55:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T02:55:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:00:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:00:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:05:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:05:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:10:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:10:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:15:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:15:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:20:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:20:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:25:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:25:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:30:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:30:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:35:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:35:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:40:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:40:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:45:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:45:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:50:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:50:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T03:55:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T03:55:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:00:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:00:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:05:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:05:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:10:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:10:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:15:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:15:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:20:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:20:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:25:01+0200 [piqueserver.server#info] advancing to map 'firestorm' (Time up!) in 10 seconds
+2023-05-26T04:25:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:25:11+0200 [piqueserver.map#info] Loading map 'Firestorm'...
+2023-05-26T04:25:11+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-26T04:25:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:30:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:30:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:35:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:35:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:40:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:40:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:45:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:45:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:50:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:50:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T04:55:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T04:55:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:00:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:00:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:05:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:05:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:10:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:10:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:15:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:15:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:20:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:20:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:25:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:25:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:30:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:30:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:35:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:35:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:40:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:40:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:45:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:45:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:50:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:50:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T05:55:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T05:55:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:00:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:00:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:05:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:05:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:10:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:10:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:15:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:15:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:20:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:20:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:25:11+0200 [piqueserver.server#info] advancing to map 'blam' (Time up!) in 10 seconds
+2023-05-26T06:25:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:25:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:25:21+0200 [piqueserver.map#info] Loading map 'blam'...
+2023-05-26T06:25:21+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-26T06:30:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:30:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:35:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:35:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:40:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:40:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:45:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:45:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:50:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:50:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T06:55:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T06:55:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:00:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:00:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:05:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:05:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:10:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:10:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:15:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:15:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:20:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:20:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:23:59+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-26T07:25:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:25:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:30:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:30:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:35:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:35:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:40:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:40:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:45:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:45:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:50:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:50:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T07:55:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T07:55:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:00:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:00:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:05:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:05:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:10:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:10:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:15:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:15:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:20:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:20:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:25:21+0200 [piqueserver.server#info] advancing to map 'crossfire2' (Time up!) in 10 seconds
+2023-05-26T08:25:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:25:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:25:31+0200 [piqueserver.map#info] Loading map 'crossfire2'...
+2023-05-26T08:25:32+0200 [piqueserver.map#info] Map loaded successfully. (took 0.26s)
+2023-05-26T08:30:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:30:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:35:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:35:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:40:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:40:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:45:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:45:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:50:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:50:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T08:51:55+0200 [piqueserver.player#info] Deuce (IP 93.23.251.162, ID 11) entered the game!
+2023-05-26T08:52:29+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-26T08:55:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T08:55:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:00:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:00:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:05:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:05:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:10:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:10:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:15:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:15:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:20:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:20:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:25:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:25:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:30:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:30:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:35:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:35:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:40:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:40:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:45:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:45:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:50:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:50:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T09:55:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T09:55:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:00:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:00:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:05:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:05:35+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:10:35+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:10:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:15:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:15:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:20:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:20:36+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:25:32+0200 [piqueserver.server#info] advancing to map 'crossfire3' (Time up!) in 10 seconds
+2023-05-26T10:25:36+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:25:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:25:42+0200 [piqueserver.map#info] Loading map 'Crossfire 3'...
+2023-05-26T10:25:42+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-26T10:30:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:30:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:35:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:35:37+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:40:37+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:40:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:45:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:45:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:50:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:50:38+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T10:55:38+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T10:55:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:00:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:00:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:05:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:05:39+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:10:39+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:10:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:15:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:15:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:20:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:20:40+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:25:40+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:25:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:30:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:30:41+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:35:41+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:35:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:40:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:40:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:45:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:45:42+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:50:42+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:50:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T11:55:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T11:55:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:00:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:00:43+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:05:43+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:05:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:10:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:10:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:15:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:15:44+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:20:44+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:20:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:25:42+0200 [piqueserver.server#info] advancing to map 'ellipsis' (Time up!) in 10 seconds
+2023-05-26T12:25:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:25:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:25:52+0200 [piqueserver.map#info] Loading map 'Ellipsis'...
+2023-05-26T12:25:52+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-26T12:30:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:30:45+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:35:45+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:35:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:40:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:40:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:45:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:45:46+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:50:46+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:50:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T12:55:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T12:55:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:00:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:00:47+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:05:47+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:05:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:10:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:10:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:15:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:15:48+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:20:48+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:20:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:23:59+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-26T13:25:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:25:49+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:30:49+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:30:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:35:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:35:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:40:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:40:50+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:45:50+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:45:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:50:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:50:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T13:55:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T13:55:51+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:00:51+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:00:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:05:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:05:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:10:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:10:52+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:15:52+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:15:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:20:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:20:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:25:52+0200 [piqueserver.server#info] advancing to map 'puzzleisland' (Time up!) in 10 seconds
+2023-05-26T14:25:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:25:53+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:26:02+0200 [piqueserver.map#info] Loading map 'Puzzle Island'...
+2023-05-26T14:26:02+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-26T14:30:53+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:30:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:35:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:35:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:40:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:40:54+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:45:54+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:45:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:50:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:50:55+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T14:55:55+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T14:55:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:00:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:00:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:05:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:05:56+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:10:56+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:10:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:15:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:15:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:20:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:20:57+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:25:57+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:25:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:30:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:30:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:35:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:35:58+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:40:58+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:40:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:45:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:45:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:50:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:50:59+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T15:55:59+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T15:56:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:01:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:01:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:06:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:06:00+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:11:00+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:11:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:16:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:16:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:21:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:21:01+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:26:01+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:26:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:26:03+0200 [piqueserver.server#info] advancing to map 'forks' (Time up!) in 10 seconds
+2023-05-26T16:26:13+0200 [piqueserver.map#info] Loading map 'forks'...
+2023-05-26T16:26:13+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-26T16:31:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:31:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:36:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:36:02+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:41:02+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:41:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:46:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:46:03+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:51:03+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:51:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T16:56:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T16:56:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:01:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:01:04+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:06:04+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:06:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:11:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:11:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:16:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:16:05+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:21:05+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:21:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:26:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:26:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:31:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:31:06+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:36:06+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:36:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:41:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:41:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:46:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:46:07+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:51:07+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:51:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T17:56:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T17:56:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:01:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:01:08+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:06:08+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:06:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:11:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:11:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:16:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:16:09+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:21:09+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:21:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:26:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:26:10+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:26:13+0200 [piqueserver.server#info] advancing to map 'frog' (Time up!) in 10 seconds
+2023-05-26T18:26:23+0200 [piqueserver.map#info] Loading map 'Frog'...
+2023-05-26T18:26:23+0200 [piqueserver.map#info] Map loaded successfully. (took 0.23s)
+2023-05-26T18:31:10+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:31:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:36:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:36:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:41:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:41:11+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:46:11+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:46:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:51:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:51:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T18:53:09+0200 [piqueserver.player#info] sainth (IP 46.211.76.226, ID 11) entered the game!
+2023-05-26T18:56:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T18:56:12+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:00:52+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 30) entered the game!
+2023-05-26T19:01:12+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:01:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:05:20+0200 [piqueserver.player#info] Stinky (IP 31.48.74.101, ID 17) entered the game!
+2023-05-26T19:06:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:06:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:09:25+0200 [piqueserver.player#info] OnlyFans (IP 201.25.167.34, ID 12) entered the game!
+2023-05-26T19:09:49+0200 [piqueserver.player#info] <OnlyFans> bitch for spawn killing
+2023-05-26T19:11:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:11:13+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:11:53+0200 [piqueserver.player#info] <Stinky> whats the problem?
+2023-05-26T19:12:09+0200 [piqueserver.player#info] <OnlyFans> For me?
+2023-05-26T19:12:11+0200 [piqueserver.player#info] <OnlyFans> Nothing
+2023-05-26T19:12:20+0200 [piqueserver.player#info] <OnlyFans> U were just spawn killing
+2023-05-26T19:12:25+0200 [piqueserver.player#info] <Stinky> calling me bitch for spawn killing u
+2023-05-26T19:12:39+0200 [piqueserver.player#info] <Stinky> dude its just practice jeez chill
+2023-05-26T19:12:50+0200 [piqueserver.player#info] <OnlyFans> And now that i'mm an awesome player, i'm going to make u rage quit
+2023-05-26T19:13:24+0200 [piqueserver.player#info] <Stinky> In ur dreams funny boi
+2023-05-26T19:13:37+0200 [piqueserver.player#info] <OnlyFans> U have
+2023-05-26T19:13:44+0200 [piqueserver.player#info] <OnlyFans> 10 kills
+2023-05-26T19:13:50+0200 [piqueserver.player#info] <OnlyFans> I have 5
+2023-05-26T19:14:55+0200 [piqueserver.player#info] LAZY C4 CHARGE disconnected!
+2023-05-26T19:15:47+0200 [piqueserver.player#info] Stinky disconnected!
+2023-05-26T19:16:09+0200 [piqueserver.player#info] 185.154.11.201 disconnected
+2023-05-26T19:16:13+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:16:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:21:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:21:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:23:59+0200 [piqueserver.server#info] starting ban vacuum with 0 bans
+2023-05-26T19:26:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:26:14+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:26:16+0200 [piqueserver.player#info] DUA|Changiiii (IP 88.68.100.116, ID 17) entered the game!
+2023-05-26T19:26:16+0200 [piqueserver.commands#info] <DUA|Changiiii> /scripts  -> Scripts enabled: piqueserver.scripts.ups, piqueserver.scripts.rollback, piqueserver.scripts.protect, piqueserver.scripts.map_extensions, piqueserver.scripts.disco, piqueserver.scripts.votekick, piqueserver.scripts.votemap, piqueserver.scripts.trusted, piqueserver.scripts.ratio, piqueserver.scripts.passreload, piqueserver.scripts.blockinfo, piqueserver.scripts.squad, piqueserver.scripts.afk, piqueserver.scripts.babel_script, piqueserver.scripts.infiblocks
+2023-05-26T19:26:46+0200 [piqueserver.player#info] <OnlyFans> DUA We are just buillding. If u start killing, i'm going to kill u
+2023-05-26T19:26:52+0200 [piqueserver.player#info] <DUA|Changiiii> lol
+2023-05-26T19:26:58+0200 [piqueserver.player#info] <OnlyFans> just kidding
+2023-05-26T19:27:11+0200 [piqueserver.player#info] <DUA|Changiiii> oky then
+2023-05-26T19:27:37+0200 [piqueserver.player#info] RakoBanks (IP 176.151.247.240, ID 30) entered the game!
+2023-05-26T19:28:08+0200 [piqueserver.player#info] lusca  (IP 179.209.245.248, ID 7) entered the game!
+2023-05-26T19:29:23+0200 [piqueserver.player#info] <DUA|Changiiii> funny how you say something bot no kill and you started killing
+2023-05-26T19:29:29+0200 [piqueserver.player#info] lusca  disconnected!
+2023-05-26T19:29:36+0200 [piqueserver.player#info] <OnlyFans> U started destroyng the buiding
+2023-05-26T19:29:43+0200 [piqueserver.player#info] <DUA|Changiiii> you started killing
+2023-05-26T19:29:43+0200 [piqueserver.player#info] <RakoBanks> no kill ?
+2023-05-26T19:29:49+0200 [piqueserver.player#info] <OnlyFans> Now i'm going to show u how a pro plays
+2023-05-26T19:29:58+0200 [piqueserver.player#info] <DUA|Changiiii> oky
+2023-05-26T19:30:17+0200 [piqueserver.player#info] <RakoBanks> lets kill him
+2023-05-26T19:30:20+0200 [piqueserver.player#info] <RakoBanks> gg
+2023-05-26T19:30:49+0200 [piqueserver.player#info] Wagner Scout (IP 198.245.103.175, ID 7) entered the game!
+2023-05-26T19:30:53+0200 [piqueserver.commands#info] <Wagner Scout> /ping  -> Your ping is 165 ms. Lower ping is better!
+2023-05-26T19:31:14+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:31:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:31:23+0200 [piqueserver.commands#info] <DUA|Changiiii> /client #12 -> OnlyFans is connected with OpenSpades v0.1.2 on Windows 8
+2023-05-26T19:32:02+0200 [piqueserver.player#info] <OnlyFans> Just that?!
+2023-05-26T19:33:10+0200 [piqueserver.player#info] <OnlyFans> SAINTH FINISH MY STAIRS I"LL PROTECT YOU
+2023-05-26T19:33:33+0200 [piqueserver.player#info] <DUA|Changiiii> ...
+2023-05-26T19:34:09+0200 [piqueserver.player#info] Dan (IP 178.248.251.106, ID 9) entered the game!
+2023-05-26T19:34:38+0200 [piqueserver.player#info] <DUA|Changiiii> hmm
+2023-05-26T19:34:49+0200 [piqueserver.player#info] <OnlyFans> Why u guys aways come on the sides?
+2023-05-26T19:34:56+0200 [piqueserver.player#info] retry (IP 81.39.37.0, ID 26) entered the game!
+2023-05-26T19:35:06+0200 [piqueserver.player#info] <DUA|Changiiii> testing
+2023-05-26T19:35:42+0200 [piqueserver.player#info] Wagner Scout disconnected!
+2023-05-26T19:36:04+0200 [piqueserver.player#info] <OnlyFans> retry behing u
+2023-05-26T19:36:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:36:15+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:36:30+0200 [piqueserver.player#info] <DUA|Changiiii> oky how do you always know from wher iam comminh?
+2023-05-26T19:36:39+0200 [piqueserver.player#info] <OnlyFans> Simples
+2023-05-26T19:36:53+0200 [piqueserver.player#info] <DUA|Changiiii> tell me how then :D
+2023-05-26T19:37:09+0200 [piqueserver.player#info] <OnlyFans> U aways come to the sides, I want to finish the stairs. So i think you are going to spawn kill
+2023-05-26T19:37:22+0200 [piqueserver.player#info] <DUA|Changiiii> lol i see you dont know me
+2023-05-26T19:37:24+0200 [piqueserver.player#info] <OnlyFans> So i decided to build my stairs
+2023-05-26T19:37:40+0200 [piqueserver.player#info] <OnlyFans> bbla bla bla 4 kills
+2023-05-26T19:37:46+0200 [piqueserver.player#info] <DUA|Changiiii> lol
+2023-05-26T19:38:11+0200 [piqueserver.player#info] <DUA|Changiiii> welp good to know that not everyone knows me
+2023-05-26T19:38:18+0200 [piqueserver.player#info] <OnlyFans> bla bla bla
+2023-05-26T19:38:22+0200 [piqueserver.player#info] <OnlyFans> talk less play better
+2023-05-26T19:38:29+0200 [piqueserver.player#info] <DUA|Changiiii> nahh
+2023-05-26T19:38:46+0200 [piqueserver.player#info] elionmas333 (IP 190.29.248.173, ID 7) entered the game!
+2023-05-26T19:39:00+0200 [piqueserver.player#info] <OnlyFans> 2 on the right
+2023-05-26T19:39:16+0200 [piqueserver.player#info] Dskay (IP 152.173.39.75, ID 2) entered the game!
+2023-05-26T19:39:40+0200 [piqueserver.player#info] <DUA|Changiiii> ...
+2023-05-26T19:39:56+0200 [piqueserver.player#info] <OnlyFans> But that guy is strange
+2023-05-26T19:40:02+0200 [piqueserver.player#info] <OnlyFans> Lets votekick him?
+2023-05-26T19:40:08+0200 [piqueserver.player#info] <Dskay> what xd
+2023-05-26T19:40:40+0200 [piqueserver.player#info] <OnlyFans> If u guys think he is cheating, i can change teams to deal with him.
+2023-05-26T19:41:15+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:41:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:42:01+0200 [piqueserver.player#info] elionmas333 disconnected!
+2023-05-26T19:42:10+0200 [piqueserver.player#info] Dan disconnected!
+2023-05-26T19:42:14+0200 [piqueserver.player#info] <Dskay> gg wp
+2023-05-26T19:42:16+0200 [piqueserver.player#info] Dskay disconnected!
+2023-05-26T19:42:22+0200 [piqueserver.commands#info] <OnlyFans> /votekick Dskay hacking -> Invalid Player\nUsage: /votekick <player name or id> <reason>
+2023-05-26T19:42:32+0200 [piqueserver.player#info] <OnlyFans> I banned him
+2023-05-26T19:42:36+0200 [piqueserver.player#info] <RakoBanks> thx
+2023-05-26T19:42:38+0200 [piqueserver.player#info] <DUA|Changiiii> lol
+2023-05-26T19:45:34+0200 [piqueserver.player#info] Eduorc (IP 181.221.53.144, ID 2) entered the game!
+2023-05-26T19:45:39+0200 [piqueserver.player#info] <OnlyFans> Do u guys use headphones?
+2023-05-26T19:45:42+0200 [piqueserver.player#info] <Eduorc> im coming for you guys
+2023-05-26T19:45:44+0200 [piqueserver.player#info] <OnlyFans> U should
+2023-05-26T19:45:48+0200 [piqueserver.player#info] <Eduorc> run for your life
+2023-05-26T19:46:03+0200 [piqueserver.player#info] <OnlyFans> Try me Eduorc
+2023-05-26T19:46:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:46:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:46:18+0200 [piqueserver.player#info] <Eduorc> run
+2023-05-26T19:46:29+0200 [piqueserver.player#info] Kikas (IP 82.155.248.104, ID 9) entered the game!
+2023-05-26T19:47:01+0200 [piqueserver.player#info] <OnlyFans> Wecome RakoBanks
+2023-05-26T19:47:36+0200 [piqueserver.player#info] <DUA|Changiiii> ...
+2023-05-26T19:47:56+0200 [piqueserver.player#info] <Eduorc> im coming for you guys
+2023-05-26T19:47:58+0200 [piqueserver.player#info] <Eduorc> run for your life
+2023-05-26T19:48:34+0200 [piqueserver.player#info] <Eduorc> ez
+2023-05-26T19:49:02+0200 [piqueserver.player#info] <OnlyFans> Time to teach u guys a lesson u will never forget
+2023-05-26T19:50:03+0200 [piqueserver.player#info] <Eduorc> you better run
+2023-05-26T19:50:21+0200 [piqueserver.player#info] <Eduorc> run
+2023-05-26T19:50:23+0200 [piqueserver.player#info] <Eduorc> forest
+2023-05-26T19:50:24+0200 [piqueserver.player#info] <Eduorc> run
+2023-05-26T19:50:29+0200 [piqueserver.player#info] RakoBanks disconnected!
+2023-05-26T19:50:49+0200 [piqueserver.player#info] <OnlyFans> u trash eduorc
+2023-05-26T19:51:00+0200 [piqueserver.player#info] <Eduorc> ez kill
+2023-05-26T19:51:03+0200 [piqueserver.player#info] <Eduorc> next...
+2023-05-26T19:51:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:51:16+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:51:47+0200 [piqueserver.player#info] <Eduorc> cheater
+2023-05-26T19:51:58+0200 [piqueserver.player#info] <OnlyFans> Im not cheater
+2023-05-26T19:52:00+0200 [piqueserver.player#info] <OnlyFans> Im admin
+2023-05-26T19:52:13+0200 [piqueserver.player#info] <DUA|Changiiii> ...
+2023-05-26T19:52:16+0200 [piqueserver.player#info] <Eduorc> lier
+2023-05-26T19:52:28+0200 [piqueserver.player#info] <DUA|Changiiii> did that dude just tp?
+2023-05-26T19:52:30+0200 [piqueserver.player#info] <OnlyFans> I saw u looking throut the floor seaarching for me
+2023-05-26T19:52:40+0200 [piqueserver.player#info] <Eduorc> you cheating bro
+2023-05-26T19:52:45+0200 [piqueserver.player#info] <DUA|Changiiii> voxlap moment
+2023-05-26T19:52:59+0200 [piqueserver.player#info] <OnlyFans> Im only going to kill Eduorc
+2023-05-26T19:53:00+0200 [piqueserver.player#info] <Eduorc> he needs to cheat
+2023-05-26T19:53:09+0200 [piqueserver.player#info] <OnlyFans> sorry dua
+2023-05-26T19:53:15+0200 [piqueserver.player#info] <Eduorc> or will die like a piece of shit
+2023-05-26T19:53:43+0200 [piqueserver.player#info] <Eduorc> piece of shit
+2023-05-26T19:53:54+0200 [piqueserver.player#info] <OnlyFans> im not going to ban u
+2023-05-26T19:54:05+0200 [piqueserver.player#info] <Eduorc> why?
+2023-05-26T19:54:08+0200 [piqueserver.player#info] <Eduorc> becouse you cant
+2023-05-26T19:54:12+0200 [piqueserver.player#info] <Eduorc> if you can, kick me
+2023-05-26T19:54:15+0200 [piqueserver.player#info] <Eduorc> i
+2023-05-26T19:54:34+0200 [piqueserver.player#info] <Eduorc> kick me
+2023-05-26T19:54:36+0200 [piqueserver.player#info] <Eduorc> if you can
+2023-05-26T19:54:39+0200 [piqueserver.player#info] <Eduorc> piece of shit
+2023-05-26T19:54:44+0200 [piqueserver.player#info] <OnlyFans> Its more fun to me to keep killing u
+2023-05-26T19:54:54+0200 [piqueserver.player#info] <Eduorc> try to kill me like a man
+2023-05-26T19:55:26+0200 [piqueserver.player#info] 94.19.143.121 disconnected
+2023-05-26T19:55:27+0200 [piqueserver.player#info] retry disconnected!
+2023-05-26T19:55:36+0200 [piqueserver.player#info] <Eduorc> coward
+2023-05-26T19:55:52+0200 [piqueserver.player#info] <Eduorc> hahaha
+2023-05-26T19:56:08+0200 [piqueserver.player#info] <Eduorc> noobie
+2023-05-26T19:56:16+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T19:56:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T19:56:20+0200 [piqueserver.player#info] <Eduorc> hahhaha
+2023-05-26T19:56:46+0200 [piqueserver.player#info] <Eduorc> you are a joke man
+2023-05-26T19:57:52+0200 [piqueserver.player#info] <DUA|Changiiii> ohh
+2023-05-26T19:58:08+0200 [piqueserver.player#info] <DUA|Changiiii> i saw noclip le
+2023-05-26T19:58:11+0200 [piqueserver.player#info] <DUA|Changiiii> l
+2023-05-26T19:58:11+0200 [piqueserver.player#info] RakoBanks (IP 176.151.247.240, ID 26) entered the game!
+2023-05-26T19:58:15+0200 [piqueserver.player#info] <Eduorc> ye
+2023-05-26T19:58:17+0200 [piqueserver.player#info] <Eduorc> noob
+2023-05-26T19:58:24+0200 [piqueserver.player#info] sainth disconnected!
+2023-05-26T19:58:26+0200 [piqueserver.player#info] Eduorc disconnected!
+2023-05-26T19:58:31+0200 [piqueserver.player#info] <OnlyFans> of course i'm 
+2023-05-26T19:58:35+0200 [piqueserver.player#info] <OnlyFans> He was cheating
+2023-05-26T19:58:40+0200 [piqueserver.player#info] <DUA|Changiiii> and?
+2023-05-26T19:58:59+0200 [piqueserver.player#info] Kikas disconnected!
+2023-05-26T19:59:03+0200 [piqueserver.player#info] <OnlyFans> And i played killing him a lot until he rage quitted
+2023-05-26T19:59:08+0200 [piqueserver.player#info] Eduorc (IP 181.221.53.144, ID 2) entered the game!
+2023-05-26T19:59:14+0200 [piqueserver.player#info] <DUA|Changiiii> with noclip?
+2023-05-26T19:59:20+0200 [piqueserver.player#info] <RakoBanks> onlyfans is alone is his team not fair
+2023-05-26T19:59:24+0200 [piqueserver.player#info] <OnlyFans> No clip, teleportim him
+2023-05-26T19:59:28+0200 [piqueserver.player#info] <DUA|Changiiii> nahh hes admin
+2023-05-26T19:59:32+0200 [piqueserver.player#info] <Eduorc> how to enable nocip?
+2023-05-26T19:59:34+0200 [piqueserver.player#info] <DUA|Changiiii> so he says
+2023-05-26T19:59:35+0200 [piqueserver.player#info] <Eduorc> hes not admin bro
+2023-05-26T19:59:37+0200 [piqueserver.player#info] <Eduorc> its a cheat
+2023-05-26T19:59:39+0200 [piqueserver.player#info] <Eduorc> hacker
+2023-05-26T19:59:51+0200 [piqueserver.player#info] <DUA|Changiiii> welp yeah he is indeed a script kiddo
+2023-05-26T19:59:55+0200 [piqueserver.player#info] <Eduorc> im leaving
+2023-05-26T19:59:58+0200 [piqueserver.player#info] <Eduorc> let him alone
+2023-05-26T19:59:58+0200 [piqueserver.player#info] <OnlyFans> bye
+2023-05-26T20:00:08+0200 [piqueserver.player#info] <Eduorc> he died a ton of times
+2023-05-26T20:00:11+0200 [piqueserver.player#info] <Eduorc> and enabled
+2023-05-26T20:00:12+0200 [piqueserver.player#info] <OnlyFans> bye bye
+2023-05-26T20:00:37+0200 [piqueserver.player#info] Eduorc disconnected!
+2023-05-26T20:00:41+0200 [piqueserver.player#info] <OnlyFans> See?
+2023-05-26T20:00:49+0200 [piqueserver.player#info] <RakoBanks> so you're the admin?
+2023-05-26T20:01:00+0200 [piqueserver.player#info] <OnlyFans> Actually no THE ADMIN
+2023-05-26T20:01:13+0200 [piqueserver.player#info] <DUA|Changiiii> and a script kiddo
+2023-05-26T20:01:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:01:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:01:25+0200 [piqueserver.player#info] <OnlyFans> He made a login for me too spectate and have fun with cheaters
+2023-05-26T20:01:49+0200 [piqueserver.player#info] <DUA|Changiiii> you need to login for spec.. lol
+2023-05-26T20:01:59+0200 [piqueserver.player#info] <OnlyFans> I can Ban just like I did with the first guy, or play, just like i did with this one
+2023-05-26T20:02:22+0200 [piqueserver.player#info] <OnlyFans> There is another map that i made, that i can give u the login access if u want
+2023-05-26T20:03:06+0200 [piqueserver.player#info] <DUA|Changiiii> ohh so you noclip against me too?
+2023-05-26T20:03:14+0200 [piqueserver.player#info] <RakoBanks> what is noclip?
+2023-05-26T20:03:18+0200 [piqueserver.player#info] <DUA|Changiiii> typicall
+2023-05-26T20:03:20+0200 [piqueserver.player#info] <OnlyFans> I'm not killing u
+2023-05-26T20:03:25+0200 [piqueserver.player#info] <OnlyFans> Just having fun
+2023-05-26T20:03:27+0200 [piqueserver.player#info] <DUA|Changiiii> and?
+2023-05-26T20:03:51+0200 [piqueserver.player#info] <DUA|Changiiii> yeah you no mod or admin here lol
+2023-05-26T20:03:53+0200 [piqueserver.commands#info] <DUA|Changiiii> /kill 
+2023-05-26T20:04:13+0200 [stdout#info] Command login failed with args: []
+2023-05-26T20:04:13+0200 [stderr#error] Traceback (most recent call last):
+2023-05-26T20:04:13+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 438, in _handle_command
+2023-05-26T20:04:13+0200 [stderr#error]     return command_func(connection, *parameters)
+2023-05-26T20:04:13+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 268, in _decorated
+2023-05-26T20:04:13+0200 [stderr#error]     return func(connection, *args, **kwargs)
+2023-05-26T20:04:13+0200 [stderr#error] TypeError: login() missing 1 required positional argument: 'password'
+2023-05-26T20:04:13+0200 [piqueserver.commands#info] <OnlyFans> /login  -> Command failed\nUsage: /login <password>
+2023-05-26T20:04:39+0200 [piqueserver.player#info] <OnlyFans> type /login in the chat and any word. Will appear wrong answer
+2023-05-26T20:04:52+0200 [piqueserver.player#info] <DUA|Changiiii> i know how that works lol
+2023-05-26T20:05:03+0200 [piqueserver.player#info] <OnlyFans> Ex.:: /login Only
+2023-05-26T20:05:17+0200 [piqueserver.player#info] <OnlyFans> Yeah. But Kako don't
+2023-05-26T20:05:35+0200 [piqueserver.player#info] <OnlyFans> Did guys knew that u have flashlight??!
+2023-05-26T20:05:38+0200 [piqueserver.player#info] <RakoBanks> yes
+2023-05-26T20:05:43+0200 [piqueserver.player#info] <RakoBanks> f
+2023-05-26T20:05:46+0200 [piqueserver.player#info] <DUA|Changiiii> i dont 
+2023-05-26T20:05:53+0200 [piqueserver.player#info] <OnlyFans> See DUAL??
+2023-05-26T20:06:05+0200 [piqueserver.player#info] <OnlyFans> Press F
+2023-05-26T20:06:13+0200 [piqueserver.player#info] <DUA|Changiiii> that does not work lol
+2023-05-26T20:06:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:06:17+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:06:25+0200 [piqueserver.player#info] RakoBanks disconnected!
+2023-05-26T20:06:29+0200 [piqueserver.player#info] <OnlyFans> U are using open spades or Build and Shoot??
+2023-05-26T20:06:38+0200 [piqueserver.player#info] <DUA|Changiiii> the only real one
+2023-05-26T20:06:46+0200 [piqueserver.player#info] <OnlyFans> Both are real
+2023-05-26T20:06:59+0200 [piqueserver.player#info] <DUA|Changiiii> nahh there is only 1 real one :D
+2023-05-26T20:07:00+0200 [piqueserver.player#info] <OnlyFans> Both can bring u to this game and servers
+2023-05-26T20:07:02+0200 [piqueserver.player#info] RodaN (IP 177.10.6.198, ID 2) entered the game!
+2023-05-26T20:07:11+0200 [piqueserver.player#info] <OnlyFans> The OpenSpades has a better graphic
+2023-05-26T20:07:23+0200 [piqueserver.player#info] <DUA|Changiiii> and?
+2023-05-26T20:07:30+0200 [piqueserver.player#info] <OnlyFans> And Flashlights
+2023-05-26T20:07:35+0200 [piqueserver.player#info] <DUA|Changiiii> i aint no graphic bitch
+2023-05-26T20:07:42+0200 [piqueserver.player#info] <OnlyFans> And Servers in the version 0,76
+2023-05-26T20:07:55+0200 [piqueserver.player#info] <RodaN> damn olyfans
+2023-05-26T20:08:03+0200 [piqueserver.player#info] <DUA|Changiiii> agin you seem to not know me
+2023-05-26T20:08:14+0200 [piqueserver.player#info] <OnlyFans> sorry RodaN miss clicked the button
+2023-05-26T20:08:21+0200 [piqueserver.player#info] <RodaN> yes i see
+2023-05-26T20:08:28+0200 [piqueserver.player#info] <RodaN> nice hack
+2023-05-26T20:08:32+0200 [piqueserver.player#info] <RodaN> its me DisK
+2023-05-26T20:08:34+0200 [piqueserver.player#info] <OnlyFans> Admin not hacks
+2023-05-26T20:08:39+0200 [piqueserver.player#info] <OnlyFans> OH SHIT
+2023-05-26T20:08:44+0200 [piqueserver.player#info] <OnlyFans> DISK??
+2023-05-26T20:08:49+0200 [piqueserver.player#info] <OnlyFans> What's up
+2023-05-26T20:08:57+0200 [piqueserver.player#info] <RodaN> TIS YOUR SERVER?
+2023-05-26T20:09:02+0200 [piqueserver.player#info] <RodaN> its
+2023-05-26T20:09:04+0200 [piqueserver.player#info] <OnlyFans> A friend of mine
+2023-05-26T20:09:08+0200 [piqueserver.player#info] <RodaN> nice
+2023-05-26T20:09:21+0200 [piqueserver.player#info] <DUA|Changiiii> if this is your server make a good server
+2023-05-26T20:09:37+0200 [piqueserver.player#info] <OnlyFans> Like I said, its not mine.. 
+2023-05-26T20:09:40+0200 [piqueserver.player#info] <DUA|Changiiii> either TDM or CTF with maps like chicago or faceoff
+2023-05-26T20:09:42+0200 [piqueserver.player#info] <OnlyFans> Its from a friend of mine
+2023-05-26T20:09:53+0200 [piqueserver.player#info] <DUA|Changiiii> ohh iu was holding intel
+2023-05-26T20:10:34+0200 [piqueserver.player#info] RodaN disconnected!
+2023-05-26T20:10:48+0200 [piqueserver.player#info] <DUA|Changiiii> welp i have other stuff to do.. maybe i join back later
+2023-05-26T20:10:54+0200 [piqueserver.player#info] <OnlyFans> Bye
+2023-05-26T20:11:00+0200 [piqueserver.player#info] <DUA|Changiiii> cya kiddo
+2023-05-26T20:11:07+0200 [piqueserver.player#info] DUA|Changiiii disconnected!
+2023-05-26T20:11:08+0200 [piqueserver.player#info] OnlyFans disconnected!
+2023-05-26T20:11:17+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:11:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:16:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:16:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:19:12+0200 [piqueserver.player#info] Dan (IP 178.248.251.106, ID 12) entered the game!
+2023-05-26T20:19:18+0200 [piqueserver.player#info] Dan disconnected!
+2023-05-26T20:19:34+0200 [piqueserver.player#info] Dan (IP 178.248.251.106, ID 12) entered the game!
+2023-05-26T20:21:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:21:18+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:21:36+0200 [piqueserver.player#info] 94.19.143.121 disconnected
+2023-05-26T20:26:18+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:26:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:26:23+0200 [piqueserver.server#info] advancing to map 'goonassaultjapan' (Time up!) in 10 seconds
+2023-05-26T20:26:33+0200 [piqueserver.map#info] Loading map 'Goonassault Japan'...
+2023-05-26T20:26:33+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-26T20:26:43+0200 [piqueserver.player#info] 178.248.251.106 disconnected
+2023-05-26T20:31:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:31:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:36:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:36:19+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:41:19+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:41:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:46:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:46:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:51:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:51:20+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T20:56:20+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T20:56:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:01:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:01:21+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:02:29+0200 [piqueserver.player#info] Born (IP 5.248.64.172, ID 12) entered the game!
+2023-05-26T21:02:45+0200 [piqueserver.player#info] Born disconnected!
+2023-05-26T21:05:39+0200 [piqueserver.player#info] titicaca (IP 174.204.135.184, ID 12) entered the game!
+2023-05-26T21:06:11+0200 [piqueserver.player#info] SUPERMNK (IP 41.62.91.5, ID 17) entered the game!
+2023-05-26T21:06:21+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:06:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:07:50+0200 [piqueserver.player#info] a bomber plane (IP 98.29.226.244, ID 2) entered the game!
+2023-05-26T21:07:55+0200 [piqueserver.player#info] <a bomber plane> yess
+2023-05-26T21:07:57+0200 [piqueserver.player#info] <titicaca> xD
+2023-05-26T21:08:05+0200 [piqueserver.player#info] <titicaca> i want to do that map that looks like a spider web
+2023-05-26T21:08:07+0200 [piqueserver.player#info] <titicaca> can we vote/
+2023-05-26T21:08:09+0200 [piqueserver.commands#info] <titicaca> /votemap 
+2023-05-26T21:08:13+0200 [piqueserver.player#info] shadecool (IP 79.250.96.56, ID 26) entered the game!
+2023-05-26T21:08:14+0200 [piqueserver.player#info] <titicaca> idk what its claled
+2023-05-26T21:08:21+0200 [piqueserver.commands#info] <a bomber plane> /vote extend
+2023-05-26T21:08:28+0200 [piqueserver.commands#info] <titicaca> /votemap 
+2023-05-26T21:08:40+0200 [piqueserver.commands#info] <titicaca> /vote satellite
+2023-05-26T21:08:53+0200 [piqueserver.commands#info] <SUPERMNK> /vote extend
+2023-05-26T21:08:54+0200 [piqueserver.player#info] living costs (IP 5.173.156.70, ID 9) entered the game!
+2023-05-26T21:09:16+0200 [piqueserver.player#info] 3X3=18 (IP 81.36.14.21, ID 11) entered the game!
+2023-05-26T21:09:23+0200 [piqueserver.commands#info] <titicaca> /vote satellite
+2023-05-26T21:09:53+0200 [piqueserver.player#info] unko (IP 122.26.19.13, ID 30) entered the game!
+2023-05-26T21:11:05+0200 [piqueserver.player#info] Born (IP 5.248.64.172, ID 7) entered the game!
+2023-05-26T21:11:17+0200 [piqueserver.player#info] <Born> Did aloha die?
+2023-05-26T21:11:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:11:22+0200 [piqueserver.player#info] <titicaca> it did 
+2023-05-26T21:11:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:11:23+0200 [piqueserver.player#info] <a bomber plane> i guess
+2023-05-26T21:11:31+0200 [piqueserver.player#info] <a bomber plane> overnight!????
+2023-05-26T21:11:34+0200 [piqueserver.player#info] <titicaca> nah like
+2023-05-26T21:11:36+0200 [piqueserver.player#info] <titicaca> a few mins ago
+2023-05-26T21:11:37+0200 [piqueserver.player#info] <a bomber plane> or day
+2023-05-26T21:11:44+0200 [piqueserver.player#info] <a bomber plane> oh dang
+2023-05-26T21:11:50+0200 [piqueserver.player#info] Bigy B (IP 212.235.173.212, ID 14) entered the game!
+2023-05-26T21:11:52+0200 [piqueserver.player#info] <a bomber plane> i was too late :(
+2023-05-26T21:11:54+0200 [piqueserver.player#info] <titicaca> xD
+2023-05-26T21:12:31+0200 [piqueserver.player#info] Deuce (IP 170.150.206.101, ID 1) entered the game!
+2023-05-26T21:12:35+0200 [piqueserver.player#info] <Born> Left side 1
+2023-05-26T21:12:36+0200 [piqueserver.player#info] <a bomber plane> shadecool, be carefull please
+2023-05-26T21:12:43+0200 [piqueserver.player#info] TeploDeda (IP 95.174.112.250, ID 21) entered the game!
+2023-05-26T21:13:45+0200 [piqueserver.player#info] CodeMonkey (IP 69.8.168.137, ID 4) entered the game!
+2023-05-26T21:13:46+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-26T21:13:51+0200 [piqueserver.player#info] CodeMonkey disconnected!
+2023-05-26T21:13:56+0200 [piqueserver.commands#info] <titicaca> /vote satellite -> No map vote in progress.
+2023-05-26T21:14:05+0200 [stdout#info] Command vote failed with args: []
+2023-05-26T21:14:05+0200 [stderr#error] Traceback (most recent call last):
+2023-05-26T21:14:05+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 438, in _handle_command
+2023-05-26T21:14:05+0200 [stderr#error]     return command_func(connection, *parameters)
+2023-05-26T21:14:05+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 268, in _decorated
+2023-05-26T21:14:05+0200 [stderr#error]     return func(connection, *args, **kwargs)
+2023-05-26T21:14:05+0200 [stderr#error] TypeError: votemap_vote() missing 1 required positional argument: 'value'
+2023-05-26T21:14:05+0200 [piqueserver.commands#info] <titicaca> /vote  -> Command failed
+2023-05-26T21:14:07+0200 [piqueserver.commands#info] <titicaca> /votemap 
+2023-05-26T21:14:09+0200 [piqueserver.commands#info] <titicaca> /vote satellite
+2023-05-26T21:14:23+0200 [piqueserver.player#info] CodeMonkey (IP 69.8.168.137, ID 4) entered the game!
+2023-05-26T21:14:30+0200 [piqueserver.player#info] <titicaca> wait so votemaps only show a small selection of maps to choose each time instead of the whole list?
+2023-05-26T21:14:39+0200 [piqueserver.player#info] <titicaca> weird
+2023-05-26T21:14:44+0200 [piqueserver.player#info] don't go (IP 58.236.55.84, ID 1) entered the game!
+2023-05-26T21:14:53+0200 [piqueserver.commands#info] <titicaca> /votemap blam
+2023-05-26T21:14:58+0200 [piqueserver.commands#info] <titicaca> /vote blam
+2023-05-26T21:15:12+0200 [piqueserver.player#info] TeploDeda disconnected!
+2023-05-26T21:15:17+0200 [piqueserver.player#info] Crash Override (IP 71.113.173.152, ID 27) entered the game!
+2023-05-26T21:15:19+0200 [piqueserver.player#info] <CodeMonkey> Why the fuck do we spawn in  death water?
+2023-05-26T21:15:24+0200 [piqueserver.player#info] <a bomber plane> idk
+2023-05-26T21:15:29+0200 [piqueserver.player#info] <titicaca> ikr
+2023-05-26T21:15:30+0200 [piqueserver.player#info] monjys (IP 190.122.3.17, ID 23) entered the game!
+2023-05-26T21:15:37+0200 [piqueserver.player#info] <CodeMonkey> So fake, gay, and retarded
+2023-05-26T21:15:59+0200 [piqueserver.player#info] Bigy B disconnected!
+2023-05-26T21:16:18+0200 [stdout#info] Command vote failed with args: []
+2023-05-26T21:16:18+0200 [stderr#error] Traceback (most recent call last):
+2023-05-26T21:16:18+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 438, in _handle_command
+2023-05-26T21:16:18+0200 [stderr#error]     return command_func(connection, *parameters)
+2023-05-26T21:16:18+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 268, in _decorated
+2023-05-26T21:16:18+0200 [stderr#error]     return func(connection, *args, **kwargs)
+2023-05-26T21:16:18+0200 [stderr#error] TypeError: votemap_vote() missing 1 required positional argument: 'value'
+2023-05-26T21:16:18+0200 [piqueserver.commands#info] <Born> /vote  -> Command failed
+2023-05-26T21:16:19+0200 [piqueserver.player#info] voxel (IP 93.140.243.60, ID 14) entered the game!
+2023-05-26T21:16:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:16:22+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:16:30+0200 [piqueserver.player#info] CodeMonkey disconnected!
+2023-05-26T21:16:35+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 21) entered the game!
+2023-05-26T21:16:38+0200 [piqueserver.player#info] <a bomber plane> SPAWNKILLERS
+2023-05-26T21:16:52+0200 [piqueserver.commands#info] <Born> /vote bridgetofar -> No map vote in progress.
+2023-05-26T21:16:55+0200 [piqueserver.player#info] <titicaca> damn ncie
+2023-05-26T21:17:14+0200 [piqueserver.commands#info] <Born> /vote icecraft -> No map vote in progress.
+2023-05-26T21:17:54+0200 [piqueserver.player#info] <titicaca> the deathwater is ass bc if you cover it up, you cant dig it and if you fall in you're fucked
+2023-05-26T21:18:20+0200 [piqueserver.player#info] NNN (IP 83.23.23.98, ID 4) entered the game!
+2023-05-26T21:18:22+0200 [piqueserver.player#info] <a bomber plane> SPAWnKillers
+2023-05-26T21:18:39+0200 [piqueserver.player#info] -SKY-nw mo i th (IP 190.112.96.41, ID 24) entered the game!
+2023-05-26T21:18:44+0200 [piqueserver.player#info] <-SKY-nw mo i th> babel trash
+2023-05-26T21:18:44+0200 [piqueserver.player#info] don't go disconnected!
+2023-05-26T21:19:04+0200 [piqueserver.player#info] elionmas333 (IP 190.29.248.173, ID 19) entered the game!
+2023-05-26T21:19:24+0200 [piqueserver.player#info] monjys disconnected!
+2023-05-26T21:19:35+0200 [piqueserver.player#info] TeploDeda (IP 95.174.112.250, ID 23) entered the game!
+2023-05-26T21:20:27+0200 [piqueserver.player#info] quetzalcoatl (IP 174.115.159.63, ID 1) entered the game!
+2023-05-26T21:21:22+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:21:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:21:34+0200 [piqueserver.player#info] careca (IP 45.190.148.182, ID 18) entered the game!
+2023-05-26T21:21:39+0200 [piqueserver.player#info] da leite (IP 45.190.148.182, ID 13) entered the game!
+2023-05-26T21:21:43+0200 [piqueserver.player#info] <da leite> gg
+2023-05-26T21:22:09+0200 [piqueserver.player#info] BreadEatingOrc (IP 46.49.4.193, ID 3) entered the game!
+2023-05-26T21:22:10+0200 [piqueserver.player#info] 1ch (IP 85.89.126.34, ID 5) entered the game!
+2023-05-26T21:22:13+0200 [piqueserver.player#info] <careca> GOZEI NA SUA IRMA AQUELA GOSTOSA
+2023-05-26T21:23:03+0200 [piqueserver.player#info] <voxel> s
+2023-05-26T21:23:06+0200 [piqueserver.commands#info] <voxel> /squad 1 -> You are now in squad 1.
+2023-05-26T21:23:14+0200 [piqueserver.player#info] <voxel> 1 : go /squad 1 to spawn in enemy base
+2023-05-26T21:23:24+0200 [piqueserver.commands#info] <-SKY-nw mo i th> /sQUAD 1 -> You are now in squad 1.
+2023-05-26T21:23:31+0200 [piqueserver.player#info] <voxel> 1 : join /squad 1
+2023-05-26T21:23:42+0200 [piqueserver.commands#info] <BreadEatingOrc> /squad 1 -> You are now in squad 1.
+2023-05-26T21:23:45+0200 [piqueserver.player#info] <careca> RTYHRTYRGDFGDFG
+2023-05-26T21:23:50+0200 [piqueserver.player#info] da leite1 (IP 45.190.148.182, ID 28) entered the game!
+2023-05-26T21:24:02+0200 [piqueserver.player#info] TeploDeda disconnected!
+2023-05-26T21:24:13+0200 [piqueserver.player#info] careca disconnected!
+2023-05-26T21:24:17+0200 [piqueserver.player#info] Gungard (IP 31.150.208.1, ID 25) entered the game!
+2023-05-26T21:24:27+0200 [piqueserver.player#info] da leite1 disconnected!
+2023-05-26T21:24:27+0200 [piqueserver.player#info] da leite disconnected!
+2023-05-26T21:24:58+0200 [piqueserver.player#info] <voxel> 1 : squad dum dums
+2023-05-26T21:25:03+0200 [piqueserver.player#info] <voxel> 1 : you are at enemy base
+2023-05-26T21:25:43+0200 [piqueserver.player#info] <BreadEatingOrc> weeb map
+2023-05-26T21:25:43+0200 [piqueserver.player#info] RuneKiller (IP 212.112.149.205, ID 13) entered the game!
+2023-05-26T21:26:07+0200 [piqueserver.player#info] <voxel> 1 : my squad IQ is negative 1000
+2023-05-26T21:26:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:26:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:26:30+0200 [piqueserver.player#info] <voxel> 1 : why are you going back to our spawn
+2023-05-26T21:26:32+0200 [piqueserver.player#info] <BreadEatingOrc> 1 : tell me what to do
+2023-05-26T21:26:42+0200 [piqueserver.player#info] <BreadEatingOrc> 1 : firt time playing this map
+2023-05-26T21:26:50+0200 [piqueserver.player#info] <voxel> 1 : dig enemy tower
+2023-05-26T21:27:03+0200 [piqueserver.player#info] <voxel> 1 : i spawn you on enemy base
+2023-05-26T21:27:05+0200 [piqueserver.player#info] <voxel> 1 : just dig it
+2023-05-26T21:27:08+0200 [piqueserver.player#info] living costs disconnected!
+2023-05-26T21:27:33+0200 [piqueserver.commands#info] <quetzalcoatl> /ratio  -> You have a kill-death ratio of 4.25 (17 kills, 4 deaths).
+2023-05-26T21:27:45+0200 [piqueserver.player#info] <voxel> 1 : that's the point of the game, build tower before enemy, to capture intel which is located on top platform
+2023-05-26T21:27:46+0200 [piqueserver.player#info] Bill Gates >:] (IP 88.110.107.131, ID 9) entered the game!
+2023-05-26T21:27:46+0200 [piqueserver.player#info] elionmas333 disconnected!
+2023-05-26T21:27:50+0200 [piqueserver.player#info] <voxel> 1 : destroy enemy tower
+2023-05-26T21:28:04+0200 [piqueserver.player#info] elionmas333 (IP 190.29.248.173, ID 19) entered the game!
+2023-05-26T21:28:20+0200 [piqueserver.player#info] <voxel> 1 : squad rox
+2023-05-26T21:28:35+0200 [piqueserver.player#info] <voxel> lol
+2023-05-26T21:28:42+0200 [piqueserver.player#info] elionmas333 disconnected!
+2023-05-26T21:28:44+0200 [piqueserver.player#info] <voxel> he found me
+2023-05-26T21:29:03+0200 [piqueserver.player#info] elionmas333 (IP 190.29.248.173, ID 19) entered the game!
+2023-05-26T21:29:08+0200 [piqueserver.player#info] Dr. Mailetz II (IP 109.252.86.218, ID 28) entered the game!
+2023-05-26T21:29:21+0200 [piqueserver.player#info] <titicaca> 3 oranges on left
+2023-05-26T21:29:29+0200 [piqueserver.player#info] <titicaca> right*
+2023-05-26T21:29:45+0200 [piqueserver.player#info] Ghost (IP 173.76.164.207, ID 23) entered the game!
+2023-05-26T21:29:45+0200 [piqueserver.player#info] otavio pedreiro (IP 177.18.140.102, ID 18) entered the game!
+2023-05-26T21:29:50+0200 [piqueserver.player#info] <BreadEatingOrc> lel
+2023-05-26T21:29:52+0200 [piqueserver.player#info] <titicaca> lmao
+2023-05-26T21:29:53+0200 [piqueserver.player#info] <voxel> lol
+2023-05-26T21:30:04+0200 [piqueserver.player#info] quetzalcoatl disconnected!
+2023-05-26T21:30:16+0200 [piqueserver.player#info] NNN disconnected!
+2023-05-26T21:30:36+0200 [piqueserver.player#info] RuneKiller disconnected!
+2023-05-26T21:31:17+0200 [piqueserver.player#info] <voxel> 1 : yes dig dig dig
+2023-05-26T21:31:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:31:23+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:31:32+0200 [piqueserver.player#info] Dr. Mailetz II disconnected!
+2023-05-26T21:32:13+0200 [piqueserver.player#info] <titicaca> their bridge almost snappedy
+2023-05-26T21:32:15+0200 [piqueserver.player#info] RuneKiller (IP 212.112.149.205, ID 28) entered the game!
+2023-05-26T21:32:37+0200 [piqueserver.player#info] RuneKiller disconnected!
+2023-05-26T21:32:54+0200 [piqueserver.player#info] <voxel> 1 : dig dig dig
+2023-05-26T21:32:55+0200 [piqueserver.player#info] <-SKY-nw mo i th> HERE
+2023-05-26T21:33:17+0200 [piqueserver.player#info] Deuce (IP 83.135.240.0, ID 4) entered the game!
+2023-05-26T21:33:17+0200 [piqueserver.player#info] RuneKiller (IP 212.112.149.205, ID 28) entered the game!
+2023-05-26T21:33:19+0200 [piqueserver.player#info] Mortenkiller (IP 83.137.124.56, ID 13) entered the game!
+2023-05-26T21:33:21+0200 [piqueserver.player#info] <voxel> YEEEEEE
+2023-05-26T21:33:22+0200 [piqueserver.player#info] <BreadEatingOrc> lel
+2023-05-26T21:33:23+0200 [piqueserver.player#info] <a bomber plane> ??????
+2023-05-26T21:33:24+0200 [piqueserver.player#info] <voxel> bois
+2023-05-26T21:33:24+0200 [piqueserver.player#info] <-SKY-nw mo i th> nice
+2023-05-26T21:33:25+0200 [piqueserver.player#info] <voxel> gg
+2023-05-26T21:33:25+0200 [piqueserver.player#info] <Born> Omg
+2023-05-26T21:33:27+0200 [piqueserver.player#info] <1ch> wwwwwwwwwwwwwwwwwwwwwwwww
+2023-05-26T21:33:28+0200 [piqueserver.player#info] <voxel> kek
+2023-05-26T21:33:33+0200 [piqueserver.player#info] <voxel> we gotcha em
+2023-05-26T21:33:33+0200 [piqueserver.player#info] <titicaca> guys lets go take out their bridge bc we have none
+2023-05-26T21:33:35+0200 [piqueserver.player#info] <3X3=18> GUAU!!!!!!!!!!!!!!!!!!!!!
+2023-05-26T21:33:40+0200 [piqueserver.player#info] <voxel> best squad evar
+2023-05-26T21:33:40+0200 [piqueserver.player#info] Gungard disconnected!
+2023-05-26T21:33:43+0200 [piqueserver.player#info] <1ch> it was so good
+2023-05-26T21:33:46+0200 [piqueserver.player#info] a bomber plane disconnected!
+2023-05-26T21:33:48+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : cover the yellow tower
+2023-05-26T21:34:07+0200 [piqueserver.player#info] <voxel> i think they  will revenge fast
+2023-05-26T21:34:15+0200 [piqueserver.player#info] <voxel> build faster
+2023-05-26T21:34:20+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : in spawn bruh
+2023-05-26T21:34:22+0200 [piqueserver.player#info] <3X3=18> ENTERA
+2023-05-26T21:34:38+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : people in spawn 
+2023-05-26T21:34:59+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-26T21:34:59+0200 [piqueserver.player#info] <voxel> yeah one
+2023-05-26T21:35:17+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : enemies in the spawn 
+2023-05-26T21:35:18+0200 [piqueserver.player#info] <voxel> got him
+2023-05-26T21:35:25+0200 [piqueserver.player#info] <voxel> 1 : spawn clean
+2023-05-26T21:35:39+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : more people
+2023-05-26T21:35:48+0200 [piqueserver.player#info] <LAZY C4 CHARGE> they try destroy tower
+2023-05-26T21:35:54+0200 [piqueserver.player#info] <-SKY-nw mo i th> yep
+2023-05-26T21:35:57+0200 [piqueserver.player#info] <Crash Override> get their tower
+2023-05-26T21:36:00+0200 [piqueserver.player#info] <Bill Gates >:]> dat math
+2023-05-26T21:36:23+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:36:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:36:39+0200 [piqueserver.player#info] <RuneKiller> IS IS ALWAYS THIS MAP OR WILL IT CHANEG?
+2023-05-26T21:36:41+0200 [piqueserver.player#info] <voxel> 1 : we should try to destroy their house in spawn
+2023-05-26T21:37:01+0200 [piqueserver.player#info] <voxel> 1 : the one on left
+2023-05-26T21:37:07+0200 [piqueserver.player#info] <Born> It will change
+2023-05-26T21:37:32+0200 [piqueserver.player#info] <Born> Some one needs to win or it will change in 1 hour
+2023-05-26T21:37:35+0200 [piqueserver.player#info] <titicaca> ikr
+2023-05-26T21:37:40+0200 [piqueserver.player#info] 1ch disconnected!
+2023-05-26T21:37:47+0200 [piqueserver.player#info] <titicaca> theyre placing a ton of block so they'll prob win
+2023-05-26T21:38:15+0200 [piqueserver.player#info] LAZY C4 CHARGE disconnected!
+2023-05-26T21:38:21+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : in the middlñe
+2023-05-26T21:38:57+0200 [piqueserver.player#info] Ghost disconnected!
+2023-05-26T21:39:05+0200 [piqueserver.player#info] <RuneKiller> HOW DO I TAKE THE FLAG?
+2023-05-26T21:39:13+0200 [piqueserver.player#info] <voxel> wont tell ya xD
+2023-05-26T21:39:13+0200 [piqueserver.player#info] <titicaca> build a bridge to the top
+2023-05-26T21:39:21+0200 [piqueserver.player#info] <RuneKiller> PLEASE VOXEL
+2023-05-26T21:39:21+0200 [piqueserver.player#info] <voxel> filty purples
+2023-05-26T21:39:27+0200 [piqueserver.player#info] <BreadEatingOrc> you run it over, F-ing CIA niggers
+2023-05-26T21:39:29+0200 [piqueserver.player#info] otavio pedreiro disconnected!
+2023-05-26T21:39:29+0200 [piqueserver.player#info] <Bill Gates >:]> we're building their bridge now?
+2023-05-26T21:39:42+0200 [piqueserver.player#info] <voxel> don't u dare to take our intel!!
+2023-05-26T21:39:43+0200 [piqueserver.player#info] <titicaca> nah
+2023-05-26T21:39:54+0200 [piqueserver.player#info] <titicaca> or i guess we just used theirs LMFAO
+2023-05-26T21:39:55+0200 [piqueserver.player#info] <Bill Gates >:]> we just borrowing it
+2023-05-26T21:39:58+0200 [piqueserver.player#info] <titicaca> xD
+2023-05-26T21:40:09+0200 [piqueserver.player#info] <voxel> 1 : he is taking our tower to get the intel ._.
+2023-05-26T21:40:17+0200 [piqueserver.player#info] <BreadEatingOrc> dingo ate your intel
+2023-05-26T21:40:38+0200 [piqueserver.player#info] <voxel> f
+2023-05-26T21:41:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:41:24+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:41:56+0200 [piqueserver.player#info] Mbappe (IP 121.128.56.147, ID 18) entered the game!
+2023-05-26T21:42:00+0200 [piqueserver.player#info] <titicaca> oranges over here building the mcdonalds arcs
+2023-05-26T21:42:05+0200 [piqueserver.player#info] Bale (IP 187.250.235.98, ID 23) entered the game!
+2023-05-26T21:42:11+0200 [piqueserver.player#info] NNN (IP 83.23.23.98, ID 21) entered the game!
+2023-05-26T21:42:15+0200 [piqueserver.player#info] <Bill Gates >:]> falling too far is safe and effective
+2023-05-26T21:42:17+0200 [piqueserver.player#info] <Mbappe> wtf Bale
+2023-05-26T21:42:18+0200 [piqueserver.player#info] <BreadEatingOrc> I'm lovin it
+2023-05-26T21:42:30+0200 [piqueserver.player#info] <Mbappe> a retiree
+2023-05-26T21:42:49+0200 [piqueserver.player#info] Stein (IP 191.181.58.111, ID 4) entered the game!
+2023-05-26T21:43:10+0200 [piqueserver.player#info] mastter  XD LAG (IP 181.95.230.234, ID 5) entered the game!
+2023-05-26T21:43:11+0200 [piqueserver.player#info] <BreadEatingOrc> crap
+2023-05-26T21:43:14+0200 [piqueserver.player#info] mastter  XD LAG disconnected!
+2023-05-26T21:43:46+0200 [piqueserver.player#info] <BreadEatingOrc> this is so less laggy than aloha, why? Small map?
+2023-05-26T21:43:56+0200 [piqueserver.commands#info] <Mbappe> /ups 30
+2023-05-26T21:43:57+0200 [piqueserver.player#info] <-SKY-nw mo i th> not
+2023-05-26T21:43:59+0200 [piqueserver.commands#info] <Born> /ping  -> Your ping is 67 ms. Lower ping is better!
+2023-05-26T21:44:01+0200 [piqueserver.player#info] <titicaca> nah last time it was a big map but no problem either
+2023-05-26T21:44:03+0200 [piqueserver.player#info] <-SKY-nw mo i th> aloha is trash
+2023-05-26T21:44:10+0200 [piqueserver.player#info] <Mbappe> aloha nowadays laggy crap
+2023-05-26T21:44:13+0200 [piqueserver.player#info] <Born> i got 60 ping this is better than aloha
+2023-05-26T21:44:21+0200 [piqueserver.player#info] Mortenkiller disconnected!
+2023-05-26T21:44:24+0200 [piqueserver.player#info] <voxel> cuz europe server
+2023-05-26T21:44:36+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : goooo have the intel
+2023-05-26T21:44:37+0200 [piqueserver.player#info] <BreadEatingOrc> it's not run on a laptop probably on a cruise ship in the middle of the ocean
+2023-05-26T21:44:59+0200 [piqueserver.player#info] Mortenkiller (IP 83.137.124.56, ID 13) entered the game!
+2023-05-26T21:45:03+0200 [piqueserver.player#info] Mortenkiller disconnected!
+2023-05-26T21:45:08+0200 [piqueserver.commands#info] <Mbappe> /scripts  -> Scripts enabled: piqueserver.scripts.ups, piqueserver.scripts.rollback, piqueserver.scripts.protect, piqueserver.scripts.map_extensions, piqueserver.scripts.disco, piqueserver.scripts.votekick, piqueserver.scripts.votemap, piqueserver.scripts.trusted, piqueserver.scripts.ratio, piqueserver.scripts.passreload, piqueserver.scripts.blockinfo, piqueserver.scripts.squad, piqueserver.scripts.afk, piqueserver.scripts.babel_script, piqueserver.scripts.infiblocks
+2023-05-26T21:45:27+0200 [piqueserver.player#info] Mortenkiller (IP 83.137.124.56, ID 13) entered the game!
+2023-05-26T21:45:32+0200 [piqueserver.commands#info] <Mbappe> /infiblocks  -> Unknown command
+2023-05-26T21:45:37+0200 [piqueserver.commands#info] <Mbappe> /commands 
+2023-05-26T21:45:57+0200 [piqueserver.player#info] <Born> Poope brown team deliver the intels
+2023-05-26T21:46:10+0200 [piqueserver.player#info] Stein disconnected!
+2023-05-26T21:46:24+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:46:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:46:26+0200 [piqueserver.player#info] Stein (IP 191.181.58.111, ID 4) entered the game!
+2023-05-26T21:47:08+0200 [piqueserver.player#info] Bale disconnected!
+2023-05-26T21:47:09+0200 [piqueserver.commands#info] <SUPERMNK> /apoc  -> Unknown command
+2023-05-26T21:47:16+0200 [piqueserver.commands#info] <BreadEatingOrc> /apoc  -> Unknown command
+2023-05-26T21:47:21+0200 [piqueserver.commands#info] <BreadEatingOrc> /heaven ge -> Unknown command
+2023-05-26T21:47:24+0200 [piqueserver.player#info] ttucson (IP 190.112.176.25, ID 5) entered the game!
+2023-05-26T21:47:25+0200 [piqueserver.player#info] Crash Override disconnected!
+2023-05-26T21:47:35+0200 [piqueserver.player#info] Stein disconnected!
+2023-05-26T21:47:56+0200 [piqueserver.player#info] <Bill Gates >:]> why voxel, i do declare
+2023-05-26T21:48:13+0200 [piqueserver.player#info] <Born> :(
+2023-05-26T21:48:23+0200 [piqueserver.commands#info] <voxel> /votekick ttucson teleporting
+2023-05-26T21:48:24+0200 [piqueserver.player#info] elionmas333 disconnected!
+2023-05-26T21:48:32+0200 [piqueserver.commands#info] <Born> /command  -> Unknown command
+2023-05-26T21:48:35+0200 [piqueserver.commands#info] <Born> /help 
+2023-05-26T21:49:03+0200 [piqueserver.commands#info] <Mbappe> /y 
+2023-05-26T21:49:20+0200 [piqueserver.player#info] Mortenkiller disconnected!
+2023-05-26T21:49:27+0200 [piqueserver.player#info] <BreadEatingOrc> lmao
+2023-05-26T21:49:28+0200 [piqueserver.player#info] <BreadEatingOrc> wtf
+2023-05-26T21:49:31+0200 [piqueserver.player#info] <voxel> say /y
+2023-05-26T21:49:32+0200 [piqueserver.player#info] Mortenkiller (IP 83.137.124.56, ID 13) entered the game!
+2023-05-26T21:49:36+0200 [piqueserver.player#info] <titicaca> bread is he yes or no
+2023-05-26T21:49:39+0200 [piqueserver.commands#info] <BreadEatingOrc> /y 
+2023-05-26T21:49:40+0200 [piqueserver.commands#info] <Born> /commands 
+2023-05-26T21:49:41+0200 [piqueserver.commands#info] <-SKY-nw mo i th> /Y 
+2023-05-26T21:49:43+0200 [piqueserver.player#info] <titicaca> ok
+2023-05-26T21:49:43+0200 [stdout#info] ttucson votekicked
+2023-05-26T21:49:43+0200 [piqueserver.player#info] ttucson disconnected!
+2023-05-26T21:49:43+0200 [piqueserver.commands#info] <titicaca> /y 
+2023-05-26T21:49:47+0200 [piqueserver.commands#info] <Born> /time  -> There are 52 minutes left
+2023-05-26T21:50:09+0200 [piqueserver.player#info] <Bill Gates >:]> it's the man from U.N.K.O 
+2023-05-26T21:50:24+0200 [piqueserver.player#info] <voxel> lol
+2023-05-26T21:50:35+0200 [piqueserver.player#info] <voxel> perfected
+2023-05-26T21:50:36+0200 [piqueserver.commands#info] <Born> /votemap 
+2023-05-26T21:50:39+0200 [piqueserver.player#info] Dave Dave (IP 149.241.255.167, ID 5) entered the game!
+2023-05-26T21:50:48+0200 [piqueserver.commands#info] <Mbappe> /vote roadisland
+2023-05-26T21:50:54+0200 [piqueserver.commands#info] <titicaca> /votemap 
+2023-05-26T21:51:07+0200 [piqueserver.commands#info] <titicaca> /votemap 2
+2023-05-26T21:51:21+0200 [piqueserver.commands#info] <Born> /vote bigasssideforts
+2023-05-26T21:51:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:51:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:51:35+0200 [piqueserver.player#info] <Bill Gates >:]> why did the chicken crossy the road?
+2023-05-26T21:51:44+0200 [piqueserver.player#info] <titicaca> why
+2023-05-26T21:51:49+0200 [piqueserver.player#info] <BreadEatingOrc> to get vaxxed
+2023-05-26T21:52:03+0200 [piqueserver.player#info] <BreadEatingOrc> safe and effective
+2023-05-26T21:52:13+0200 [piqueserver.player#info] <Bill Gates >:]> vaxxed chicken meat is S&E
+2023-05-26T21:52:25+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : up up
+2023-05-26T21:52:27+0200 [piqueserver.player#info] <-SKY-nw mo i th> 1 : back 
+2023-05-26T21:52:47+0200 [piqueserver.player#info] <Born> Noooo
+2023-05-26T21:52:55+0200 [piqueserver.player#info] <Bill Gates >:]> where is he?
+2023-05-26T21:53:32+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 19) entered the game!
+2023-05-26T21:53:46+0200 [piqueserver.player#info] 3X3=18 disconnected!
+2023-05-26T21:53:49+0200 [piqueserver.player#info] Mechy (IP 99.1.35.66, ID 4) entered the game!
+2023-05-26T21:53:57+0200 [piqueserver.player#info] Kony (IP 86.41.138.231, ID 11) entered the game!
+2023-05-26T21:53:59+0200 [piqueserver.player#info] Mechy disconnected!
+2023-05-26T21:54:21+0200 [piqueserver.player#info] <BreadEatingOrc> xren
+2023-05-26T21:54:30+0200 [piqueserver.player#info] <Bill Gates >:]> 11 years later and he's still got it
+2023-05-26T21:54:45+0200 [piqueserver.player#info] Mechy (IP 99.1.35.66, ID 27) entered the game!
+2023-05-26T21:54:47+0200 [piqueserver.player#info] Bladerunner2608 (IP 157.100.197.63, ID 4) entered the game!
+2023-05-26T21:54:54+0200 [piqueserver.player#info] Mechy disconnected!
+2023-05-26T21:55:18+0200 [piqueserver.player#info] Mechy (IP 99.1.35.66, ID 27) entered the game!
+2023-05-26T21:56:01+0200 [piqueserver.player#info] <Born> DELIVER THE INTEL why the fuck are you in our spawn
+2023-05-26T21:56:11+0200 [piqueserver.player#info] Ashlei (IP 112.198.208.230, ID 23) entered the game!
+2023-05-26T21:56:12+0200 [piqueserver.player#info] Bill Gates >:] disconnected!
+2023-05-26T21:56:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T21:56:25+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T21:56:30+0200 [piqueserver.player#info] <-SKY-nw mo i th> IN THE TOWER
+2023-05-26T21:56:35+0200 [piqueserver.player#info] <BreadEatingOrc> Playing for months and I thought this game had shit controlles
+2023-05-26T21:56:49+0200 [piqueserver.player#info] <BreadEatingOrc> turns out it's just alloha laggy as fuck
+2023-05-26T21:56:53+0200 [piqueserver.player#info] <titicaca> xD
+2023-05-26T21:56:54+0200 [piqueserver.player#info] <BreadEatingOrc> laggots
+2023-05-26T21:56:58+0200 [piqueserver.player#info] <titicaca> why havent oranges won yet
+2023-05-26T21:56:58+0200 [piqueserver.player#info] NNN disconnected!
+2023-05-26T21:57:10+0200 [piqueserver.player#info] <Mbappe> because we sucks
+2023-05-26T21:57:10+0200 [piqueserver.player#info] oli (IP 147.160.223.227, ID 9) entered the game!
+2023-05-26T21:57:13+0200 [piqueserver.player#info] <titicaca> :(
+2023-05-26T21:57:16+0200 [piqueserver.player#info] <voxel> cuz we like to see purple suffer
+2023-05-26T21:57:16+0200 [piqueserver.player#info] Mechy disconnected!
+2023-05-26T21:57:23+0200 [piqueserver.player#info] <Mbappe> no
+2023-05-26T21:57:26+0200 [piqueserver.player#info] <Mbappe> we sucks
+2023-05-26T21:57:50+0200 [piqueserver.player#info] vdsda (IP 217.83.158.234, ID 27) entered the game!
+2023-05-26T21:57:52+0200 [piqueserver.player#info] <-SKY-nw mo i th> 9jmce
+2023-05-26T21:57:58+0200 [piqueserver.player#info] <titicaca> 8anasj
+2023-05-26T21:58:03+0200 [piqueserver.player#info] <titicaca> 8anasj
+2023-05-26T21:58:06+0200 [piqueserver.player#info] Mechy (IP 99.1.35.66, ID 21) entered the game!
+2023-05-26T21:58:06+0200 [piqueserver.player#info] <-SKY-nw mo i th> xdç
+2023-05-26T21:58:16+0200 [piqueserver.player#info] <titicaca> wow
+2023-05-26T21:58:21+0200 [piqueserver.player#info] <BreadEatingOrc> grab the intel by the pussy
+2023-05-26T21:58:38+0200 [piqueserver.player#info] MetalPizzaBox (IP 174.249.178.12, ID 2) entered the game!
+2023-05-26T21:59:11+0200 [piqueserver.player#info] MetalPizzaBox disconnected!
+2023-05-26T22:00:17+0200 [piqueserver.player#info] R CONSERVADORA (IP 152.204.252.111, ID 2) entered the game!
+2023-05-26T22:00:23+0200 [piqueserver.player#info] <voxel> 1 : if you spawn on me, you will be at start of enemy tower
+2023-05-26T22:00:23+0200 [piqueserver.server#info] advancing to map 'roadisland' (Game finished!) in 10 seconds
+2023-05-26T22:00:24+0200 [piqueserver.player#info] <titicaca> gg
+2023-05-26T22:00:25+0200 [piqueserver.player#info] <-SKY-nw mo i th> GGX
+2023-05-26T22:00:27+0200 [piqueserver.commands#info] <titicaca> /votemap 
+2023-05-26T22:00:27+0200 [piqueserver.player#info] <Born> No way
+2023-05-26T22:00:28+0200 [piqueserver.player#info] <voxel> gg
+2023-05-26T22:00:32+0200 [piqueserver.player#info] <Born> 10 years later
+2023-05-26T22:00:33+0200 [piqueserver.map#info] Loading map 'Road Island'...
+2023-05-26T22:00:33+0200 [piqueserver.map#info] Map loaded successfully. (took 0.25s)
+2023-05-26T22:00:36+0200 [piqueserver.player#info] 112.198.208.230 disconnected
+2023-05-26T22:00:37+0200 [piqueserver.player#info] Kony (IP 86.41.138.231, ID 11) entered the game!
+2023-05-26T22:00:38+0200 [piqueserver.player#info] vdsda (IP 217.83.158.234, ID 27) entered the game!
+2023-05-26T22:00:39+0200 [piqueserver.player#info] Born (IP 5.248.64.172, ID 7) entered the game!
+2023-05-26T22:00:40+0200 [piqueserver.player#info] voxel (IP 93.140.243.60, ID 14) entered the game!
+2023-05-26T22:00:41+0200 [piqueserver.player#info] SUPERMNK (IP 41.62.91.5, ID 17) entered the game!
+2023-05-26T22:00:41+0200 [piqueserver.player#info] Dave Dave (IP 149.241.255.167, ID 5) entered the game!
+2023-05-26T22:00:41+0200 [piqueserver.player#info] titicaca (IP 174.204.135.184, ID 12) entered the game!
+2023-05-26T22:00:41+0200 [piqueserver.player#info] shadecool (IP 79.250.96.56, ID 26) entered the game!
+2023-05-26T22:00:42+0200 [piqueserver.player#info] RuneKiller (IP 212.112.149.205, ID 28) entered the game!
+2023-05-26T22:00:43+0200 [piqueserver.player#info] Mechy (IP 99.1.35.66, ID 21) entered the game!
+2023-05-26T22:00:43+0200 [piqueserver.player#info] BreadEatingOrc (IP 46.49.4.193, ID 3) entered the game!
+2023-05-26T22:00:44+0200 [piqueserver.commands#info] <titicaca> /votemap 
+2023-05-26T22:00:45+0200 [piqueserver.player#info] Mortenkiller (IP 83.137.124.56, ID 13) entered the game!
+2023-05-26T22:00:46+0200 [piqueserver.player#info] R CONSERVADORA (IP 152.204.252.111, ID 2) entered the game!
+2023-05-26T22:00:46+0200 [piqueserver.commands#info] <voxel> /squad 1 -> You are now in squad 1.
+2023-05-26T22:00:48+0200 [piqueserver.player#info] -SKY-nw mo i th (IP 190.112.96.41, ID 24) entered the game!
+2023-05-26T22:00:50+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 19) entered the game!
+2023-05-26T22:00:52+0200 [piqueserver.player#info] <titicaca> damn im waiting for satellite map
+2023-05-26T22:00:52+0200 [piqueserver.player#info] oli (IP 147.160.223.227, ID 9) entered the game!
+2023-05-26T22:00:54+0200 [piqueserver.player#info] Bladerunner2608 (IP 157.100.197.63, ID 4) entered the game!
+2023-05-26T22:00:59+0200 [piqueserver.player#info] <titicaca> why does votemap only show a subset of the whole list?
+2023-05-26T22:01:10+0200 [stdout#info] Command vote failed with args: []
+2023-05-26T22:01:10+0200 [stderr#error] Traceback (most recent call last):
+2023-05-26T22:01:10+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 438, in _handle_command
+2023-05-26T22:01:10+0200 [stderr#error]     return command_func(connection, *parameters)
+2023-05-26T22:01:10+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/commands.py", line 268, in _decorated
+2023-05-26T22:01:10+0200 [stderr#error]     return func(connection, *args, **kwargs)
+2023-05-26T22:01:10+0200 [stderr#error] TypeError: votemap_vote() missing 1 required positional argument: 'value'
+2023-05-26T22:01:10+0200 [piqueserver.commands#info] <RuneKiller> /vote  -> Command failed
+2023-05-26T22:01:16+0200 [piqueserver.commands#info] <BreadEatingOrc> /votemap 
+2023-05-26T22:01:18+0200 [piqueserver.player#info] Bladerunner2608 disconnected!
+2023-05-26T22:01:21+0200 [piqueserver.player#info] <-SKY-nw mo i th> nice map
+2023-05-26T22:01:25+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:01:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:01:30+0200 [piqueserver.player#info] unko (IP 122.26.19.13, ID 30) entered the game!
+2023-05-26T22:01:39+0200 [piqueserver.player#info] Bladerunner2608 (IP 157.100.197.63, ID 4) entered the game!
+2023-05-26T22:01:39+0200 [piqueserver.commands#info] <-SKY-nw mo i th> /vote extend
+2023-05-26T22:01:46+0200 [piqueserver.player#info] Mbappe (IP 121.128.56.147, ID 18) entered the game!
+2023-05-26T22:01:55+0200 [piqueserver.player#info] <-SKY-nw mo i th> mbappe god
+2023-05-26T22:01:59+0200 [piqueserver.player#info] <Mbappe> except the fog,
+2023-05-26T22:02:02+0200 [piqueserver.player#info] <titicaca> yep
+2023-05-26T22:02:04+0200 [piqueserver.player#info] <Mbappe> this is a good map
+2023-05-26T22:02:10+0200 [piqueserver.player#info] <Mbappe> except the fog
+2023-05-26T22:02:11+0200 [piqueserver.player#info] <-SKY-nw mo i th> YEAH
+2023-05-26T22:02:20+0200 [piqueserver.commands#info] <-SKY-nw mo i th> /Ups 20
+2023-05-26T22:02:28+0200 [piqueserver.player#info] I never (IP 109.202.78.126, ID 23) entered the game!
+2023-05-26T22:02:40+0200 [piqueserver.player#info] RuneKiller disconnected!
+2023-05-26T22:02:42+0200 [piqueserver.player#info] -SKY-nw mo i th disconnected!
+2023-05-26T22:02:44+0200 [piqueserver.player#info] Mechy disconnected!
+2023-05-26T22:03:06+0200 [piqueserver.player#info] -SKY-nw mo i th (IP 190.112.96.41, ID 21) entered the game!
+2023-05-26T22:03:08+0200 [piqueserver.player#info] RuneKiller (IP 212.112.149.205, ID 24) entered the game!
+2023-05-26T22:03:28+0200 [piqueserver.player#info] Mortenkiller disconnected!
+2023-05-26T22:03:39+0200 [piqueserver.player#info] Mortenkiller (IP 83.137.124.56, ID 13) entered the game!
+2023-05-26T22:04:06+0200 [piqueserver.player#info] RuneKiller disconnected!
+2023-05-26T22:04:21+0200 [piqueserver.player#info] Ashlei (IP 112.198.208.230, ID 28) entered the game!
+2023-05-26T22:04:25+0200 [piqueserver.player#info] LAZY C4 CHARGE disconnected!
+2023-05-26T22:04:26+0200 [piqueserver.player#info] -SKY-nw mo i th disconnected!
+2023-05-26T22:04:31+0200 [piqueserver.player#info] RuneKiller (IP 212.112.149.205, ID 24) entered the game!
+2023-05-26T22:04:31+0200 [piqueserver.player#info] oli disconnected!
+2023-05-26T22:04:53+0200 [piqueserver.player#info] sunken studios (IP 73.211.113.247, ID 9) entered the game!
+2023-05-26T22:05:24+0200 [piqueserver.player#info] <titicaca> LMFAO
+2023-05-26T22:05:26+0200 [piqueserver.player#info] <titicaca> well played
+2023-05-26T22:05:29+0200 [piqueserver.player#info] <Dave Dave> oops
+2023-05-26T22:05:29+0200 [piqueserver.player#info] sunken studios disconnected!
+2023-05-26T22:05:32+0200 [piqueserver.player#info] Nerotupapi30 (IP 190.79.112.248, ID 21) entered the game!
+2023-05-26T22:05:42+0200 [piqueserver.player#info] <Born> S
+2023-05-26T22:05:57+0200 [piqueserver.player#info] <Born> STOP DIGING SHIT AND START BUILDING
+2023-05-26T22:06:02+0200 [piqueserver.player#info] <Nerotupapi30> no
+2023-05-26T22:06:22+0200 [piqueserver.player#info] <Nerotupapi30> mbappe
+2023-05-26T22:06:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:06:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:06:27+0200 [piqueserver.player#info] <Mbappe> sir
+2023-05-26T22:06:32+0200 [piqueserver.player#info] <Nerotupapi30> oh yeah
+2023-05-26T22:06:56+0200 [piqueserver.player#info] <Nerotupapi30> oh shit
+2023-05-26T22:06:56+0200 [piqueserver.player#info] <Mbappe> sorry tu papi
+2023-05-26T22:07:03+0200 [piqueserver.player#info] <Nerotupapi30> jajajaja marico no te vi xd
+2023-05-26T22:07:18+0200 [piqueserver.player#info] <Born> we lost
+2023-05-26T22:07:29+0200 [piqueserver.player#info] <Nerotupapi30> no joda x
+2023-05-26T22:07:39+0200 [piqueserver.player#info] <Mbappe> I'm comin' with ya
+2023-05-26T22:07:40+0200 [piqueserver.player#info] RakoBanks (IP 176.151.247.240, ID 9) entered the game!
+2023-05-26T22:07:55+0200 [piqueserver.player#info] <Nerotupapi30> uuf
+2023-05-26T22:08:21+0200 [piqueserver.player#info] <Kony> damn
+2023-05-26T22:08:24+0200 [piqueserver.player#info] <titicaca> xD
+2023-05-26T22:08:26+0200 [piqueserver.player#info] <Kony> on fire!
+2023-05-26T22:08:28+0200 [piqueserver.player#info] R CONSERVADORA disconnected!
+2023-05-26T22:08:29+0200 [piqueserver.player#info] <titicaca> YYEEEE
+2023-05-26T22:08:30+0200 [piqueserver.player#info] <Nerotupapi30> spade? xd
+2023-05-26T22:08:34+0200 [piqueserver.player#info] <titicaca> ;damn 
+2023-05-26T22:08:36+0200 [piqueserver.player#info] <titicaca> welp
+2023-05-26T22:09:05+0200 [piqueserver.player#info] Kony disconnected!
+2023-05-26T22:09:56+0200 [piqueserver.player#info] I never disconnected!
+2023-05-26T22:10:14+0200 [piqueserver.player#info] <titicaca> bread lmfao trolled hima
+2023-05-26T22:10:23+0200 [piqueserver.player#info] <BreadEatingOrc> trolled who?
+2023-05-26T22:10:26+0200 [piqueserver.player#info] <titicaca> the guy with the intel
+2023-05-26T22:10:30+0200 [piqueserver.player#info] <titicaca> u broke the pole?
+2023-05-26T22:10:34+0200 [piqueserver.player#info] <BreadEatingOrc> no lol
+2023-05-26T22:10:41+0200 [piqueserver.player#info] <BreadEatingOrc> but someone shooting at me did
+2023-05-26T22:10:43+0200 [piqueserver.player#info] <titicaca> oof
+2023-05-26T22:10:43+0200 [piqueserver.player#info] <Nerotupapi30> ya llego el sexo
+2023-05-26T22:11:18+0200 [piqueserver.player#info] OnlyFans (IP 201.25.167.34, ID 23) entered the game!
+2023-05-26T22:11:26+0200 [piqueserver.player#info] <titicaca> damn
+2023-05-26T22:11:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:11:26+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:12:17+0200 [piqueserver.player#info] <BreadEatingOrc> who let the diggers out
+2023-05-26T22:12:41+0200 [piqueserver.player#info] <titicaca> 1 letter from disaster
+2023-05-26T22:12:48+0200 [piqueserver.player#info] <titicaca> <<<<
+2023-05-26T22:12:51+0200 [piqueserver.player#info] <titicaca> 2 of them
+2023-05-26T22:13:18+0200 [piqueserver.player#info] <Mbappe> it said low ping babel
+2023-05-26T22:13:22+0200 [piqueserver.player#info] <Mbappe> and I have 300ms
+2023-05-26T22:13:24+0200 [piqueserver.commands#info] <BreadEatingOrc> /ping  -> Your ping is 93 ms. Lower ping is better!
+2023-05-26T22:13:28+0200 [piqueserver.player#info] <RakoBanks> daaamn
+2023-05-26T22:13:31+0200 [piqueserver.player#info] <RuneKiller> how do i build more blocks at a time? 
+2023-05-26T22:13:40+0200 [piqueserver.player#info] <RakoBanks> alt + f4
+2023-05-26T22:13:41+0200 [piqueserver.player#info] <titicaca> hold right click
+2023-05-26T22:13:41+0200 [piqueserver.player#info] <OnlyFans> Right click and hold
+2023-05-26T22:13:42+0200 [piqueserver.player#info] <RakoBanks> then build
+2023-05-26T22:13:47+0200 [piqueserver.player#info] <SUPERMNK> right click
+2023-05-26T22:13:51+0200 [piqueserver.player#info] <Mbappe> okay
+2023-05-26T22:13:52+0200 [piqueserver.player#info] <Mbappe> bye
+2023-05-26T22:13:54+0200 [piqueserver.commands#info] <Ashlei> /kill 
+2023-05-26T22:13:55+0200 [piqueserver.player#info] <Mbappe> alt F4
+2023-05-26T22:13:57+0200 [piqueserver.player#info] Mbappe disconnected!
+2023-05-26T22:14:00+0200 [piqueserver.player#info] <Nerotupapi30> xd
+2023-05-26T22:14:00+0200 [piqueserver.player#info] <RakoBanks> ...
+2023-05-26T22:14:07+0200 [piqueserver.player#info] <RakoBanks> he really did it..
+2023-05-26T22:14:08+0200 [piqueserver.commands#info] <RuneKiller> /help 
+2023-05-26T22:14:10+0200 [piqueserver.player#info] <Nerotupapi30> nah
+2023-05-26T22:14:16+0200 [piqueserver.player#info] <RuneKiller> no i didnt how do i do it 
+2023-05-26T22:14:19+0200 [piqueserver.player#info] 121.128.56.147 disconnected
+2023-05-26T22:14:34+0200 [piqueserver.player#info] <BreadEatingOrc> just don't Alt F4 from life
+2023-05-26T22:14:43+0200 [piqueserver.player#info] <BreadEatingOrc> call Alt F4 prevention hot line
+2023-05-26T22:14:50+0200 [piqueserver.player#info] Nerotupapi30 disconnected!
+2023-05-26T22:15:15+0200 [piqueserver.player#info] TheyThem (IP 71.87.186.196, ID 21) entered the game!
+2023-05-26T22:15:26+0200 [piqueserver.player#info] <BreadEatingOrc> digger
+2023-05-26T22:15:42+0200 [piqueserver.player#info] <titicaca> dont alt f4 yourself, youre so sexy aha
+2023-05-26T22:15:46+0200 [piqueserver.player#info] <Born> 2 blocks :(
+2023-05-26T22:15:48+0200 [piqueserver.player#info] I_IBlackI_I (IP 77.168.230.12, ID 18) entered the game!
+2023-05-26T22:15:49+0200 [piqueserver.player#info] <titicaca> :(
+2023-05-26T22:16:01+0200 [piqueserver.player#info] NNN (IP 83.23.23.98, ID 11) entered the game!
+2023-05-26T22:16:06+0200 [piqueserver.player#info] <BreadEatingOrc> NoFans
+2023-05-26T22:16:09+0200 [piqueserver.player#info] <RakoBanks> alt + F4 to run faster 
+2023-05-26T22:16:26+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:16:27+0200 [piqueserver.player#info] <RuneKiller> how do i place more blocks at a time
+2023-05-26T22:16:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:16:32+0200 [piqueserver.player#info] <titicaca> hold right click
+2023-05-26T22:16:35+0200 [piqueserver.player#info] <RakoBanks> alt + F4 then build
+2023-05-26T22:16:52+0200 [piqueserver.player#info] <RuneKiller> it doesnt work, should i place block aswell?
+2023-05-26T22:17:11+0200 [piqueserver.player#info] <titicaca> hold a blcok then aim at ground, hold right click and move mouse to another position then let go
+2023-05-26T22:17:13+0200 [piqueserver.player#info] <BreadEatingOrc> this is a no digger zone
+2023-05-26T22:17:17+0200 [piqueserver.player#info] <RakoBanks> press alt and F4 at the same tim
+2023-05-26T22:17:18+0200 [piqueserver.player#info] <titicaca> with block in hand ofc
+2023-05-26T22:17:45+0200 [piqueserver.player#info] <BreadEatingOrc> lel
+2023-05-26T22:18:16+0200 [piqueserver.player#info] <Ashlei> n0 :(
+2023-05-26T22:18:24+0200 [piqueserver.player#info] Aron951 (IP 186.52.115.28, ID 2) entered the game!
+2023-05-26T22:18:51+0200 [piqueserver.player#info] Ashlei disconnected!
+2023-05-26T22:19:37+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 28) entered the game!
+2023-05-26T22:20:08+0200 [piqueserver.player#info] titicaca disconnected!
+2023-05-26T22:20:53+0200 [piqueserver.player#info] <Dave Dave> what is happening???
+2023-05-26T22:20:58+0200 [piqueserver.player#info] <Dave Dave> I have never hit so many shots
+2023-05-26T22:21:00+0200 [piqueserver.player#info] Jamal (IP 81.111.183.65, ID 12) entered the game!
+2023-05-26T22:21:16+0200 [piqueserver.player#info] Bladerunner2608 disconnected!
+2023-05-26T22:21:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:21:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:21:48+0200 [piqueserver.player#info] ggk (IP 46.138.174.76, ID 4) entered the game!
+2023-05-26T22:22:04+0200 [piqueserver.player#info] javanek (IP 188.47.123.176, ID 19) entered the game!
+2023-05-26T22:22:18+0200 [piqueserver.player#info] BOT_anaconda (IP 86.248.220.55, ID 25) entered the game!
+2023-05-26T22:22:23+0200 [piqueserver.player#info] RakoBanks disconnected!
+2023-05-26T22:22:44+0200 [piqueserver.player#info] <BOT_anaconda> alcohol
+2023-05-26T22:22:50+0200 [piqueserver.player#info] <BreadEatingOrc> where?
+2023-05-26T22:22:54+0200 [piqueserver.player#info] <BOT_anaconda> there
+2023-05-26T22:22:58+0200 [piqueserver.player#info] Eduorc (IP 181.221.53.144, ID 9) entered the game!
+2023-05-26T22:23:01+0200 [piqueserver.player#info] <BOT_anaconda> F5
+2023-05-26T22:23:17+0200 [piqueserver.player#info] <Eduorc> onlyfans is gy
+2023-05-26T22:23:19+0200 [piqueserver.player#info] <Eduorc> gay
+2023-05-26T22:23:53+0200 [piqueserver.player#info] <OnlyFans> EVERYBODY REPORT TO THE AADMINN EDUORC É HACK, JA BANI ELE DO MEU SERVIDOR
+2023-05-26T22:23:57+0200 [piqueserver.player#info] <OnlyFans> FAÇAM O MESMO AQUI
+2023-05-26T22:24:02+0200 [piqueserver.player#info] <Eduorc> cala a boca br 
+2023-05-26T22:24:04+0200 [piqueserver.player#info] <Eduorc> arrombado
+2023-05-26T22:24:11+0200 [piqueserver.player#info] <Eduorc> maluco doente
+2023-05-26T22:24:14+0200 [piqueserver.player#info] <Eduorc> tu que é hacker
+2023-05-26T22:24:18+0200 [piqueserver.commands#info] <Eduorc> /admin onlyfans hacker -> Message sent to all admins currently online
+2023-05-26T22:24:29+0200 [piqueserver.commands#info] <OnlyFans> /votekick Eduorc AimBot-NoClip
+2023-05-26T22:24:38+0200 [piqueserver.player#info] RakoBanks (IP 176.151.247.240, ID 1) entered the game!
+2023-05-26T22:24:44+0200 [piqueserver.player#info] <Eduorc> wtf
+2023-05-26T22:24:46+0200 [piqueserver.player#info] I_IBlackI_I disconnected!
+2023-05-26T22:24:48+0200 [piqueserver.player#info] <Eduorc> this dude is crazy
+2023-05-26T22:24:56+0200 [piqueserver.player#info] Wagner Scout (IP 198.245.103.175, ID 0) entered the game!
+2023-05-26T22:25:01+0200 [piqueserver.player#info] <Eduorc> tinha que ser um br
+2023-05-26T22:25:02+0200 [piqueserver.player#info] <Eduorc> arrombado
+2023-05-26T22:25:04+0200 [piqueserver.player#info] stonked (IP 72.179.62.99, ID 18) entered the game!
+2023-05-26T22:25:20+0200 [piqueserver.player#info] vinicius JR (IP 186.83.219.43, ID 29) entered the game!
+2023-05-26T22:26:02+0200 [piqueserver.commands#info] <Born> /showrotation  -> hallway, bigasssideforts, alexandria, 1river2night, beaulieu-abbey-zombie, firestorm, blam, crossfire2, crossfire3, ellipsis, puzzleisland, forks, frog, goonassaultjapan, greencoast, hillsidev2, icecraft, islandpassage, jungle, leaves, leaves2, lime, mazemountain, mirage, oldfort, padesert, random4, roadisland, satellite
+2023-05-26T22:26:12+0200 [piqueserver.player#info] <LAZY C4 CHARGE> ATTACK
+2023-05-26T22:26:15+0200 [piqueserver.commands#info] <Born> /mapname  -> Current map: Road Island
+2023-05-26T22:26:15+0200 [piqueserver.commands#info] <LAZY C4 CHARGE> /y 
+2023-05-26T22:26:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:26:27+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:26:58+0200 [piqueserver.player#info] GuxUser (IP 94.2.113.142, ID 15) entered the game!
+2023-05-26T22:27:01+0200 [piqueserver.player#info] <GuxUser> I SEEK CHILDREn
+2023-05-26T22:27:11+0200 [piqueserver.player#info] <GuxUser> JOIN MY DISCORD I WILL GRANT YOU SEED LITTLE CHILDREN
+2023-05-26T22:27:13+0200 [piqueserver.player#info] proxmora (IP 190.120.254.132, ID 31) entered the game!
+2023-05-26T22:27:19+0200 [piqueserver.player#info] <BreadEatingOrc> hi GuxUser
+2023-05-26T22:27:24+0200 [piqueserver.player#info] <GuxUser> hi
+2023-05-26T22:27:31+0200 [piqueserver.commands#info] <Eduorc> /votekick onlyfans griefer
+2023-05-26T22:27:41+0200 [piqueserver.player#info] <Eduorc> press /y
+2023-05-26T22:27:44+0200 [piqueserver.commands#info] <BreadEatingOrc> /y 
+2023-05-26T22:28:02+0200 [piqueserver.player#info] funny.gov (IP 73.188.30.76, ID 20) entered the game!
+2023-05-26T22:28:08+0200 [piqueserver.commands#info] <Born> /y 
+2023-05-26T22:28:12+0200 [piqueserver.player#info] <Eduorc> press /y for world peace
+2023-05-26T22:28:15+0200 [piqueserver.commands#info] <GuxUser> /y 
+2023-05-26T22:28:22+0200 [piqueserver.player#info] proxmora disconnected!
+2023-05-26T22:28:23+0200 [stderr#error] Traceback (most recent call last):
+2023-05-26T22:28:23+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/pyspades/protocol.py", line 168, in update
+2023-05-26T22:28:23+0200 [stderr#error]     self.on_disconnect(peer)
+2023-05-26T22:28:23+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/pyspades/protocol.py", line 116, in on_disconnect
+2023-05-26T22:28:23+0200 [stderr#error]     connection.on_disconnect()
+2023-05-26T22:28:23+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/scripts/afk.py", line 102, in on_disconnect
+2023-05-26T22:28:23+0200 [stderr#error]     connection.on_disconnect(self)
+2023-05-26T22:28:23+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/scripts/votekick.py", line 337, in on_disconnect
+2023-05-26T22:28:23+0200 [stderr#error]     self.ban(reason, Votekick.ban_duration)
+2023-05-26T22:28:23+0200 [stderr#error] AttributeError: type object 'Votekick' has no attribute 'ban_duration'
+2023-05-26T22:28:32+0200 [piqueserver.player#info] <RakoBanks> I just burried their tent..
+2023-05-26T22:28:37+0200 [piqueserver.player#info] 176.150.89.31 disconnected
+2023-05-26T22:28:43+0200 [piqueserver.server#info] advancing to map 'greencoast' (Game finished!) in 10 seconds
+2023-05-26T22:28:45+0200 [piqueserver.player#info] <Born> GG
+2023-05-26T22:28:49+0200 [piqueserver.player#info] Mortenkiller disconnected!
+2023-05-26T22:28:49+0200 [piqueserver.player#info] <GuxUser> SEX
+2023-05-26T22:28:50+0200 [piqueserver.player#info] <BreadEatingOrc> niGGer
+2023-05-26T22:28:53+0200 [piqueserver.map#info] Loading map 'Greencoast'...
+2023-05-26T22:28:53+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-26T22:28:54+0200 [piqueserver.player#info] 46.138.174.76 disconnected
+2023-05-26T22:28:55+0200 [piqueserver.player#info] 41.62.91.5 disconnected
+2023-05-26T22:28:55+0200 [piqueserver.player#info] 46.49.4.193 disconnected
+2023-05-26T22:28:56+0200 [piqueserver.player#info] javanek (IP 188.47.123.176, ID 19) entered the game!
+2023-05-26T22:28:56+0200 [piqueserver.player#info] GuxUser (IP 94.2.113.142, ID 15) entered the game!
+2023-05-26T22:28:57+0200 [piqueserver.player#info] Jamal (IP 81.111.183.65, ID 12) entered the game!
+2023-05-26T22:28:58+0200 [piqueserver.player#info] Born (IP 5.248.64.172, ID 7) entered the game!
+2023-05-26T22:28:58+0200 [piqueserver.player#info] vdsda (IP 217.83.158.234, ID 27) entered the game!
+2023-05-26T22:29:00+0200 [piqueserver.player#info] RuneKiller (IP 212.112.149.205, ID 24) entered the game!
+2023-05-26T22:29:00+0200 [piqueserver.player#info] unko (IP 122.26.19.13, ID 30) entered the game!
+2023-05-26T22:29:01+0200 [piqueserver.player#info] Wagner Scout (IP 198.245.103.175, ID 0) entered the game!
+2023-05-26T22:29:01+0200 [piqueserver.player#info] <GuxUser> TOTAL NIG NOG DEATH
+2023-05-26T22:29:03+0200 [piqueserver.player#info] 149.241.255.167 disconnected
+2023-05-26T22:29:03+0200 [piqueserver.player#info] Aron951 (IP 186.52.115.28, ID 2) entered the game!
+2023-05-26T22:29:04+0200 [piqueserver.player#info] shadecool (IP 79.250.96.56, ID 26) entered the game!
+2023-05-26T22:29:04+0200 [piqueserver.player#info] NNN (IP 83.23.23.98, ID 11) entered the game!
+2023-05-26T22:29:04+0200 [piqueserver.player#info] TheyThem (IP 71.87.186.196, ID 21) entered the game!
+2023-05-26T22:29:06+0200 [piqueserver.player#info] funny.gov (IP 73.188.30.76, ID 20) entered the game!
+2023-05-26T22:29:09+0200 [piqueserver.player#info] 186.83.219.43 disconnected
+2023-05-26T22:29:10+0200 [piqueserver.player#info] stonked (IP 72.179.62.99, ID 18) entered the game!
+2023-05-26T22:29:10+0200 [piqueserver.player#info] nolan1075 (IP 176.150.89.31, ID 3) entered the game!
+2023-05-26T22:29:15+0200 [piqueserver.player#info] stonked disconnected!
+2023-05-26T22:29:18+0200 [piqueserver.player#info] ggk (IP 46.138.174.76, ID 29) entered the game!
+2023-05-26T22:29:22+0200 [piqueserver.player#info] Eduorc (IP 181.221.53.144, ID 9) entered the game!
+2023-05-26T22:29:33+0200 [piqueserver.player#info] RuneKiller disconnected!
+2023-05-26T22:29:36+0200 [piqueserver.commands#info] <Eduorc> /votekick onlyfans Noclip - Aimbot -> Invalid Player\nUsage: /votekick <player name or id> <reason>
+2023-05-26T22:29:39+0200 [piqueserver.commands#info] <Eduorc> /votekick onlyfans Noclip - Aimbot -> Invalid Player\nUsage: /votekick <player name or id> <reason>
+2023-05-26T22:29:46+0200 [piqueserver.commands#info] <Eduorc> /votekick onlyfans Noclip-Aimbot -> Invalid Player\nUsage: /votekick <player name or id> <reason>
+2023-05-26T22:29:56+0200 [piqueserver.player#info] RakoBanks (IP 176.151.247.240, ID 1) entered the game!
+2023-05-26T22:30:02+0200 [piqueserver.commands#info] <Eduorc> /votekick onlyfans Noclip-Aimbot -> Invalid Player\nUsage: /votekick <player name or id> <reason>
+2023-05-26T22:30:09+0200 [piqueserver.player#info] Wagner Scout disconnected!
+2023-05-26T22:30:34+0200 [piqueserver.player#info] <GuxUser> those that refuse to undergo racial purity tests will be subjected to pesticide cleansing like the jews
+2023-05-26T22:30:42+0200 [piqueserver.player#info] NNN disconnected!
+2023-05-26T22:30:44+0200 [piqueserver.player#info] funny.gov disconnected!
+2023-05-26T22:30:47+0200 [piqueserver.player#info] <nolan1075> wtf
+2023-05-26T22:31:27+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:31:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:32:00+0200 [piqueserver.player#info] <GuxUser> if your skin is not white it shall be removed
+2023-05-26T22:33:22+0200 [piqueserver.player#info] 93.140.243.60 disconnected
+2023-05-26T22:33:37+0200 [piqueserver.player#info] <GuxUser> behind you
+2023-05-26T22:33:41+0200 [piqueserver.player#info] <nolan1075> yeah
+2023-05-26T22:33:46+0200 [piqueserver.player#info] <GuxUser> sheiiit
+2023-05-26T22:35:01+0200 [piqueserver.player#info] RakoBanks disconnected!
+2023-05-26T22:35:23+0200 [piqueserver.player#info] <GuxUser> the holocaust both didnt happen and was justified at the same time
+2023-05-26T22:35:33+0200 [piqueserver.player#info] <ggk> t
+2023-05-26T22:35:51+0200 [piqueserver.player#info] <ggk> there have to many snipers orrr cheaters??
+2023-05-26T22:36:12+0200 [piqueserver.player#info] <GuxUser> if you request total nigger death there will be less snipers
+2023-05-26T22:36:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:36:28+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:36:50+0200 [piqueserver.player#info] <GuxUser> ethnic cleansing to make the game more enjoyable
+2023-05-26T22:36:56+0200 [piqueserver.player#info] <nolan1075> gl
+2023-05-26T22:37:41+0200 [piqueserver.player#info] 1ch (IP 85.89.126.34, ID 1) entered the game!
+2023-05-26T22:37:56+0200 [piqueserver.player#info] BOT_anaconda (IP 86.248.220.55, ID 25) entered the game!
+2023-05-26T22:37:58+0200 [piqueserver.player#info] GuxUser disconnected!
+2023-05-26T22:38:18+0200 [piqueserver.player#info] bonicrack (IP 186.80.52.204, ID 15) entered the game!
+2023-05-26T22:38:50+0200 [piqueserver.player#info] bonicrack disconnected!
+2023-05-26T22:38:55+0200 [piqueserver.player#info] nolan1075 disconnected!
+2023-05-26T22:39:43+0200 [piqueserver.player#info] OnlyFans (IP 201.25.167.34, ID 3) entered the game!
+2023-05-26T22:39:54+0200 [piqueserver.player#info] <Eduorc> i got you jamal
+2023-05-26T22:39:55+0200 [piqueserver.player#info] <Eduorc> <3
+2023-05-26T22:40:03+0200 [piqueserver.player#info] <Jamal> you did :(
+2023-05-26T22:40:44+0200 [piqueserver.player#info] <Eduorc> onlyfans noclip
+2023-05-26T22:40:48+0200 [piqueserver.commands#info] <Eduorc> /votekick onlyfans Noclip-Aimbot
+2023-05-26T22:40:54+0200 [piqueserver.commands#info] <Born> /y 
+2023-05-26T22:41:00+0200 [piqueserver.player#info] <Eduorc> press /y to kick the cheater please
+2023-05-26T22:41:01+0200 [piqueserver.commands#info] <1ch> /y 
+2023-05-26T22:41:03+0200 [piqueserver.player#info] <OnlyFans> ?????
+2023-05-26T22:41:09+0200 [piqueserver.player#info] <OnlyFans> 3 kills
+2023-05-26T22:41:14+0200 [piqueserver.player#info] <OnlyFans> how am i aimbot?
+2023-05-26T22:41:14+0200 [piqueserver.player#info] <Eduorc> you teleporting
+2023-05-26T22:41:16+0200 [piqueserver.commands#info] <Aron951> /y 
+2023-05-26T22:41:17+0200 [piqueserver.player#info] <Eduorc> kick the cheater
+2023-05-26T22:41:26+0200 [piqueserver.player#info] <Eduorc> press /y please
+2023-05-26T22:41:27+0200 [stderr#error] Traceback (most recent call last):
+2023-05-26T22:41:27+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/pyspades/protocol.py", line 168, in update
+2023-05-26T22:41:27+0200 [stderr#error]     self.on_disconnect(peer)
+2023-05-26T22:41:27+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/pyspades/protocol.py", line 116, in on_disconnect
+2023-05-26T22:41:27+0200 [stderr#error]     connection.on_disconnect()
+2023-05-26T22:41:27+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/scripts/afk.py", line 102, in on_disconnect
+2023-05-26T22:41:27+0200 [stderr#error]     connection.on_disconnect(self)
+2023-05-26T22:41:27+0200 [stderr#error]   File "/usr/local/lib/python3.8/dist-packages/piqueserver-1.0.0-py3.8-linux-x86_64.egg/piqueserver/scripts/votekick.py", line 337, in on_disconnect
+2023-05-26T22:41:27+0200 [stderr#error]     self.ban(reason, Votekick.ban_duration)
+2023-05-26T22:41:27+0200 [stderr#error] AttributeError: type object 'Votekick' has no attribute 'ban_duration'
+2023-05-26T22:41:28+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:41:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:41:29+0200 [piqueserver.player#info] <Eduorc> to kick the hacker
+2023-05-26T22:41:33+0200 [piqueserver.player#info] <Born> you are lagging around or nocliping
+2023-05-26T22:41:45+0200 [piqueserver.player#info] <BOT_anaconda> who is haxxing ?
+2023-05-26T22:41:47+0200 [piqueserver.commands#info] <Eduorc> /votekick onlyfans Noclip-Aimbot -> You can't start another votekick yet!
+2023-05-26T22:41:53+0200 [piqueserver.player#info] <Eduorc> onlyfans
+2023-05-26T22:41:57+0200 [piqueserver.player#info] <BOT_anaconda> OK
+2023-05-26T22:42:08+0200 [piqueserver.player#info] <Eduorc> he was tpying everywhere
+2023-05-26T22:43:07+0200 [piqueserver.player#info] <1ch> hax
+2023-05-26T22:43:16+0200 [piqueserver.player#info] <BOT_anaconda> no
+2023-05-26T22:43:24+0200 [piqueserver.player#info] <Eduorc> sorry bro
+2023-05-26T22:43:31+0200 [piqueserver.player#info] <BOT_anaconda> np bro
+2023-05-26T22:43:40+0200 [piqueserver.player#info] javanek disconnected!
+2023-05-26T22:43:55+0200 [piqueserver.player#info] Lucas (IP 177.70.223.6, ID 15) entered the game!
+2023-05-26T22:44:04+0200 [piqueserver.player#info] <1ch> jamal under the tower
+2023-05-26T22:44:26+0200 [piqueserver.player#info] <BOT_anaconda> hax
+2023-05-26T22:44:27+0200 [piqueserver.player#info] <Eduorc> sorry again bro
+2023-05-26T22:44:35+0200 [piqueserver.player#info] <BOT_anaconda> np again bro
+2023-05-26T22:44:36+0200 [piqueserver.player#info] Lucas disconnected!
+2023-05-26T22:44:46+0200 [piqueserver.player#info] <Eduorc> lemme just put this tower down
+2023-05-26T22:44:51+0200 [piqueserver.player#info] <BOT_anaconda> k
+2023-05-26T22:44:57+0200 [piqueserver.player#info] <Eduorc> ouch
+2023-05-26T22:45:00+0200 [piqueserver.player#info] <Eduorc> D::
+2023-05-26T22:45:02+0200 [piqueserver.player#info] Eduorc disconnected!
+2023-05-26T22:45:05+0200 [piqueserver.player#info] <ggk> incoming
+2023-05-26T22:45:12+0200 [piqueserver.player#info] CocoThunder (IP 69.133.3.91, ID 9) entered the game!
+2023-05-26T22:45:20+0200 [piqueserver.player#info] yurikaua (IP 143.208.14.7, ID 15) entered the game!
+2023-05-26T22:45:22+0200 [piqueserver.player#info] <BOT_anaconda> hax
+2023-05-26T22:45:35+0200 [piqueserver.player#info] Lucas (IP 177.70.223.6, ID 19) entered the game!
+2023-05-26T22:46:28+0200 [piqueserver.player#info] BOT_anaconda disconnected!
+2023-05-26T22:46:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:46:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:46:47+0200 [piqueserver.player#info] Lucas disconnected!
+2023-05-26T22:47:16+0200 [piqueserver.player#info] 177.70.223.6 disconnected
+2023-05-26T22:47:17+0200 [piqueserver.player#info] Gungard (IP 31.150.208.1, ID 19) entered the game!
+2023-05-26T22:48:06+0200 [piqueserver.player#info] Gungard disconnected!
+2023-05-26T22:48:15+0200 [piqueserver.player#info] DEVIL (IP 176.165.215.188, ID 19) entered the game!
+2023-05-26T22:48:17+0200 [piqueserver.player#info] <Jamal> gg
+2023-05-26T22:48:31+0200 [piqueserver.commands#info] <Jamal> /ratio  -> You have a kill-death ratio of 1.03 (33 kills, 32 deaths).
+2023-05-26T22:48:43+0200 [piqueserver.player#info] Kackwurstesser (IP 91.45.167.174, ID 25) entered the game!
+2023-05-26T22:48:47+0200 [piqueserver.player#info] <Born> GG
+2023-05-26T22:48:49+0200 [piqueserver.server#info] advancing to map 'hillsidev2' (Game finished!) in 10 seconds
+2023-05-26T22:48:52+0200 [piqueserver.player#info] <Jamal> gg
+2023-05-26T22:48:52+0200 [piqueserver.player#info] <1ch> gg ez
+2023-05-26T22:48:54+0200 [piqueserver.player#info] Jamal disconnected!
+2023-05-26T22:48:59+0200 [piqueserver.map#info] Loading map 'Hillside v2'...
+2023-05-26T22:48:59+0200 [piqueserver.map#info] Map loaded successfully. (took 0.22s)
+2023-05-26T22:49:05+0200 [piqueserver.player#info] Kackwurstesser (IP 91.45.167.174, ID 25) entered the game!
+2023-05-26T22:49:06+0200 [piqueserver.player#info] DEVIL (IP 176.165.215.188, ID 19) entered the game!
+2023-05-26T22:49:06+0200 [piqueserver.player#info] shadecool (IP 79.250.96.56, ID 26) entered the game!
+2023-05-26T22:49:07+0200 [piqueserver.player#info] Born (IP 5.248.64.172, ID 7) entered the game!
+2023-05-26T22:49:09+0200 [piqueserver.player#info] CocoThunder (IP 69.133.3.91, ID 9) entered the game!
+2023-05-26T22:49:10+0200 [piqueserver.player#info] TheyThem (IP 71.87.186.196, ID 21) entered the game!
+2023-05-26T22:49:10+0200 [piqueserver.player#info] vdsda (IP 217.83.158.234, ID 27) entered the game!
+2023-05-26T22:49:10+0200 [piqueserver.player#info] unko (IP 122.26.19.13, ID 30) entered the game!
+2023-05-26T22:49:12+0200 [piqueserver.player#info] 1ch (IP 85.89.126.34, ID 1) entered the game!
+2023-05-26T22:49:13+0200 [piqueserver.player#info] yurikaua (IP 143.208.14.7, ID 15) entered the game!
+2023-05-26T22:49:13+0200 [piqueserver.player#info] Aron951 (IP 186.52.115.28, ID 2) entered the game!
+2023-05-26T22:49:56+0200 [piqueserver.player#info] ggk (IP 46.138.174.76, ID 29) entered the game!
+2023-05-26T22:50:03+0200 [piqueserver.player#info] Loki3 (IP 79.234.196.125, ID 12) entered the game!
+2023-05-26T22:50:28+0200 [piqueserver.player#info] <Kackwurstesser> this server is awesome
+2023-05-26T22:50:35+0200 [piqueserver.commands#info] <CocoThunder> /help 
+2023-05-26T22:51:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:51:29+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:51:32+0200 [piqueserver.player#info] 1ch disconnected!
+2023-05-26T22:51:34+0200 [piqueserver.player#info] nelsonk (IP 94.172.46.6, ID 14) entered the game!
+2023-05-26T22:51:59+0200 [piqueserver.player#info] 181.64.202.81 disconnected
+2023-05-26T22:53:52+0200 [piqueserver.player#info] reagon (IP 70.121.81.50, ID 20) entered the game!
+2023-05-26T22:54:20+0200 [piqueserver.player#info] <ggk> guys
+2023-05-26T22:54:26+0200 [piqueserver.player#info] <nelsonk> ?
+2023-05-26T22:54:26+0200 [piqueserver.player#info] <ggk> we a have tunnel
+2023-05-26T22:54:31+0200 [piqueserver.player#info] <nelsonk> alright
+2023-05-26T22:54:33+0200 [piqueserver.player#info] <Born> where?
+2023-05-26T22:54:53+0200 [piqueserver.player#info] Loki3 disconnected!
+2023-05-26T22:55:11+0200 [piqueserver.player#info] <CocoThunder> mid center I will put a yellow tower 2 blocks high
+2023-05-26T22:56:16+0200 [piqueserver.player#info] <reagon> lmao purple what are yall building the sphynx?
+2023-05-26T22:56:29+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T22:56:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T22:56:38+0200 [piqueserver.player#info] NAMAST3 (IP 109.87.164.122, ID 12) entered the game!
+2023-05-26T22:56:47+0200 [piqueserver.player#info] <ggk> everyone go to tunnel
+2023-05-26T22:56:52+0200 [piqueserver.player#info] <NAMAST3> lmao
+2023-05-26T22:56:56+0200 [piqueserver.commands#info] <yurikaua> /arma  -> Unknown command
+2023-05-26T22:56:59+0200 [piqueserver.commands#info] <yurikaua> /help 
+2023-05-26T22:57:01+0200 [piqueserver.player#info] <NAMAST3> randomly
+2023-05-26T22:57:17+0200 [piqueserver.commands#info] <yurikaua> /comand]  -> Unknown command
+2023-05-26T22:57:22+0200 [piqueserver.commands#info] <yurikaua> /help 
+2023-05-26T22:58:43+0200 [piqueserver.player#info] 79.139.223.201 disconnected
+2023-05-26T22:59:11+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 28) entered the game!
+2023-05-26T22:59:19+0200 [piqueserver.player#info] <Born> I killed him
+2023-05-26T23:00:22+0200 [piqueserver.player#info] <NAMAST3> purple tower from back
+2023-05-26T23:00:25+0200 [piqueserver.player#info] <NAMAST3> 1
+2023-05-26T23:00:41+0200 [piqueserver.player#info] <NAMAST3> hes in tower
+2023-05-26T23:00:44+0200 [piqueserver.player#info] <NAMAST3> kill him
+2023-05-26T23:01:03+0200 [piqueserver.player#info] <NAMAST3> got his ass
+2023-05-26T23:01:08+0200 [piqueserver.player#info] <Kackwurstesser> good
+2023-05-26T23:01:09+0200 [piqueserver.player#info] Loadstar (IP 175.120.228.90, ID 1) entered the game!
+2023-05-26T23:01:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:01:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:01:40+0200 [piqueserver.player#info] <NAMAST3> oooof
+2023-05-26T23:02:42+0200 [piqueserver.commands#info] <Kackwurstesser> /heaven  -> Unknown command
+2023-05-26T23:02:47+0200 [piqueserver.player#info] aaron exia (IP 66.60.28.175, ID 11) entered the game!
+2023-05-26T23:02:50+0200 [piqueserver.commands#info] <Kackwurstesser> /armor  -> Unknown command
+2023-05-26T23:02:53+0200 [piqueserver.commands#info] <Kackwurstesser> /commands 
+2023-05-26T23:02:57+0200 [piqueserver.commands#info] <NAMAST3> /ping  -> Your ping is 67 ms. Lower ping is better!
+2023-05-26T23:03:05+0200 [piqueserver.player#info] <NAMAST3> 67ms ping can u believe it?
+2023-05-26T23:03:11+0200 [piqueserver.player#info] <Born> 60
+2023-05-26T23:03:16+0200 [piqueserver.player#info] <NAMAST3> nice
+2023-05-26T23:03:26+0200 [piqueserver.commands#info] <Loadstar> /ping #1 -> Your ping is 281 ms. Lower ping is better!
+2023-05-26T23:03:30+0200 [piqueserver.player#info] <Loadstar> 281ms lol
+2023-05-26T23:03:30+0200 [piqueserver.player#info] Dani LG Skay (IP 181.89.61.134, ID 0) entered the game!
+2023-05-26T23:03:34+0200 [piqueserver.player#info] <NAMAST3> ahah
+2023-05-26T23:03:37+0200 [piqueserver.commands#info] <Kackwurstesser> /deaf #2 -> No administrator rights!
+2023-05-26T23:03:42+0200 [piqueserver.player#info] <NAMAST3> probably u had 60ms at aloha xD
+2023-05-26T23:03:53+0200 [piqueserver.player#info] <Loadstar> I had 182ms at aloha XD
+2023-05-26T23:04:08+0200 [piqueserver.player#info] <Kackwurstesser> me too, this feels awesome
+2023-05-26T23:04:09+0200 [piqueserver.player#info] <NAMAST3> oh both kinda suck :D
+2023-05-26T23:04:23+0200 [piqueserver.player#info] KomQLQ_BF (IP 186.93.133.254, ID 24) entered the game!
+2023-05-26T23:04:24+0200 [piqueserver.player#info] <NAMAST3> tower being fucked
+2023-05-26T23:04:44+0200 [piqueserver.player#info] <NAMAST3> i mean both 200 and 300 sux*
+2023-05-26T23:04:55+0200 [piqueserver.player#info] <unko> protect front wall
+2023-05-26T23:05:18+0200 [piqueserver.player#info] Dani LG Skay disconnected!
+2023-05-26T23:05:35+0200 [piqueserver.player#info] <NAMAST3> 1 in front
+2023-05-26T23:05:36+0200 [piqueserver.commands#info] <yurikaua> /time  -> There are 104 minutes left
+2023-05-26T23:05:39+0200 [piqueserver.player#info] <NAMAST3> dead
+2023-05-26T23:05:45+0200 [piqueserver.commands#info] <yurikaua> /time  -> There are 104 minutes left
+2023-05-26T23:05:49+0200 [piqueserver.commands#info] <Loadstar> /votekick #24 wallhack, ESP, aimbot
+2023-05-26T23:05:54+0200 [piqueserver.commands#info] <Born> /y 
+2023-05-26T23:05:54+0200 [piqueserver.player#info] <ggk> Kom is cheater
+2023-05-26T23:05:56+0200 [piqueserver.commands#info] <CocoThunder> /y 
+2023-05-26T23:05:57+0200 [piqueserver.commands#info] <Kackwurstesser> /y 
+2023-05-26T23:05:59+0200 [piqueserver.player#info] <Loadstar> please /y all
+2023-05-26T23:05:59+0200 [piqueserver.player#info] <KomQLQ_BF> jeje
+2023-05-26T23:05:59+0200 [piqueserver.player#info] <ggk> admin kick him
+2023-05-26T23:05:59+0200 [piqueserver.commands#info] <aaron exia> /y 
+2023-05-26T23:06:02+0200 [stdout#info] KomQLQ_BF votekicked
+2023-05-26T23:06:02+0200 [piqueserver.player#info] KomQLQ_BF disconnected!
+2023-05-26T23:06:02+0200 [piqueserver.commands#info] <reagon> /y 
+2023-05-26T23:06:09+0200 [piqueserver.player#info] <ggk> nice
+2023-05-26T23:06:09+0200 [piqueserver.player#info] <Loadstar> he sucks
+2023-05-26T23:06:09+0200 [piqueserver.player#info] <NAMAST3> welp that was fast
+2023-05-26T23:06:21+0200 [piqueserver.player#info] <Born> Server started the vote i think
+2023-05-26T23:06:24+0200 [piqueserver.player#info] yurikaua disconnected!
+2023-05-26T23:06:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:06:30+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:06:31+0200 [piqueserver.player#info] <NAMAST3> loadstar #1
+2023-05-26T23:06:38+0200 [piqueserver.player#info] <NAMAST3> started
+2023-05-26T23:06:41+0200 [piqueserver.player#info] yurikaua (IP 143.208.14.7, ID 15) entered the game!
+2023-05-26T23:07:21+0200 [piqueserver.player#info] federated banned user (190.21.215.253) attempted to join, banned for 'Cheating'
+2023-05-26T23:07:21+0200 [piqueserver.player#info] 190.21.215.253 disconnected
+2023-05-26T23:07:35+0200 [piqueserver.player#info] <Loadstar> "Try to get closer!"
+2023-05-26T23:07:36+0200 [piqueserver.player#info] <Loadstar> lol
+2023-05-26T23:07:52+0200 [piqueserver.player#info] <Born> DEliver the intel
+2023-05-26T23:08:02+0200 [piqueserver.player#info] <unko> repair front wall
+2023-05-26T23:08:02+0200 [piqueserver.player#info] Kikas (IP 82.155.248.104, ID 24) entered the game!
+2023-05-26T23:08:24+0200 [piqueserver.player#info] <ggk> im working on it
+2023-05-26T23:08:30+0200 [piqueserver.player#info] federated banned user (190.21.215.253) attempted to join, banned for 'Cheating'
+2023-05-26T23:08:30+0200 [piqueserver.player#info] 190.21.215.253 disconnected
+2023-05-26T23:08:33+0200 [piqueserver.player#info] r3algood (IP 24.239.73.255, ID 0) entered the game!
+2023-05-26T23:08:36+0200 [piqueserver.player#info] <r3algood> ping
+2023-05-26T23:08:38+0200 [piqueserver.commands#info] <r3algood> /ping  -> Your ping is 121 ms. Lower ping is better!
+2023-05-26T23:09:38+0200 [piqueserver.player#info] federated banned user (190.21.215.253) attempted to join, banned for 'Cheating'
+2023-05-26T23:09:38+0200 [piqueserver.player#info] 190.21.215.253 disconnected
+2023-05-26T23:09:46+0200 [piqueserver.player#info] S2CIBOY (IP 92.45.205.209, ID 18) entered the game!
+2023-05-26T23:09:47+0200 [piqueserver.player#info] federated banned user (190.21.215.253) attempted to join, banned for 'Cheating'
+2023-05-26T23:09:47+0200 [piqueserver.player#info] 190.21.215.253 disconnected
+2023-05-26T23:09:53+0200 [piqueserver.player#info] federated banned user (190.21.215.253) attempted to join, banned for 'Cheating'
+2023-05-26T23:09:53+0200 [piqueserver.player#info] 190.21.215.253 disconnected
+2023-05-26T23:11:27+0200 [piqueserver.player#info] meidd (IP 201.208.145.97, ID 17) entered the game!
+2023-05-26T23:11:27+0200 [piqueserver.player#info] <NAMAST3> fuckstrot we're losing (jk)
+2023-05-26T23:11:30+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:11:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:11:49+0200 [piqueserver.player#info] <Kackwurstesser> you have the wrong mindset
+2023-05-26T23:12:07+0200 [piqueserver.commands#info] <aaron exia> /kill 
+2023-05-26T23:12:09+0200 [piqueserver.player#info] <aaron exia> left
+2023-05-26T23:12:10+0200 [piqueserver.player#info] BOT_anaconda (IP 86.248.220.55, ID 5) entered the game!
+2023-05-26T23:12:12+0200 [piqueserver.player#info] <aaron exia> left!
+2023-05-26T23:12:29+0200 [piqueserver.player#info] <r3algood> orange getting their shit rocked
+2023-05-26T23:12:35+0200 [piqueserver.player#info] LAZY C4 CHARGE disconnected!
+2023-05-26T23:12:39+0200 [piqueserver.player#info] Kikas disconnected!
+2023-05-26T23:12:48+0200 [piqueserver.player#info] <NAMAST3> welp orange dont really defend tower too much
+2023-05-26T23:13:02+0200 [piqueserver.player#info] Cornballs (IP 188.74.83.134, ID 24) entered the game!
+2023-05-26T23:13:03+0200 [piqueserver.player#info] yurikaua disconnected!
+2023-05-26T23:13:04+0200 [piqueserver.player#info] <BOT_anaconda> tf with fruits 
+2023-05-26T23:13:07+0200 [piqueserver.player#info] Cornballs disconnected!
+2023-05-26T23:13:25+0200 [piqueserver.player#info] <ggk> that was scary
+2023-05-26T23:13:26+0200 [piqueserver.player#info] <NAMAST3> grapes and oranges
+2023-05-26T23:13:26+0200 [piqueserver.player#info] Cornballs (IP 188.74.83.134, ID 24) entered the game!
+2023-05-26T23:13:39+0200 [piqueserver.player#info] <Cornballs> what happened to aloha earlier?
+2023-05-26T23:13:41+0200 [piqueserver.player#info] <Cornballs> did it crash?
+2023-05-26T23:13:47+0200 [piqueserver.player#info] Rei (IP 108.18.153.203, ID 15) entered the game!
+2023-05-26T23:13:51+0200 [piqueserver.player#info] <r3algood> aloha down for another 30 mins or so
+2023-05-26T23:13:53+0200 [piqueserver.player#info] <reagon> full of cheaters anyway
+2023-05-26T23:13:54+0200 [piqueserver.commands#info] <TheyThem> /votekick nelsonk for cheatin' like a mofo
+2023-05-26T23:14:21+0200 [piqueserver.player#info] <Cornballs> hax
+2023-05-26T23:14:24+0200 [piqueserver.player#info] <BOT_anaconda> HAX
+2023-05-26T23:14:41+0200 [piqueserver.commands#info] <reagon> /y 
+2023-05-26T23:14:50+0200 [piqueserver.player#info] hagrid (IP 45.251.228.228, ID 28) entered the game!
+2023-05-26T23:14:56+0200 [piqueserver.player#info] <NAMAST3> welp gg
+2023-05-26T23:14:56+0200 [piqueserver.player#info] <r3algood> gg
+2023-05-26T23:15:00+0200 [piqueserver.player#info] <Born> gg
+2023-05-26T23:15:05+0200 [piqueserver.player#info] <CocoThunder> gg
+2023-05-26T23:15:06+0200 [piqueserver.server#info] advancing to map 'icecraft' (Game finished!) in 10 seconds
+2023-05-26T23:15:13+0200 [piqueserver.player#info] <Loadstar> gg
+2023-05-26T23:15:15+0200 [piqueserver.player#info] <aaron exia> gg
+2023-05-26T23:15:16+0200 [piqueserver.player#info] <Cornballs> hax
+2023-05-26T23:15:16+0200 [piqueserver.map#info] Loading map 'Icecraft'...
+2023-05-26T23:15:17+0200 [piqueserver.map#info] Map loaded successfully. (took 0.25s)
+2023-05-26T23:15:20+0200 [piqueserver.player#info] 175.120.228.90 disconnected
+2023-05-26T23:15:21+0200 [piqueserver.player#info] BOT_anaconda (IP 86.248.220.55, ID 5) entered the game!
+2023-05-26T23:15:21+0200 [piqueserver.player#info] Cornballs (IP 188.74.83.134, ID 24) entered the game!
+2023-05-26T23:15:22+0200 [piqueserver.player#info] Born (IP 5.248.64.172, ID 7) entered the game!
+2023-05-26T23:15:22+0200 [piqueserver.player#info] shadecool (IP 79.250.96.56, ID 26) entered the game!
+2023-05-26T23:15:24+0200 [piqueserver.player#info] 108.18.153.203 disconnected
+2023-05-26T23:15:25+0200 [piqueserver.player#info] nelsonk (IP 94.172.46.6, ID 14) entered the game!
+2023-05-26T23:15:25+0200 [piqueserver.player#info] Kackwurstesser (IP 91.45.167.174, ID 25) entered the game!
+2023-05-26T23:15:25+0200 [piqueserver.player#info] NAMAST3 (IP 109.87.164.122, ID 12) entered the game!
+2023-05-26T23:15:26+0200 [piqueserver.player#info] 24.239.73.255 disconnected
+2023-05-26T23:15:26+0200 [piqueserver.player#info] unko (IP 122.26.19.13, ID 30) entered the game!
+2023-05-26T23:15:27+0200 [piqueserver.player#info] vdsda (IP 217.83.158.234, ID 27) entered the game!
+2023-05-26T23:15:28+0200 [piqueserver.player#info] aaron exia (IP 66.60.28.175, ID 11) entered the game!
+2023-05-26T23:15:28+0200 [piqueserver.player#info] reagon (IP 70.121.81.50, ID 20) entered the game!
+2023-05-26T23:15:29+0200 [piqueserver.player#info] DEVIL (IP 176.165.215.188, ID 19) entered the game!
+2023-05-26T23:15:32+0200 [piqueserver.player#info] 71.87.186.196 disconnected
+2023-05-26T23:15:32+0200 [piqueserver.player#info] hagrid (IP 45.251.228.228, ID 28) entered the game!
+2023-05-26T23:15:33+0200 [piqueserver.player#info] Aron951 (IP 186.52.115.28, ID 2) entered the game!
+2023-05-26T23:15:33+0200 [piqueserver.player#info] CocoThunder (IP 69.133.3.91, ID 9) entered the game!
+2023-05-26T23:15:33+0200 [piqueserver.player#info] S2CIBOY (IP 92.45.205.209, ID 18) entered the game!
+2023-05-26T23:15:36+0200 [piqueserver.player#info] <NAMAST3> oh finally some maps i kinda like
+2023-05-26T23:15:41+0200 [piqueserver.player#info] meidd (IP 201.208.145.97, ID 17) entered the game!
+2023-05-26T23:15:42+0200 [piqueserver.player#info] 46.138.174.76 disconnected
+2023-05-26T23:15:51+0200 [piqueserver.player#info] <BOT_anaconda> HAXC
+2023-05-26T23:15:52+0200 [piqueserver.player#info] r3algood (IP 24.239.73.255, ID 29) entered the game!
+2023-05-26T23:15:55+0200 [piqueserver.player#info] <Cornballs> HEXC
+2023-05-26T23:15:57+0200 [piqueserver.player#info] <r3algood> lets build boys
+2023-05-26T23:16:02+0200 [piqueserver.player#info] <BOT_anaconda> ...
+2023-05-26T23:16:02+0200 [piqueserver.player#info] <Cornballs> ok boy
+2023-05-26T23:16:11+0200 [piqueserver.player#info] <NAMAST3> HAAGRIID
+2023-05-26T23:16:13+0200 [piqueserver.player#info] Rei (IP 108.18.153.203, ID 21) entered the game!
+2023-05-26T23:16:16+0200 [piqueserver.player#info] <BOT_anaconda> XD
+2023-05-26T23:16:24+0200 [piqueserver.player#info] Rei disconnected!
+2023-05-26T23:16:28+0200 [piqueserver.player#info] <NAMAST3> hows it in hogwartz?
+2023-05-26T23:16:29+0200 [piqueserver.commands#info] <hagrid> /votekick nelsonk ESP
+2023-05-26T23:16:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:16:31+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:16:42+0200 [piqueserver.player#info] <BOT_anaconda> HAXGRID
+2023-05-26T23:16:45+0200 [piqueserver.commands#info] <reagon> /y 
+2023-05-26T23:16:50+0200 [piqueserver.commands#info] <r3algood> /y 
+2023-05-26T23:17:12+0200 [piqueserver.commands#info] <hagrid> /cancel 
+2023-05-26T23:17:15+0200 [piqueserver.player#info] <NAMAST3> yep crap i can shoot teammates block loll
+2023-05-26T23:17:15+0200 [piqueserver.player#info] <nelsonk> WHAT
+2023-05-26T23:17:16+0200 [piqueserver.player#info] <nelsonk> WHY
+2023-05-26T23:17:19+0200 [piqueserver.player#info] <Kackwurstesser> my dear dudes, please help me build a stair
+2023-05-26T23:17:28+0200 [piqueserver.player#info] <nelsonk> what the hell did i do
+2023-05-26T23:17:29+0200 [piqueserver.player#info] <hagrid> because i want others to believe
+2023-05-26T23:17:31+0200 [piqueserver.player#info] <BOT_anaconda> OK BRO
+2023-05-26T23:17:31+0200 [piqueserver.player#info] <Cornballs> hax
+2023-05-26T23:17:36+0200 [piqueserver.player#info] <nelsonk> t....?????
+2023-05-26T23:17:37+0200 [piqueserver.player#info] Rei (IP 108.18.153.203, ID 21) entered the game!
+2023-05-26T23:18:01+0200 [piqueserver.player#info] <r3algood> enemry on right hill
+2023-05-26T23:18:46+0200 [piqueserver.player#info] <r3algood> nice building boys
+2023-05-26T23:18:53+0200 [piqueserver.player#info] <r3algood> lets finish it and defend!
+2023-05-26T23:19:00+0200 [piqueserver.player#info] <Cornballs> hax
+2023-05-26T23:19:11+0200 [piqueserver.player#info] <Born> Hi Corn
+2023-05-26T23:19:14+0200 [piqueserver.player#info] <Cornballs> Born
+2023-05-26T23:19:15+0200 [piqueserver.player#info] Rei disconnected!
+2023-05-26T23:19:20+0200 [piqueserver.player#info] <Cornballs> Borncalls
+2023-05-26T23:19:26+0200 [piqueserver.player#info] <Cornballs> my nemesis
+2023-05-26T23:19:36+0200 [piqueserver.player#info] <CocoThunder> hello corn
+2023-05-26T23:19:42+0200 [piqueserver.player#info] <Cornballs> yo
+2023-05-26T23:19:53+0200 [piqueserver.player#info] <Cornballs> cocopops
+2023-05-26T23:20:05+0200 [piqueserver.player#info] <r3algood> yo we need to defend tower
+2023-05-26T23:20:08+0200 [piqueserver.player#info] <NAMAST3> ooof
+2023-05-26T23:20:19+0200 [piqueserver.player#info] <NAMAST3> ooooh nasty hagrid
+2023-05-26T23:20:28+0200 [piqueserver.player#info] <NAMAST3> using forbidden magic of bullets i see
+2023-05-26T23:20:45+0200 [piqueserver.commands#info] <reagon> /votekick hagrid -> You must provide a reason for the votekick
+2023-05-26T23:20:49+0200 [piqueserver.player#info] <NAMAST3> harry potter with smg is kinda cool
+2023-05-26T23:20:52+0200 [piqueserver.commands#info] <reagon> /votekick hagrid obvious reasons
+2023-05-26T23:20:56+0200 [piqueserver.player#info] <Cornballs> shagrid
+2023-05-26T23:21:05+0200 [piqueserver.player#info] NeymarJr (IP 191.183.40.115, ID 0) entered the game!
+2023-05-26T23:21:07+0200 [piqueserver.player#info] <NAMAST3> lmao
+2023-05-26T23:21:11+0200 [piqueserver.player#info] <NAMAST3> dont vote 
+2023-05-26T23:21:13+0200 [piqueserver.player#info] <NAMAST3> XD
+2023-05-26T23:21:17+0200 [piqueserver.player#info] Xalien23X (IP 190.75.22.182, ID 21) entered the game!
+2023-05-26T23:21:24+0200 [piqueserver.player#info] <NAMAST3> it requires very small aount of ppol to kick
+2023-05-26T23:21:26+0200 [piqueserver.commands#info] <nelsonk> /n  -> Unknown command
+2023-05-26T23:21:30+0200 [piqueserver.player#info] <NAMAST3> amount* 
+2023-05-26T23:21:31+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:21:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:21:32+0200 [piqueserver.commands#info] <reagon> /y 
+2023-05-26T23:21:33+0200 [piqueserver.commands#info] <nelsonk> /n  -> Unknown command
+2023-05-26T23:21:55+0200 [piqueserver.player#info] <Cornballs> wat
+2023-05-26T23:22:32+0200 [piqueserver.player#info] <NAMAST3> oh outplayed
+2023-05-26T23:23:03+0200 [piqueserver.player#info] <Cornballs> hax
+2023-05-26T23:23:14+0200 [piqueserver.player#info] Deuce (IP 66.130.172.45, ID 15) entered the game!
+2023-05-26T23:23:30+0200 [piqueserver.player#info] CocoThunder disconnected!
+2023-05-26T23:23:38+0200 [piqueserver.player#info] <Cornballs> FOk
+2023-05-26T23:23:40+0200 [piqueserver.player#info] Cornballs disconnected!
+2023-05-26T23:23:54+0200 [piqueserver.player#info] <NAMAST3> i wasted all my bullets on trees
+2023-05-26T23:24:31+0200 [piqueserver.player#info] <Deuce> fuck niggers
+2023-05-26T23:24:32+0200 [piqueserver.player#info] Deuce disconnected!
+2023-05-26T23:24:33+0200 [piqueserver.player#info] Kackwurstesser disconnected!
+2023-05-26T23:24:43+0200 [piqueserver.player#info] porto_mavi (IP 88.226.160.19, ID 25) entered the game!
+2023-05-26T23:24:49+0200 [piqueserver.player#info] <reagon> typical deuce player
+2023-05-26T23:24:59+0200 [piqueserver.player#info] RG4L Pushi (IP 200.84.201.145, ID 15) entered the game!
+2023-05-26T23:25:27+0200 [piqueserver.player#info] NeymarJr disconnected!
+2023-05-26T23:25:37+0200 [piqueserver.player#info] BOT_anaconda disconnected!
+2023-05-26T23:25:40+0200 [piqueserver.player#info] porto_mavi disconnected!
+2023-05-26T23:26:06+0200 [piqueserver.player#info] <NAMAST3> noo
+2023-05-26T23:26:11+0200 [piqueserver.player#info] <NAMAST3> bruh i was helping
+2023-05-26T23:26:16+0200 [piqueserver.player#info] porto_mavi (IP 88.226.160.19, ID 25) entered the game!
+2023-05-26T23:26:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:26:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:26:53+0200 [piqueserver.player#info] <reagon> get those faggots out of the mountain so we can keep building
+2023-05-26T23:27:01+0200 [piqueserver.player#info] Xalien23X disconnected!
+2023-05-26T23:27:01+0200 [piqueserver.player#info] OnlyFans (IP 201.25.167.34, ID 5) entered the game!
+2023-05-26T23:28:05+0200 [piqueserver.commands#info] <aaron exia> /kill 
+2023-05-26T23:28:19+0200 [piqueserver.player#info] <r3algood> on our right side
+2023-05-26T23:28:58+0200 [piqueserver.player#info] <r3algood> defend our right side
+2023-05-26T23:29:08+0200 [piqueserver.player#info] <meidd> wtf
+2023-05-26T23:30:18+0200 [piqueserver.player#info] eZ00M (IP 77.37.153.76, ID 21) entered the game!
+2023-05-26T23:30:37+0200 [piqueserver.commands#info] <hagrid> /medikit  -> Unknown command
+2023-05-26T23:30:45+0200 [piqueserver.commands#info] <hagrid> /airstrike  -> Unknown command
+2023-05-26T23:30:48+0200 [piqueserver.commands#info] <hagrid> /help 
+2023-05-26T23:30:56+0200 [piqueserver.commands#info] <hagrid> /commands 
+2023-05-26T23:31:11+0200 [piqueserver.player#info] <r3algood> DEFEND OUR RIGHT SIDE WHILE I BUILD 
+2023-05-26T23:31:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:31:32+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:31:52+0200 [piqueserver.player#info] meidd disconnected!
+2023-05-26T23:31:57+0200 [piqueserver.player#info] <NAMAST3> awada kebaba
+2023-05-26T23:31:59+0200 [piqueserver.player#info] RG4L Pushi disconnected!
+2023-05-26T23:32:30+0200 [piqueserver.player#info] <reagon> oh fuck you
+2023-05-26T23:32:48+0200 [piqueserver.player#info] <hagrid> whats wrong
+2023-05-26T23:32:56+0200 [piqueserver.player#info] <reagon> you're a spawn camping cuck
+2023-05-26T23:33:04+0200 [piqueserver.player#info] <hagrid> listen
+2023-05-26T23:33:14+0200 [piqueserver.commands#info] <Born> /showrotation  -> hallway, bigasssideforts, alexandria, 1river2night, beaulieu-abbey-zombie, firestorm, blam, crossfire2, crossfire3, ellipsis, puzzleisland, forks, frog, goonassaultjapan, greencoast, hillsidev2, icecraft, islandpassage, jungle, leaves, leaves2, lime, mazemountain, mirage, oldfort, padesert, random4, roadisland, satellite
+2023-05-26T23:33:14+0200 [piqueserver.player#info] <reagon> I don't listen to cucks
+2023-05-26T23:33:17+0200 [piqueserver.player#info] <hagrid> if you cannot play good enough then you start accusing others
+2023-05-26T23:33:28+0200 [piqueserver.player#info] <nelsonk> note that there are more foxtrots
+2023-05-26T23:33:30+0200 [piqueserver.player#info] <hagrid> then keep moaning to yourself
+2023-05-26T23:33:38+0200 [piqueserver.player#info] <reagon> stop existing please
+2023-05-26T23:33:45+0200 [piqueserver.player#info] PROGAMER (IP 138.0.229.166, ID 15) entered the game!
+2023-05-26T23:34:24+0200 [piqueserver.player#info] eZ00M disconnected!
+2023-05-26T23:34:34+0200 [piqueserver.player#info] Loadstar (IP 175.120.228.90, ID 17) entered the game!
+2023-05-26T23:35:37+0200 [piqueserver.player#info] <Born> Left side 1
+2023-05-26T23:35:40+0200 [piqueserver.player#info] PROGAMER disconnected!
+2023-05-26T23:35:43+0200 [piqueserver.player#info] 138.0.229.166 disconnected
+2023-05-26T23:35:48+0200 [piqueserver.player#info] unko disconnected!
+2023-05-26T23:35:59+0200 [piqueserver.player#info] <OnlyFans> HAGRID U SUCK
+2023-05-26T23:36:08+0200 [piqueserver.player#info] <hagrid> xD
+2023-05-26T23:36:15+0200 [piqueserver.player#info] <Born> He knows :D
+2023-05-26T23:36:17+0200 [piqueserver.player#info] <reagon> he has to be a spawn camper cuck
+2023-05-26T23:36:19+0200 [piqueserver.player#info] 138.0.229.166 disconnected
+2023-05-26T23:36:32+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:36:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:36:33+0200 [piqueserver.player#info] <OnlyFans> IM GOING TO KILL U WITH A SPADE
+2023-05-26T23:36:44+0200 [piqueserver.player#info] <aaron exia> jump on thair tower
+2023-05-26T23:36:45+0200 [piqueserver.player#info] <hagrid> oops
+2023-05-26T23:36:49+0200 [piqueserver.player#info] <hagrid> someone already killed me
+2023-05-26T23:36:55+0200 [piqueserver.player#info] <OnlyFans> im coming for u
+2023-05-26T23:37:02+0200 [piqueserver.player#info] <hagrid> okie
+2023-05-26T23:37:36+0200 [piqueserver.player#info] <hagrid> wow
+2023-05-26T23:38:34+0200 [piqueserver.player#info] <Born> GG
+2023-05-26T23:38:37+0200 [piqueserver.server#info] advancing to map 'islandpassage' (Game finished!) in 10 seconds
+2023-05-26T23:38:43+0200 [piqueserver.player#info] <aaron exia> gg
+2023-05-26T23:38:45+0200 [piqueserver.player#info] vdsda disconnected!
+2023-05-26T23:38:45+0200 [piqueserver.player#info] <reagon> hardly
+2023-05-26T23:38:46+0200 [piqueserver.player#info] DEVIL disconnected!
+2023-05-26T23:38:47+0200 [piqueserver.map#info] Loading map 'islandpassage'...
+2023-05-26T23:38:47+0200 [piqueserver.map#info] Map loaded successfully. (took 0.24s)
+2023-05-26T23:38:48+0200 [piqueserver.player#info] r3algood (IP 24.239.73.255, ID 29) entered the game!
+2023-05-26T23:38:49+0200 [piqueserver.player#info] hagrid (IP 45.251.228.228, ID 28) entered the game!
+2023-05-26T23:38:49+0200 [piqueserver.player#info] Born (IP 5.248.64.172, ID 7) entered the game!
+2023-05-26T23:38:49+0200 [piqueserver.player#info] shadecool (IP 79.250.96.56, ID 26) entered the game!
+2023-05-26T23:38:50+0200 [piqueserver.player#info] 94.172.46.6 disconnected
+2023-05-26T23:38:50+0200 [piqueserver.player#info] 175.120.228.90 disconnected
+2023-05-26T23:38:51+0200 [piqueserver.player#info] reagon (IP 70.121.81.50, ID 20) entered the game!
+2023-05-26T23:38:51+0200 [piqueserver.player#info] porto_mavi (IP 88.226.160.19, ID 25) entered the game!
+2023-05-26T23:38:52+0200 [piqueserver.player#info] OnlyFans (IP 201.25.167.34, ID 5) entered the game!
+2023-05-26T23:38:52+0200 [piqueserver.player#info] aaron exia (IP 66.60.28.175, ID 11) entered the game!
+2023-05-26T23:38:54+0200 [piqueserver.player#info] S2CIBOY (IP 92.45.205.209, ID 18) entered the game!
+2023-05-26T23:39:07+0200 [piqueserver.player#info] Pionel Pessi  (IP 23.233.85.218, ID 14) entered the game!
+2023-05-26T23:39:18+0200 [piqueserver.player#info] NAMAST3 (IP 109.87.164.122, ID 12) entered the game!
+2023-05-26T23:39:24+0200 [piqueserver.player#info] 119.197.27.245 disconnected
+2023-05-26T23:39:31+0200 [piqueserver.player#info] 186.52.115.28 disconnected
+2023-05-26T23:39:38+0200 [piqueserver.player#info] porto_mavi disconnected!
+2023-05-26T23:39:42+0200 [piqueserver.player#info] <OnlyFans> HAGRID. IM IN TTHEY'RE TOWER JOIN ME
+2023-05-26T23:39:53+0200 [piqueserver.player#info] uyvx7ku6q (IP 67.185.98.81, ID 19) entered the game!
+2023-05-26T23:40:28+0200 [piqueserver.player#info] <hagrid> where are you onlyfans
+2023-05-26T23:40:44+0200 [piqueserver.player#info] <OnlyFans> IN YOUR TEAM
+2023-05-26T23:40:50+0200 [piqueserver.player#info] <OnlyFans> AAT THEIR SPAWN
+2023-05-26T23:41:02+0200 [piqueserver.player#info] DAVGAME (IP 181.33.143.135, ID 25) entered the game!
+2023-05-26T23:41:05+0200 [piqueserver.player#info] Pionel Pessi  disconnected!
+2023-05-26T23:41:23+0200 [piqueserver.player#info] hagrid disconnected!
+2023-05-26T23:41:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:41:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:41:48+0200 [piqueserver.player#info] <Born> You have 0 plans of building orege?
+2023-05-26T23:41:55+0200 [piqueserver.player#info] <NAMAST3> yes
+2023-05-26T23:41:56+0200 [piqueserver.player#info] S2CIBOY disconnected!
+2023-05-26T23:42:53+0200 [piqueserver.player#info] OnlyFans disconnected!
+2023-05-26T23:43:03+0200 [piqueserver.player#info] uyvx7ku6q disconnected!
+2023-05-26T23:43:18+0200 [piqueserver.player#info] zdechly osa (IP 213.134.181.193, ID 19) entered the game!
+2023-05-26T23:43:40+0200 [piqueserver.player#info] <Born> To little players left gg and bb
+2023-05-26T23:43:51+0200 [piqueserver.player#info] <zdechly osa> BB?
+2023-05-26T23:44:00+0200 [piqueserver.player#info] <Born> Bye Bye
+2023-05-26T23:44:03+0200 [piqueserver.player#info] <NAMAST3> booba
+2023-05-26T23:44:12+0200 [piqueserver.player#info] Born disconnected!
+2023-05-26T23:44:19+0200 [piqueserver.player#info] pixel (IP 201.230.81.73, ID 7) entered the game!
+2023-05-26T23:44:48+0200 [piqueserver.player#info] r3algood disconnected!
+2023-05-26T23:44:49+0200 [piqueserver.player#info] reagon disconnected!
+2023-05-26T23:44:56+0200 [piqueserver.player#info] <NAMAST3> bruh ppl leaving
+2023-05-26T23:45:05+0200 [piqueserver.player#info] aaron exia disconnected!
+2023-05-26T23:45:06+0200 [piqueserver.player#info] <NAMAST3> is aloha back or shng
+2023-05-26T23:45:10+0200 [piqueserver.player#info] <NAMAST3> something*
+2023-05-26T23:45:57+0200 [piqueserver.player#info] <NAMAST3> nooooooo
+2023-05-26T23:46:01+0200 [piqueserver.player#info] <NAMAST3> cockblocked
+2023-05-26T23:46:02+0200 [piqueserver.player#info] <zdechly osa> pixel wh
+2023-05-26T23:46:06+0200 [piqueserver.player#info] <zdechly osa> cheater
+2023-05-26T23:46:14+0200 [piqueserver.player#info] -SKY-zZzNaruZzZ (IP 66.231.77.54, ID 11) entered the game!
+2023-05-26T23:46:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:46:33+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:49:09+0200 [piqueserver.player#info] zdechly osa disconnected!
+2023-05-26T23:49:51+0200 [piqueserver.player#info] DAVGAME disconnected!
+2023-05-26T23:49:51+0200 [piqueserver.commands#info] <pixel> /m  -> Unknown command
+2023-05-26T23:49:54+0200 [piqueserver.player#info] <NAMAST3> ok im kinda boted gg
+2023-05-26T23:49:58+0200 [piqueserver.player#info] NAMAST3 disconnected!
+2023-05-26T23:50:54+0200 [piqueserver.player#info] -SKY-zZzNaruZzZ disconnected!
+2023-05-26T23:51:10+0200 [piqueserver.player#info] Kikas (IP 82.155.248.104, ID 11) entered the game!
+2023-05-26T23:51:33+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:51:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:51:57+0200 [piqueserver.player#info] pixel disconnected!
+2023-05-26T23:52:20+0200 [piqueserver.player#info] 2563 (IP 67.185.98.81, ID 7) entered the game!
+2023-05-26T23:53:47+0200 [piqueserver.player#info] <2563> rat gameplay
+2023-05-26T23:55:59+0200 [piqueserver.player#info] axe    j vnny   (IP 45.232.2.101, ID 25) entered the game!
+2023-05-26T23:56:34+0200 [piqueserver.bansubscribe#info] fetching bans from bansubscribe urls
+2023-05-26T23:56:34+0200 [piqueserver.bansubscribe#info] successfully updated bans from bansubscribe urls
+2023-05-26T23:56:40+0200 [piqueserver.player#info] DRP DTBS (IP 95.160.158.250, ID 12) entered the game!
+2023-05-26T23:57:05+0200 [piqueserver.player#info] zdechly osa (IP 213.134.181.193, ID 19) entered the game!
+2023-05-26T23:57:14+0200 [piqueserver.player#info] axe    j vnny   disconnected!
+2023-05-26T23:58:03+0200 [piqueserver.player#info] <2563> lots of crouching and looking around corners and dont forget about camping, yeah thats the best part
+2023-05-26T23:58:44+0200 [piqueserver.player#info] Dreamkilled (IP 62.192.252.79, ID 25) entered the game!
+2023-05-26T23:59:22+0200 [piqueserver.player#info] LAZY C4 CHARGE (IP 79.139.223.201, ID 20) entered the game!
